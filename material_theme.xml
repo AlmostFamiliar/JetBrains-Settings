@@ -1,0 +1,12 @@
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="isHighContrast" value="true" />
+    <option name="isWizardShown" value="true" />
+    <option name="pristineConfig" value="false" />
+    <option name="rightTreeIndent" value="6" />
+    <option name="accentColor" value="791534" />
+    <option name="selectedTheme" value="SOLARIZED_LIGHT" />
+    <option name="userId" value="6ae14ea0:16a2b797560:-8000" />
+    <option name="version" value="3.5.0.1" />
+  </component>
+</application>

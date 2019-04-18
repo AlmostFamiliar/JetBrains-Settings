@@ -1,0 +1,505 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="C:/KundenProjekte/ZPUE/enzian-talend/GsvtMitgliedschaften/src/main/java/de/gema/adesso/gsvtmitgliedschaften/model/Anspruch.java" timestamp="1555570941873" />
+      <file name="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/data/tables/OfAuskunftPosition.java" timestamp="1555514331753">
+        <mark key="'" line="8" column="73" />
+        <mark key="[" line="17" column="33" />
+        <mark key="]" line="17" column="51" />
+        <mark key="^" line="17" column="51" />
+        <mark key="." line="17" column="51" />
+      </file>
+      <file name="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/rest/EnaioRestClient.java" timestamp="1555572546771">
+        <mark key="'" line="46" column="54" />
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
+        <mark key="^" line="25" column="23" />
+      </file>
+      <file name="/a.dummy" timestamp="1555573124756">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/KundenProjekte/ZPUE/enzian/service.sapmessageconverter/src/main/java/de/gema/zpue/sapmessageconverter/enums/Operation.java" timestamp="1554447358338">
+        <mark key="'" line="7" column="17" />
+        <mark key="[" line="31" column="19" />
+        <mark key="]" line="31" column="20" />
+        <mark key="." line="31" column="20" />
+        <mark key="^" line="11" column="13" />
+      </file>
+      <file name="C:/KundenProjekte/ZPUE/enzian/service.sapmessageconverter/src/main/java/de/gema/zpue/sapmessageconverter/logic/RechnungsConverterService.java" timestamp="1554448523566">
+        <mark key="'" line="53" column="88" />
+        <mark key="[" line="63" column="43" />
+        <mark key="]" line="63" column="43" />
+        <mark key="^" line="109" column="40" />
+        <mark key="." line="63" column="43" />
+      </file>
+      <file name="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/resources/application.properties" timestamp="1555574463758">
+        <mark key="[" line="1" column="6" />
+        <mark key="]" line="1" column="42" />
+        <mark key="." line="1" column="42" />
+        <mark key="^" line="1" column="42" />
+      </file>
+      <file name="C:/KundenProjekte/ZPUE/enzian/service.sapmigration/src/main/java/de/gema/zpue/sapmigration/communication/ProcessMessageService.java" timestamp="1554446569772">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="30" column="48" />
+        <mark key="]" line="31" column="3" />
+        <mark key="^" line="31" column="3" />
+        <mark key="." line="31" column="3" />
+      </file>
+      <file name="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/utils/On.java" timestamp="1555514800743">
+        <mark key="'" line="21" column="18" />
+        <mark key="[" line="21" column="15" />
+        <mark key="]" line="21" column="15" />
+        <mark key="^" line="12" column="41" />
+        <mark key="." line="21" column="15" />
+      </file>
+      <file name="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/data/tables/Marken.java" timestamp="1555518346248">
+        <mark key="'" line="7" column="7" />
+        <mark key="[" line="14" column="20" />
+        <mark key="]" line="14" column="38" />
+        <mark key="." line="14" column="38" />
+        <mark key="^" line="14" column="38" />
+      </file>
+      <file name="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/data/tables/ZpueAuskunft.java" timestamp="1555520537559">
+        <mark key="'" line="8" column="61" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="28" />
+        <mark key="^" line="20" column="1" />
+        <mark key="." line="9" column="0" />
+      </file>
+      <file name="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/utils/DateUtils.java" timestamp="1555519009643">
+        <mark key="'" line="16" column="7" />
+        <mark key="[" line="40" column="15" />
+        <mark key="]" line="40" column="17" />
+        <mark key="." line="40" column="17" />
+        <mark key="^" line="40" column="17" />
+      </file>
+      <file name="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/logic/Flow.java" timestamp="1555574335895">
+        <mark key="'" line="63" column="77" />
+        <mark key="[" line="63" column="78" />
+        <mark key="]" line="64" column="7" />
+        <mark key="." line="64" column="7" />
+        <mark key="^" line="64" column="7" />
+      </file>
+      <file name="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/input/CsvParser.java" timestamp="1555571213190">
+        <mark key="'" line="15" column="0" />
+        <mark key="[" line="24" column="14" />
+        <mark key="]" line="24" column="17" />
+        <mark key="." line="24" column="17" />
+        <mark key="^" line="24" column="17" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1555574187763">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/data/tables/Produkte.java" timestamp="1555514344030">
+        <mark key="'" line="8" column="53" />
+        <mark key="[" line="15" column="23" />
+        <mark key="]" line="15" column="41" />
+        <mark key="^" line="15" column="41" />
+        <mark key="." line="15" column="41" />
+      </file>
+      <file name="C:/KundenProjekte/ZPUE/enzian-talend/GsvtMitgliedschaften/src/main/java/de/gema/adesso/gsvtmitgliedschaften/model/GsvtMitgliedschaften.java" timestamp="1554732756764">
+        <mark key="'" line="7" column="0" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="3" />
+        <mark key="^" line="6" column="3" />
+        <mark key="." line="6" column="3" />
+      </file>
+      <file name="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/data/output/EnaioAuskunft.java" timestamp="1555520515698">
+        <mark key="'" line="2" column="13" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
+      <file name="C:/KundenProjekte/ZPUE/enzian-talend/GsvtMitgliedschaften/src/main/java/de/gema/adesso/gsvtmitgliedschaften/model/AnspruchData.java" timestamp="1555572487741" />
+      <file name="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/data/tables/ZpuePartner.java" timestamp="1555514760614">
+        <mark key="'" line="7" column="59" />
+        <mark key="[" line="7" column="59" />
+        <mark key="]" line="7" column="59" />
+        <mark key="^" line="7" column="59" />
+        <mark key="." line="7" column="59" />
+      </file>
+      <file name="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/data/tables/OfAuskunft.java" timestamp="1555514228125">
+        <mark key="'" line="8" column="50" />
+        <mark key="[" line="16" column="43" />
+        <mark key="]" line="16" column="44" />
+        <mark key="^" line="16" column="34" />
+        <mark key="." line="16" column="44" />
+      </file>
+      <file name="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/data/tables/ProdukteAltNeu.java" timestamp="1555514349933">
+        <mark key="'" line="8" column="65" />
+        <mark key="[" line="14" column="29" />
+        <mark key="]" line="14" column="47" />
+        <mark key="." line="14" column="47" />
+        <mark key="^" line="14" column="47" />
+      </file>
+      <file name="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/data/JoinFactory.java" timestamp="1555514968428">
+        <mark key="[" line="2" column="4" />
+        <mark key="]" line="3" column="4" />
+        <mark key="^" line="3" column="4" />
+        <mark key="." line="3" column="4" />
+      </file>
+      <file name="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/mapper/Table.java" timestamp="1555521154668">
+        <mark key="[" line="15" column="26" />
+        <mark key="]" line="15" column="24" />
+        <mark key="^" line="15" column="23" />
+        <mark key="." line="15" column="24" />
+      </file>
+      <file name="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/data/model/EnaioAnspruch.java" timestamp="1555572768879">
+        <mark key="[" line="8" column="27" />
+        <mark key="]" line="14" column="31" />
+        <mark key="." line="14" column="31" />
+        <mark key="^" line="14" column="31" />
+      </file>
+      <file name="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/mapper/Mapper.java" timestamp="1555522685391">
+        <mark key="[" line="32" column="33" />
+        <mark key="]" line="32" column="35" />
+        <mark key="." line="32" column="35" />
+        <mark key="^" line="32" column="35" />
+      </file>
+      <file name="C:/KundenProjekte/ZPUE/enzian/shared/src/main/java/de/gema/zpue/shared/konstanten/sap/Operation.java" timestamp="1554447902217">
+        <mark key="[" line="8" column="14" />
+      </file>
+      <file name="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/data/tables/ZpueAuskunftPos.java" timestamp="1555514372054">
+        <mark key="'" line="8" column="67" />
+        <mark key="[" line="21" column="30" />
+        <mark key="]" line="21" column="48" />
+        <mark key="^" line="21" column="48" />
+        <mark key="." line="21" column="48" />
+      </file>
+      <file name="/Clipboard.txt" timestamp="1555499169044">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/fragment.java" timestamp="1555574187757">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/data/tables/StephanAuskPosTarif.java" timestamp="1555514356999">
+        <mark key="'" line="8" column="75" />
+        <mark key="[" line="18" column="34" />
+        <mark key="]" line="18" column="52" />
+        <mark key="^" line="18" column="52" />
+        <mark key="." line="18" column="52" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="63" column="54" filename="C:/KundenProjekte/ZPUE/enzian/service.sapmigration/src/main/java/de/gema/zpue/sapmigration/communication/ProcessMessageService.java" />
+      <jump line="95" column="0" filename="C:/KundenProjekte/ZPUE/enzian/service.sapmigration/src/main/java/de/gema/zpue/sapmigration/communication/ProcessMessageService.java" />
+      <jump line="0" column="0" filename="C:/KundenProjekte/ZPUE/enzian/service.sapmigration/src/main/java/de/gema/zpue/sapmigration/communication/ProcessMessageService.java" />
+      <jump line="130" column="36" filename="C:/KundenProjekte/ZPUE/enzian/service.sapmigration/src/test/java/de/gema/zpue/sapmigration/communication/ProcessMessageServiceTest.java" />
+      <jump line="147" column="61" filename="C:/KundenProjekte/ZPUE/enzian/service.sapmigration/src/test/java/de/gema/zpue/sapmigration/communication/ProcessMessageServiceTest.java" />
+      <jump line="157" column="0" filename="C:/KundenProjekte/ZPUE/enzian/service.sapmigration/src/test/java/de/gema/zpue/sapmigration/communication/ProcessMessageServiceTest.java" />
+      <jump line="140" column="0" filename="C:/KundenProjekte/ZPUE/enzian/service.sapmigration/src/test/java/de/gema/zpue/sapmigration/communication/ProcessMessageServiceTest.java" />
+      <jump line="10" column="0" filename="C:/KundenProjekte/ZPUE/enzian/service.sapmigration/src/test/java/de/gema/zpue/sapmigration/api/EnaioListenerTest.java" />
+      <jump line="66" column="8" filename="C:/KundenProjekte/ZPUE/enzian/service.sapmessageconverter/src/main/java/de/gema/zpue/sapmessageconverter/logic/RechnungsConverterService.java" />
+      <jump line="53" column="88" filename="C:/KundenProjekte/ZPUE/enzian/service.sapmessageconverter/src/main/java/de/gema/zpue/sapmessageconverter/logic/RechnungsConverterService.java" />
+      <jump line="7" column="17" filename="C:/KundenProjekte/ZPUE/enzian/service.sapmessageconverter/src/main/java/de/gema/zpue/sapmessageconverter/enums/Operation.java" />
+      <jump line="6" column="0" filename="C:/KundenProjekte/ZPUE/GsvtMitgliedschaften/src/main/java/de/gema/adesso/gsvtmitgliedschaften/input/Parser.java" />
+      <jump line="7" column="0" filename="C:/KundenProjekte/ZPUE/enzian-talend/GsvtMitgliedschaften/src/main/java/de/gema/adesso/gsvtmitgliedschaften/model/GsvtMitgliedschaften.java" />
+      <jump line="12" column="8" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/utils/On.java" />
+      <jump line="25" column="57" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/mapper/Mapper.java" />
+      <jump line="27" column="102" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/mapper/Mapper.java" />
+      <jump line="53" column="0" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/input/CsvParser.java" />
+      <jump line="106" column="16" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/input/CsvParser.java" />
+      <jump line="0" column="0" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/input/CsvParser.java" />
+      <jump line="12" column="19" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/data/tables/ZpueAuskunftPos.java" />
+      <jump line="109" column="54" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/input/CsvParser.java" />
+      <jump line="128" column="43" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/input/CsvParser.java" />
+      <jump line="15" column="48" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/utils/On.java" />
+      <jump line="31" column="31" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/mapper/Mapper.java" />
+      <jump line="34" column="11" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/mapper/Mapper.java" />
+      <jump line="38" column="11" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/mapper/Mapper.java" />
+      <jump line="54" column="36" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/input/CsvParser.java" />
+      <jump line="57" column="38" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/input/CsvParser.java" />
+      <jump line="23" column="6" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/mapper/Mapper.java" />
+      <jump line="4" column="4" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/data/tables/ProdukteAltNeu.java" />
+      <jump line="42" column="77" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/mapper/Mapper.java" />
+      <jump line="21" column="60" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/mapper/Mapper.java" />
+      <jump line="26" column="19" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/mapper/Mapper.java" />
+      <jump line="20" column="18" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/utils/On.java" />
+      <jump line="9" column="0" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/data/tables/Marken.java" />
+      <jump line="8" column="0" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/data/tables/Marken.java" />
+      <jump line="0" column="0" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/data/tables/Marken.java" />
+      <jump line="6" column="51" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/data/tables/Marken.java" />
+      <jump line="10" column="27" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/data/tables/OfAuskunft.java" />
+      <jump line="12" column="0" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/data/tables/OfAuskunft.java" />
+      <jump line="0" column="0" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/data/tables/OfAuskunft.java" />
+      <jump line="7" column="50" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/data/tables/OfAuskunft.java" />
+      <jump line="0" column="0" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/data/tables/OfAuskunftPosition.java" />
+      <jump line="7" column="73" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/data/tables/OfAuskunftPosition.java" />
+      <jump line="11" column="0" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/data/tables/Produkte.java" />
+      <jump line="0" column="0" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/data/tables/Produkte.java" />
+      <jump line="7" column="53" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/data/tables/Produkte.java" />
+      <jump line="11" column="0" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/data/tables/ProdukteAltNeu.java" />
+      <jump line="0" column="0" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/data/tables/ProdukteAltNeu.java" />
+      <jump line="7" column="65" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/data/tables/ProdukteAltNeu.java" />
+      <jump line="14" column="0" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/data/tables/StephanAuskPosTarif.java" />
+      <jump line="0" column="0" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/data/tables/StephanAuskPosTarif.java" />
+      <jump line="7" column="75" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/data/tables/StephanAuskPosTarif.java" />
+      <jump line="13" column="0" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/data/tables/ZpueAuskunft.java" />
+      <jump line="0" column="0" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/data/tables/ZpueAuskunft.java" />
+      <jump line="7" column="61" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/data/tables/ZpueAuskunft.java" />
+      <jump line="16" column="29" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/data/tables/ZpueAuskunftPos.java" />
+      <jump line="0" column="0" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/data/tables/ZpueAuskunftPos.java" />
+      <jump line="7" column="67" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/data/tables/ZpueAuskunftPos.java" />
+      <jump line="11" column="0" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/data/tables/ZpuePartner.java" />
+      <jump line="13" column="44" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/data/tables/ZpuePartner.java" />
+      <jump line="0" column="0" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/data/tables/ZpuePartner.java" />
+      <jump line="7" column="59" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/data/tables/ZpuePartner.java" />
+      <jump line="28" column="115" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/mapper/Mapper.java" />
+      <jump line="18" column="0" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/mapper/Mapper.java" />
+      <jump line="47" column="38" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/mapper/Mapper.java" />
+      <jump line="50" column="55" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/mapper/Mapper.java" />
+      <jump line="19" column="0" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/mapper/Mapper.java" />
+      <jump line="24" column="0" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/mapper/Mapper.java" />
+      <jump line="33" column="0" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/mapper/Mapper.java" />
+      <jump line="36" column="0" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/mapper/Mapper.java" />
+      <jump line="41" column="0" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/mapper/Mapper.java" />
+      <jump line="55" column="0" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/mapper/Mapper.java" />
+      <jump line="59" column="0" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/mapper/Mapper.java" />
+      <jump line="51" column="35" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/mapper/Mapper.java" />
+      <jump line="0" column="0" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/mapper/Mapper.java" />
+      <jump line="61" column="0" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/mapper/Mapper.java" />
+      <jump line="62" column="0" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/mapper/Mapper.java" />
+      <jump line="54" column="4" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/mapper/Mapper.java" />
+      <jump line="30" column="0" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/mapper/Mapper.java" />
+      <jump line="17" column="0" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/mapper/Mapper.java" />
+      <jump line="56" column="4" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/mapper/Mapper.java" />
+      <jump line="57" column="0" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/mapper/Mapper.java" />
+      <jump line="29" column="58" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/mapper/Mapper.java" />
+      <jump line="20" column="58" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/mapper/Mapper.java" />
+      <jump line="39" column="44" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/input/CsvParser.java" />
+      <jump line="111" column="21" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/input/CsvParser.java" />
+      <jump line="58" column="90" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/mapper/Mapper.java" />
+      <jump line="2" column="13" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/data/output/EnaioAuskunft.java" />
+      <jump line="7" column="7" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/data/tables/Marken.java" />
+      <jump line="16" column="7" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/utils/DateUtils.java" />
+      <jump line="78" column="56" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/input/CsvParser.java" />
+      <jump line="60" column="0" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/mapper/Mapper.java" />
+      <jump line="49" column="8" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/logic/Flow.java" />
+      <jump line="13" column="0" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/rest/EnaioRestClient.java" />
+      <jump line="118" column="25" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/input/CsvParser.java" />
+      <jump line="15" column="0" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/input/CsvParser.java" />
+      <jump line="46" column="54" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/rest/EnaioRestClient.java" />
+      <jump line="53" column="19" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/logic/Flow.java" />
+      <jump line="63" column="77" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/logic/Flow.java" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="4">
+        <text>://enaiodms4001.entwicklunggema.local:8080</text>
+      </register>
+      <register name="i" type="4">
+        <keys>
+          <key char="108" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="37" mods="0" />
+          <key char="65535" code="9" mods="0" />
+        </keys>
+      </register>
+      <register name="-" type="4">
+        <text>://enaiodms4001.entwicklunggema.local:8080</text>
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">JiY=</text>
+      </register>
+      <register name="0" type="4">
+        <text>enaioAuskunft.getGesamtbis()</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBPZkF1c2t1bmZ0IAo=</text>
+      </register>
+      <register name="q" type="4">
+        <keys>
+          <key char="105" code="0" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="118" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="83" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="103" code="0" mods="0" />
+          <key char="59" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="65535" code="27" mods="0" />
+        </keys>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmVzYwo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBmaW5hbCBMaXN0PEVuYWlvQXVza3VuZnQ+IGVuYWlvRmF1c0xpc3RlID0gbmV3IEFycmF5TGlzdDw+KCk7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="t" type="4">
+        <keys>
+          <key char="105" code="0" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="118" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="83" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="103" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="59" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+        </keys>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IEFycmF5TGlzdDw+KEFycmF5cy5hc0xpc3QoYW5zcHJ1ZWNoZSkpO2RkCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAoYW5zcHJ1ZWNoZSA9PSBudWxsIHx8IGFuc3BydWVjaGUubGVuZ3RoID09IDApIHsKICAgICAgICAgICAgdGhyb3cgbmV3IElsbGVnYWxTdGF0ZUV4Y2VwdGlvbigiQ291bGQgbm90IGdldCBhbnkgQW5zcHJ1Y2ggZnJvbSBlbmFpby4gQWJvcnQhIik7CiAgICAgICAgfQo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAoYW5zcHJ1ZWNoZSA9PSBudWxsIHx8IGFuc3BydWVjaGUubGVuZ3RoID09IDApIHsKICAgICAgICAgICAgdGhyb3cgbmV3IElsbGVnYWxTdGF0ZUV4Y2VwdGlvbigiQ291bGQgbm90IGdldCBhbnkgQW5zcHJ1Y2ggZnJvbSBlbmFpby4gQWJvcnQhIik7Cg==</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+    </registers>
+    <search>
+      <last-search encoding="base64">JiY=</last-search>
+      <last-offset />
+      <last-pattern encoding="base64">JiY=</last-pattern>
+      <last-replace>~</last-replace>
+      <last-substitute>=</last-substitute>
+      <last-dir>1</last-dir>
+      <show-last>true</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry>stephan</entry>
+        <entry>Stephan</entry>
+        <entry>stephan\c</entry>
+        <entry>Pos</entry>
+        <entry>pos\c</entry>
+        <entry>]</entry>
+        <entry>static</entry>
+        <entry>AuskunftPos</entry>
+        <entry>{</entry>
+        <entry>=</entry>
+        <entry>class</entry>
+        <entry>set hls?</entry>
+        <entry>set all</entry>
+        <entry>public</entry>
+        <entry>auskunft</entry>
+        <entry>new</entry>
+        <entry>ZpueAusk</entry>
+        <entry encoding="base64">XDx0aGlzXD4=</entry>
+        <entry>;</entry>
+        <entry encoding="base64">JiY=</entry>
+      </history-search>
+      <history-cmd>
+        <entry>set relativenumber</entry>
+        <entry>set number relativenumber</entry>
+        <entry>registers</entry>
+        <entry>jumps</entry>
+        <entry>set showmode</entry>
+        <entry>set highlight</entry>
+        <entry>set highlight?</entry>
+        <entry>set hls?</entry>
+        <entry>set hls=true</entry>
+        <entry>set nohlsearch=false</entry>
+        <entry>set nohlsearch=true</entry>
+        <entry>set all</entry>
+        <entry>hlsearch</entry>
+        <entry>set hlsearch</entry>
+        <entry>Mapper</entry>
+        <entry>b Mapper</entry>
+        <entry>qw</entry>
+        <entry>wq</entry>
+        <entry>q</entry>
+        <entry>w</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed Y</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed Q</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed U</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed I</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed T</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>
