@@ -10,6 +10,13 @@
         <mark key="^" line="17" column="51" />
         <mark key="." line="17" column="51" />
       </file>
+      <file name="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/rest/EnaioRestClient.java" timestamp="1555590900345">
+        <mark key="'" line="19" column="0" />
+        <mark key="[" line="71" column="19" />
+        <mark key="]" line="71" column="23" />
+        <mark key="." line="71" column="23" />
+        <mark key="^" line="71" column="23" />
+      </file>
       <file name="/a.dummy" timestamp="1555587041817">
         <mark key="[" line="0" column="0" />
       </file>
@@ -95,12 +102,11 @@
         <mark key="[" line="18" column="0" />
         <mark key="]" line="21" column="32" />
       </file>
-      <file name="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/logic/Flow.java" timestamp="1555586756368">
-        <mark key="'" line="51" column="4" />
-        <mark key="[" line="54" column="22" />
-        <mark key="]" line="54" column="33" />
-        <mark key="." line="54" column="33" />
-        <mark key="^" line="54" column="33" />
+      <file name="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/logic/Flow.java" timestamp="1555591043624">
+        <mark key="[" line="78" column="24" />
+        <mark key="]" line="78" column="24" />
+        <mark key="^" line="78" column="24" />
+        <mark key="." line="78" column="24" />
       </file>
       <file name="C:/Projekte/tmp789/src/Main.java" timestamp="1555586581495">
         <mark key="[" line="0" column="19" />
@@ -228,7 +234,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="4" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/data/tables/ProdukteAltNeu.java" />
       <jump line="42" column="77" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/mapper/Mapper.java" />
       <jump line="21" column="60" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/mapper/Mapper.java" />
       <jump line="26" column="19" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/mapper/Mapper.java" />
@@ -328,10 +333,11 @@
       <jump line="148" column="28" filename="/auskunftssplit-effective-pom.xml" />
       <jump line="38" column="32" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/mylogs.log" />
       <jump line="0" column="0" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/mylogs.log" />
+      <jump line="74" column="67" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/logic/Flow.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">bG9nNGoucm9vdExvZ2dlcj1FUlJPUiwgU1RET1VULCBmaWxlCg==</text>
+      <register name="&quot;" type="4">
+        <text>Faus importiert</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -345,13 +351,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>ERROR</text>
+        <text>Faus importiert</text>
       </register>
       <register name="/" type="4">
         <text>logback</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">bG9nNGoucm9vdExvZ2dlcj1FUlJPUiwgU1RET1VULCBmaWxlCg==</text>
+        <text encoding="base64">ICAgICAgICBsb2cuaW5mbygiRXMgd3VyZGVuIGluc2dlc2FtdCB7fSBGYXVzIGltcG9ydGllcnQiLCBjb3VudGVyKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">bG9nNGoucm9vdExvZ2dlcj1FUlJPUiwgU1RET1VULCBmaWxlCg==</text>
