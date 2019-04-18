@@ -74,12 +74,12 @@
         <mark key="^" line="20" column="1" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/utils/DateUtils.java" timestamp="1555519009643">
-        <mark key="'" line="16" column="7" />
-        <mark key="[" line="40" column="15" />
-        <mark key="]" line="40" column="17" />
-        <mark key="." line="40" column="17" />
-        <mark key="^" line="40" column="17" />
+      <file name="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/utils/DateUtils.java" timestamp="1555582762008">
+        <mark key="'" line="20" column="7" />
+        <mark key="[" line="21" column="67" />
+        <mark key="]" line="21" column="73" />
+        <mark key="." line="21" column="73" />
+        <mark key="^" line="21" column="73" />
       </file>
       <file name="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/rest/Config.java" timestamp="1555577404743">
         <mark key="'" line="15" column="0" />
@@ -93,7 +93,7 @@
         <mark key="." line="54" column="33" />
         <mark key="^" line="54" column="33" />
       </file>
-      <file name="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/input/CsvParser.java" timestamp="1555580377461">
+      <file name="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/input/CsvParser.java" timestamp="1555582431837">
         <mark key="'" line="178" column="49" />
         <mark key="[" line="58" column="74" />
         <mark key="]" line="58" column="77" />
@@ -117,12 +117,6 @@
         <mark key="^" line="6" column="3" />
         <mark key="." line="6" column="3" />
       </file>
-      <file name="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/data/output/EnaioAuskunft.java" timestamp="1555520515698">
-        <mark key="'" line="2" column="13" />
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-      </file>
       <file name="C:/KundenProjekte/ZPUE/enzian-talend/GsvtMitgliedschaften/src/main/java/de/gema/adesso/gsvtmitgliedschaften/model/AnspruchData.java" timestamp="1555572487741" />
       <file name="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/data/tables/ZpuePartner.java" timestamp="1555514760614">
         <mark key="'" line="7" column="59" />
@@ -131,7 +125,7 @@
         <mark key="^" line="7" column="59" />
         <mark key="." line="7" column="59" />
       </file>
-      <file name="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/data/tables/OfAuskunft.java" timestamp="1555514228125">
+      <file name="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/data/tables/OfAuskunft.java" timestamp="1555582412123">
         <mark key="'" line="8" column="50" />
         <mark key="[" line="16" column="43" />
         <mark key="]" line="16" column="44" />
@@ -163,12 +157,12 @@
         <mark key="." line="14" column="31" />
         <mark key="^" line="14" column="31" />
       </file>
-      <file name="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/mapper/Mapper.java" timestamp="1555580744080">
+      <file name="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/mapper/Mapper.java" timestamp="1555581924709">
         <mark key="'" line="22" column="38" />
-        <mark key="[" line="19" column="59" />
-        <mark key="]" line="19" column="59" />
+        <mark key="[" line="62" column="98" />
+        <mark key="]" line="62" column="98" />
         <mark key="^" line="28" column="15" />
-        <mark key="." line="19" column="59" />
+        <mark key="." line="62" column="98" />
       </file>
       <file name="C:/KundenProjekte/ZPUE/enzian/shared/src/main/java/de/gema/zpue/shared/konstanten/sap/Operation.java" timestamp="1554447902217">
         <mark key="[" line="8" column="14" />
@@ -301,7 +295,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>/</text>
+        <text>ProdVersId</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -315,7 +309,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>ProdVersId</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">LT4=</text>
