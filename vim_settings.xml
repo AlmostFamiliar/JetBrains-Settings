@@ -20,11 +20,11 @@
       <file name="/a.dummy" timestamp="1555587041817">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/resources/log4j.properties" timestamp="1555589967852">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="0" column="29" />
+      <file name="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/resources/log4j.properties" timestamp="1555592428507">
+        <mark key="[" line="9" column="75" />
+        <mark key="]" line="9" column="79" />
+        <mark key="." line="9" column="79" />
+        <mark key="^" line="9" column="79" />
       </file>
       <file name="C:/KundenProjekte/ZPUE/enzian/service.sapmessageconverter/src/main/java/de/gema/zpue/sapmessageconverter/enums/Operation.java" timestamp="1554447358338">
         <mark key="'" line="7" column="17" />
@@ -337,7 +337,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Faus importiert</text>
+        <text>30.30C</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -351,7 +351,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Faus importiert</text>
+        <text>30.30C</text>
       </register>
       <register name="/" type="4">
         <text>logback</text>
