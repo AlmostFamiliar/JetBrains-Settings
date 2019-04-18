@@ -16,7 +16,7 @@
         <mark key="]" line="56" column="38" />
         <mark key="." line="56" column="38" />
       </file>
-      <file name="/a.dummy" timestamp="1555578125853">
+      <file name="/a.dummy" timestamp="1555587041817">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/KundenProjekte/ZPUE/enzian/service.sapmessageconverter/src/main/java/de/gema/zpue/sapmessageconverter/enums/Operation.java" timestamp="1554447358338">
@@ -39,7 +39,11 @@
         <mark key="." line="1" column="51" />
         <mark key="^" line="1" column="51" />
       </file>
-      <file name="C:/Projekte/tmp789/src/de/adesso/strasser/peter/main/Main.java" timestamp="1555586742097" />
+      <file name="C:/Projekte/tmp789/src/de/adesso/strasser/peter/main/Main.java" timestamp="1555587085953">
+        <mark key="[" line="6" column="13" />
+        <mark key="]" line="6" column="13" />
+        <mark key="." line="6" column="13" />
+      </file>
       <file name="C:/KundenProjekte/ZPUE/enzian/service.sapmigration/src/main/java/de/gema/zpue/sapmigration/communication/ProcessMessageService.java" timestamp="1554446569772">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="30" column="48" />
@@ -86,7 +90,7 @@
         <mark key="[" line="18" column="0" />
         <mark key="]" line="21" column="32" />
       </file>
-      <file name="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/logic/Flow.java" timestamp="1555580049835">
+      <file name="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/logic/Flow.java" timestamp="1555586756368">
         <mark key="'" line="51" column="4" />
         <mark key="[" line="54" column="22" />
         <mark key="]" line="54" column="33" />
@@ -97,6 +101,11 @@
         <mark key="[" line="0" column="19" />
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
+      </file>
+      <file name="C:/Projekte/tmp789/src/de/adesso/strasser/peter/main/Car.java" timestamp="1555587072008">
+        <mark key="[" line="2" column="31" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/input/CsvParser.java" timestamp="1555582431837">
         <mark key="'" line="178" column="49" />
@@ -135,6 +144,12 @@
         <mark key="]" line="16" column="44" />
         <mark key="^" line="16" column="34" />
         <mark key="." line="16" column="44" />
+      </file>
+      <file name="C:/Projekte/tmp789/src/de/adesso/strasser/peter/main/MainTest.java" timestamp="1555587040145">
+        <mark key="[" line="4" column="43" />
+        <mark key="]" line="5" column="32" />
+        <mark key="^" line="5" column="32" />
+        <mark key="." line="5" column="32" />
       </file>
       <file name="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/data/tables/ProdukteAltNeu.java" timestamp="1555514349933">
         <mark key="'" line="8" column="65" />
@@ -181,7 +196,7 @@
       <file name="/Clipboard.txt" timestamp="1555499169044">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1555580686845">
+      <file name="/fragment.java" timestamp="1555586909531">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
         <mark key="^" line="0" column="5" />
@@ -298,8 +313,11 @@
       <jump line="22" column="38" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/mapper/Mapper.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzb3V0Cg==</text>
+      <register name="&quot;" type="4">
+        <text>m.out.println(&quot;Hello World!&quot;);
+        String var = &quot;Hallo&quot;;
+        int i = 123;
+        System.out.println(var + i);</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -321,8 +339,11 @@
       <register name="0" type="2">
         <text encoding="base64">aG9zdDogaHR0cDovL2VuYWlvZG1zNDAwMi5lbnR3aWNrbHVuZ2dlbWEubG9jYWw6ODA4MAo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzb3V0Cg==</text>
+      <register name="1" type="4">
+        <text>m.out.println(&quot;Hello World!&quot;);
+        String var = &quot;Hallo&quot;;
+        int i = 123;
+        System.out.println(var + i);</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -348,13 +369,13 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICBwdWJsaWMgc3RhdGljIHZvaWQgbWFpbihTdHJpbmdbXSBhcmdzKSB7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJIZWxsbyBXb3JsZCEiKTsKICAgIH0K</text>
+        <text encoding="base64">QERhdGEK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzb3V0Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">CiAgICBwdWJsaWMgc3RhdGljIHZvaWQgbWFpbihTdHJpbmcuLi4gYXJncyl7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJoYWxsbyIpOwogICAgfQ==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmaW5hbCBpbnQgdHJhaWxpbmdZZWFyTGVuID0gNTsKICAgICAgICAgICAgICAgICAgICBpZiAoaW5mb1NwbGl0TnVtYmVyICE9IG51bGwgJiYgaW5mb1NwbGl0TnVtYmVyLmxlbmd0aCgpID4gdHJhaWxpbmdZZWFyTGVuKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIGluZm9TcGxpdE51bWJlciA9IGluZm9TcGxpdE51bWJlci5zdWJzdHJpbmcoMCwgaW5mb1NwbGl0TnVtYmVyLmxlbmd0aCgpIC0gdHJhaWxpbmdZZWFyTGVuKTsKICAgICAgICAgICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgICAgICAgICBpbmZvU3BsaXROdW1iZXIgPSAiIjsKICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBzb3V0Cg==</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -379,19 +400,19 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTdHJpbmcgaW5mb1NwbGl0TnVtYmVyID0gcmVjb3JkLmdldCgiSU5GT19TUExJVF9OVU1CRVIiKTsKICAgICAgICAgICAgICAgICAgICBmaW5hbCBpbnQgdHJhaWxpbmdZZWFyTGVuID0gNTsKICAgICAgICAgICAgICAgICAgICBpZiAoaW5mb1NwbGl0TnVtYmVyICE9IG51bGwgJiYgaW5mb1NwbGl0TnVtYmVyLmxlbmd0aCgpID4gdHJhaWxpbmdZZWFyTGVuKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIGluZm9TcGxpdE51bWJlciA9IGluZm9TcGxpdE51bWJlci5zdWJzdHJpbmcoMCwgaW5mb1NwbGl0TnVtYmVyLmxlbmd0aCgpIC0gdHJhaWxpbmdZZWFyTGVuKTsKICAgICAgICAgICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgICAgICAgICBpbmZvU3BsaXROdW1iZXIgPSAiIjsKICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">CiAgICBwdWJsaWMgc3RhdGljIHZvaWQgbWFpbihTdHJpbmdbXSBhcmdzKSB7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJIZWxsbyBXb3JsZCEiKTsKICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgcmV0dXJuIE9mQXVza3VuZnQuYnVpbGRlcigpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAudHJ4TnVtYmVyKHJlY29yZC5nZXQoMCkpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAuaW5mb1NwbGl0TnVtYmVyKGluZm9TcGxpdE51bWJlcikKICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5zYWxlWWVhcihyZWNvcmQuZ2V0KCJTQUxFX1lFQVIiKSkK</text>
+        <text encoding="base64">ICAgICAgICBzb3V0Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmaW5hbCBpbnQgdHJhaWxpbmdZZWFyTGVuID0gNTsKICAgICAgICAgICAgICAgICAgICBpZiAoaW5mb1NwbGl0TnVtYmVyICE9IG51bGwgJiYgaW5mb1NwbGl0TnVtYmVyLmxlbmd0aCgpID4gdHJhaWxpbmdZZWFyTGVuKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIGluZm9TcGxpdE51bWJlciA9IGluZm9TcGxpdE51bWJlci5zdWJzdHJpbmcoMCwgaW5mb1NwbGl0TnVtYmVyLmxlbmd0aCgpIC0gdHJhaWxpbmdZZWFyTGVuKTsKICAgICAgICAgICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgICAgICAgICBpbmZvU3BsaXROdW1iZXIgPSAiIjsKICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTdHJpbmcgaW5mb1NwbGl0TnVtYmVyID0gcmVjb3JkLmdldCgiSU5GT19TUExJVF9OVU1CRVIiKTsKICAgICAgICAgICAgICAgICAgICBmaW5hbCBpbnQgdHJhaWxpbmdZZWFyTGVuID0gNTsKICAgICAgICAgICAgICAgICAgICBpZiAoaW5mb1NwbGl0TnVtYmVyICE9IG51bGwgJiYgaW5mb1NwbGl0TnVtYmVyLmxlbmd0aCgpID4gdHJhaWxpbmdZZWFyTGVuKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIGluZm9TcGxpdE51bWJlciA9IGluZm9TcGxpdE51bWJlci5zdWJzdHJpbmcoMCwgaW5mb1NwbGl0TnVtYmVyLmxlbmd0aCgpIC0gdHJhaWxpbmdZZWFyTGVuKTsKICAgICAgICAgICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgICAgICAgICBpbmZvU3BsaXROdW1iZXIgPSAiIjsKICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgcmV0dXJuIE9mQXVza3VuZnQuYnVpbGRlcigpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAudHJ4TnVtYmVyKHJlY29yZC5nZXQoMCkpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAuaW5mb1NwbGl0TnVtYmVyKGluZm9TcGxpdE51bWJlcikKICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5zYWxlWWVhcihyZWNvcmQuZ2V0KCJTQUxFX1lFQVIiKSkK</text>
       </register>
       <register name=":" type="4">
         <text>set ignorecase</text>
@@ -404,7 +425,7 @@
       <last-replace>~</last-replace>
       <last-substitute>=</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
