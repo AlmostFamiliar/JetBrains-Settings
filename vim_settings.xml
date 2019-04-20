@@ -3,6 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Downloads/projekt-1-marsrover-Deggy15-master/src/main/java/rover/rover/LeftRover.java" timestamp="1555763016579">
+        <mark key="'" line="22" column="18" />
+        <mark key="[" line="5" column="49" />
+        <mark key="]" line="5" column="50" />
+        <mark key="." line="5" column="50" />
+        <mark key="^" line="22" column="18" />
+      </file>
       <file name="$USER_HOME$/Downloads/projekt-1-marsrover-Deggy15-master/src/main/java/rover/rover/RightRover.java" timestamp="1555763041372">
         <mark key="'" line="23" column="18" />
         <mark key="[" line="5" column="49" />
@@ -10,7 +17,7 @@
         <mark key="." line="5" column="50" />
         <mark key="^" line="23" column="18" />
       </file>
-      <file name="/a.dummy" timestamp="1555763395102">
+      <file name="/a.dummy" timestamp="1555766889214">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Downloads/projekt-1-marsrover-Deggy15-master/src/main/java/rover/rover/DownRover.java" timestamp="1555763005402">
@@ -19,18 +26,29 @@
         <mark key="." line="5" column="50" />
         <mark key="^" line="5" column="50" />
       </file>
-      <file name="/LeftRover.java" timestamp="1555761901265" />
-      <file name="$USER_HOME$/Downloads/projekt-1-marsrover-Deggy15-master/src/main/java/rover/rover/Rover.java" timestamp="1555763276810">
-        <mark key="[" line="7" column="12" />
-        <mark key="]" line="7" column="17" />
-        <mark key="^" line="7" column="17" />
-        <mark key="." line="7" column="17" />
+      <file name="$USER_HOME$/Downloads/projekt-1-marsrover-Deggy15-master/src/main/java/rover/command/Command.java" timestamp="1555764473797">
+        <mark key="[" line="7" column="30" />
+        <mark key="]" line="7" column="29" />
+        <mark key="." line="7" column="29" />
+        <mark key="^" line="7" column="29" />
       </file>
-      <file name="$USER_HOME$/Downloads/projekt-1-marsrover-Deggy15-master/src/main/java/rover/map/Mars.java" timestamp="1555762154298">
-        <mark key="'" line="51" column="41" />
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="48" column="0" />
-        <mark key="." line="48" column="0" />
+      <file name="$USER_HOME$/Downloads/projekt-1-marsrover-Deggy15-master/src/main/java/rover/rover/EastRover.java" timestamp="1555765272628">
+        <mark key="[" line="25" column="15" />
+        <mark key="]" line="25" column="15" />
+        <mark key="." line="25" column="15" />
+        <mark key="^" line="14" column="31" />
+      </file>
+      <file name="$USER_HOME$/Downloads/projekt-1-marsrover-Deggy15-master/src/main/java/rover/rover/Rover.java" timestamp="1555764640801">
+        <mark key="[" line="23" column="51" />
+        <mark key="]" line="23" column="50" />
+        <mark key="." line="23" column="50" />
+        <mark key="^" line="23" column="50" />
+      </file>
+      <file name="$USER_HOME$/Downloads/projekt-1-marsrover-Deggy15-master/src/main/java/rover/map/Mars.java" timestamp="1555767228264">
+        <mark key="[" line="72" column="28" />
+        <mark key="]" line="72" column="7" />
+        <mark key="." line="72" column="7" />
+        <mark key="^" line="72" column="7" />
       </file>
       <file name="$USER_HOME$/Downloads/projekt-1-marsrover-Deggy15-master/src/main/java/rover/rover/UpRover.java" timestamp="1555763115560">
         <mark key="'" line="26" column="18" />
@@ -39,11 +57,28 @@
         <mark key="." line="5" column="50" />
         <mark key="^" line="4" column="36" />
       </file>
+      <file name="/Dummy.txt" timestamp="1555768168949">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="38" />
+        <mark key="." line="0" column="38" />
+      </file>
+      <file name="$USER_HOME$/Downloads/projekt-1-marsrover-Deggy15-master/src/main/java/rover/rover/SouthRover.java" timestamp="1555767404851">
+        <mark key="[" line="19" column="110" />
+        <mark key="]" line="19" column="111" />
+        <mark key="." line="19" column="111" />
+        <mark key="^" line="20" column="29" />
+      </file>
       <file name="$USER_HOME$/Downloads/projekt-1-marsrover-Deggy15-master/src/main/java/rover/map/Map.java" timestamp="1555748507729">
         <mark key="[" line="9" column="18" />
         <mark key="]" line="9" column="17" />
         <mark key="^" line="9" column="17" />
         <mark key="." line="9" column="17" />
+      </file>
+      <file name="$USER_HOME$/Downloads/projekt-1-marsrover-Deggy15-master/src/main/java/rover/rover/NorthRover.java" timestamp="1555767418469">
+        <mark key="[" line="19" column="110" />
+        <mark key="]" line="19" column="111" />
+        <mark key="." line="19" column="111" />
+        <mark key="^" line="35" column="31" />
       </file>
       <file name="$USER_HOME$/Downloads/projekt-1-marsrover-Deggy15-master/src/main/java/rover/map/MarsObject.java" timestamp="1555751183424">
         <mark key="[" line="8" column="16" />
@@ -51,56 +86,49 @@
         <mark key="^" line="8" column="17" />
         <mark key="." line="8" column="17" />
       </file>
-      <file name="$USER_HOME$/Downloads/projekt-1-marsrover-Deggy15-master/README.adoc" timestamp="1555761421836" />
-      <file name="$USER_HOME$/Downloads/projekt-1-marsrover-Deggy15-master/src/main/java/rover/map/Position.java" timestamp="1555760478457">
-        <mark key="^" line="3" column="3" />
+      <file name="$USER_HOME$/Downloads/projekt-1-marsrover-Deggy15-master/src/main/java/rover/rover/Command.java" timestamp="1555768021855">
+        <mark key="[" line="25" column="9" />
+        <mark key="]" line="26" column="7" />
+        <mark key="." line="26" column="7" />
+        <mark key="^" line="26" column="7" />
       </file>
-      <file name="C:/KundenProjekte/ZPUE/enzian/shared/src/main/java/de/gema/zpue/shared/konstanten/sap/Operation.java" timestamp="1554447902217">
-        <mark key="[" line="8" column="14" />
-      </file>
-      <file name="/Clipboard.txt" timestamp="1555499169044">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Downloads/projekt-1-marsrover-Deggy15-master/src/main/java/original/Original.java" timestamp="1555755057986" />
-      <file name="$USER_HOME$/Downloads/projekt-1-marsrover-Deggy15-master/src/main/java/rover/rover/LeftRover.java" timestamp="1555763016579">
-        <mark key="'" line="22" column="18" />
-        <mark key="[" line="5" column="49" />
-        <mark key="]" line="5" column="50" />
-        <mark key="." line="5" column="50" />
-        <mark key="^" line="22" column="18" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1555762660156">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/refactoring/src/main/java/rover/Start.java" timestamp="1555761598525" />
-      <file name="$USER_HOME$/Downloads/projekt-1-marsrover-Deggy15-master/src/main/java/rover/rover/Command.java" timestamp="1555759569167">
-        <mark key="[" line="19" column="9" />
-        <mark key="]" line="20" column="13" />
-        <mark key="." line="20" column="13" />
-        <mark key="^" line="20" column="13" />
-      </file>
-      <file name="/DownRover.java" timestamp="1555761873598" />
       <file name="$USER_HOME$/Downloads/projekt-1-marsrover-Deggy15-master/src/main/java/rover/rover/Move.java" timestamp="1555759292298">
         <mark key="[" line="12" column="5" />
         <mark key="]" line="15" column="7" />
         <mark key="^" line="15" column="7" />
         <mark key="." line="15" column="7" />
       </file>
+      <file name="C:/KundenProjekte/ZPUE/enzian/shared/src/main/java/de/gema/zpue/shared/konstanten/sap/Operation.java" timestamp="1554447902217">
+        <mark key="[" line="8" column="14" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/dennis/src/rover/Operation.java" timestamp="1555677145447">
         <mark key="[" line="3" column="5" />
       </file>
-      <file name="/fragment.java" timestamp="1555762678642">
+      <file name="$USER_HOME$/Downloads/projekt-1-marsrover-Deggy15-master/.gitignore" timestamp="1555768156247" />
+      <file name="/Clipboard.txt" timestamp="1555499169044">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Downloads/projekt-1-marsrover-Deggy15-master/src/main/java/rover/rover/WestRover.java" timestamp="1555765151882">
+        <mark key="[" line="5" column="4" />
+        <mark key="]" line="5" column="10" />
+        <mark key="." line="5" column="10" />
+        <mark key="^" line="5" column="10" />
+      </file>
+      <file name="/fragment.java" timestamp="1555767598350">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
         <mark key="^" line="0" column="5" />
         <mark key="." line="0" column="5" />
       </file>
+      <file name="$USER_HOME$/Downloads/projekt-1-marsrover-Deggy15-master/src/main/java/rover/Start.java" timestamp="1555767323611">
+        <mark key="a" line="11" column="27" />
+        <mark key="[" line="19" column="12" />
+        <mark key="]" line="14" column="50" />
+        <mark key="^" line="18" column="67" />
+        <mark key="." line="18" column="67" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/data/tables/ZpuePartner.java" />
-      <jump line="7" column="59" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/data/tables/ZpuePartner.java" />
-      <jump line="28" column="115" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/mapper/Mapper.java" />
-      <jump line="18" column="0" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/mapper/Mapper.java" />
       <jump line="47" column="38" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/mapper/Mapper.java" />
       <jump line="50" column="55" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/mapper/Mapper.java" />
       <jump line="19" column="0" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/mapper/Mapper.java" />
@@ -197,10 +225,14 @@
       <jump line="9" column="18" filename="$USER_HOME$/Downloads/projekt-1-marsrover-Deggy15-master/src/main/java/rover/rover/DownRover.java" />
       <jump line="14" column="18" filename="$USER_HOME$/Downloads/projekt-1-marsrover-Deggy15-master/src/main/java/rover/rover/DownRover.java" />
       <jump line="19" column="18" filename="$USER_HOME$/Downloads/projekt-1-marsrover-Deggy15-master/src/main/java/rover/rover/DownRover.java" />
+      <jump line="70" column="69" filename="$USER_HOME$/Downloads/projekt-1-marsrover-Deggy15-master/src/main/java/rover/map/Mars.java" />
+      <jump line="43" column="36" filename="$USER_HOME$/Downloads/projekt-1-marsrover-Deggy15-master/src/main/java/rover/map/Mars.java" />
+      <jump line="12" column="36" filename="$USER_HOME$/Downloads/projekt-1-marsrover-Deggy15-master/src/main/java/rover/Start.java" />
+      <jump line="19" column="8" filename="$USER_HOME$/Downloads/projekt-1-marsrover-Deggy15-master/src/main/java/rover/rover/Command.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>p</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -214,28 +246,28 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>p</text>
+        <text>s. Expected one of:</text>
       </register>
       <register name="/" type="4">
         <text>Rover</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgY2hhciByb3Zlck9yaWVudGF0aW9uID0gJ1YnOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgb3V0cHV0LmFwcGVuZCgiXG4iKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBmaW5hbCBQb3NpdGlvbiBwb3NpdGlvbiA9IG5ldyBQb3NpdGlvbihnZXRQb3NpdGlvbigpLmdldHhDb29yZGluYXRlKCksIGdldFBvc2l0aW9uKCkuZ2V0eUNvb3JkaW5hdGUoKSAtIDEpOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBmaW5hbCBQb3NpdGlvbiBwb3NpdGlvbiA9IG5ldyBQb3NpdGlvbihnZXRQb3NpdGlvbigpLmdldHhDb29yZGluYXRlKCksIGdldFBvc2l0aW9uKCkuZ2V0eUNvb3JkaW5hdGUoKSAtIDEpOwo=</text>
+        <text encoding="base64">ICAgICAgICAvL1RPRE8K</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">CgoKCiAgICAgICAgcmV0dXJuIG51bGw7</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBMaXN0PENoYXJhY3Rlcj4gdmFsaWRDb21tYW5kcyA9IG5ldyBBcnJheUxpc3Q8PigpOwo=</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -263,19 +295,19 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsaWRDb21tYW5kcy5hZGQoY29tbWFuZC5nZXRDaGFyUmVwcmVzZW50YXRpb24oKSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
+        <text encoding="base64">ICAgICAgICBMaXN0PFN0cmluZz4gdmFsaWRDb21tYW5kcyA9IG5ldyBBcnJheUxpc3Q8PigpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXhwZWN0ZWRWYWx1ZXMuYXBwZW5kKC5nZXRDaGFyUmVwcmVzZW50YXRpb24oKSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IFBvc2l0aW9uKGdldFBvc2l0aW9uKCkuZ2V0eENvb3JkaW5hdGUoKSwgZ2V0UG9zaXRpb24oKS5nZXR5Q29vcmRpbmF0ZSgpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXhwZWN0ZWRWYWx1ZXMuYXBwZW5kKGNvZG1tYW5kLmdldENoYXJSZXByZXNlbnRhdGlvbigpKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmdCdWlsZGVyIGV4cGVjdGVkVmFsdWVzID0gbmV3IFN0cmluZ0J1aWxkZXIoKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
