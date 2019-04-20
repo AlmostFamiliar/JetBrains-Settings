@@ -38,17 +38,17 @@
         <mark key="." line="25" column="15" />
         <mark key="^" line="14" column="31" />
       </file>
-      <file name="$USER_HOME$/Downloads/projekt-1-marsrover-Deggy15-master/src/main/java/rover/rover/Rover.java" timestamp="1555764640801">
-        <mark key="[" line="23" column="51" />
-        <mark key="]" line="23" column="50" />
-        <mark key="." line="23" column="50" />
-        <mark key="^" line="23" column="50" />
+      <file name="$USER_HOME$/Downloads/projekt-1-marsrover-Deggy15-master/src/main/java/rover/rover/Rover.java" timestamp="1555770964303">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+        <mark key="^" line="21" column="13" />
       </file>
-      <file name="$USER_HOME$/Downloads/projekt-1-marsrover-Deggy15-master/src/main/java/rover/map/Mars.java" timestamp="1555767228264">
-        <mark key="[" line="72" column="28" />
-        <mark key="]" line="72" column="7" />
-        <mark key="." line="72" column="7" />
-        <mark key="^" line="72" column="7" />
+      <file name="$USER_HOME$/Downloads/projekt-1-marsrover-Deggy15-master/src/main/java/rover/map/Mars.java" timestamp="1555770522391">
+        <mark key="[" line="20" column="23" />
+        <mark key="]" line="20" column="28" />
+        <mark key="^" line="20" column="28" />
+        <mark key="." line="20" column="28" />
       </file>
       <file name="$USER_HOME$/Downloads/projekt-1-marsrover-Deggy15-master/src/main/java/rover/rover/UpRover.java" timestamp="1555763115560">
         <mark key="'" line="26" column="18" />
@@ -57,10 +57,8 @@
         <mark key="." line="5" column="50" />
         <mark key="^" line="4" column="36" />
       </file>
-      <file name="/Dummy.txt" timestamp="1555768168949">
+      <file name="/Dummy.txt" timestamp="1555771042464">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="38" />
-        <mark key="." line="0" column="38" />
       </file>
       <file name="$USER_HOME$/Downloads/projekt-1-marsrover-Deggy15-master/src/main/java/rover/rover/SouthRover.java" timestamp="1555767404851">
         <mark key="[" line="19" column="110" />
@@ -87,11 +85,12 @@
         <mark key="." line="8" column="17" />
       </file>
       <file name="$USER_HOME$/Downloads/projekt-1-marsrover-Deggy15-master/src/main/java/rover/rover/Command.java" timestamp="1555768021855">
-        <mark key="[" line="25" column="9" />
-        <mark key="]" line="26" column="7" />
-        <mark key="." line="26" column="7" />
-        <mark key="^" line="26" column="7" />
+        <mark key="[" line="23" column="9" />
+        <mark key="]" line="24" column="7" />
+        <mark key="." line="24" column="7" />
+        <mark key="^" line="24" column="7" />
       </file>
+      <file name="$USER_HOME$/Downloads/projekt-1-marsrover-Deggy15-master/README.adoc" timestamp="1555770646215" />
       <file name="$USER_HOME$/Downloads/projekt-1-marsrover-Deggy15-master/src/main/java/rover/rover/Move.java" timestamp="1555759292298">
         <mark key="[" line="12" column="5" />
         <mark key="]" line="15" column="7" />
@@ -114,22 +113,24 @@
         <mark key="." line="5" column="10" />
         <mark key="^" line="5" column="10" />
       </file>
-      <file name="/fragment.java" timestamp="1555767598350">
+      <file name="$USER_HOME$/Downloads/projekt-1-marsrover-Deggy15-master/src/main/java/original/Original.java" timestamp="1555770474845">
+        <mark key="'" line="56" column="16" />
+      </file>
+      <file name="/fragment.java" timestamp="1555770708092">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
         <mark key="^" line="0" column="5" />
         <mark key="." line="0" column="5" />
       </file>
-      <file name="$USER_HOME$/Downloads/projekt-1-marsrover-Deggy15-master/src/main/java/rover/Start.java" timestamp="1555767323611">
-        <mark key="a" line="11" column="27" />
-        <mark key="[" line="19" column="12" />
-        <mark key="]" line="14" column="50" />
-        <mark key="^" line="18" column="67" />
-        <mark key="." line="18" column="67" />
+      <file name="$USER_HOME$/Downloads/projekt-1-marsrover-Deggy15-master/src/main/java/rover/Start.java" timestamp="1555770620973">
+        <mark key="a" line="13" column="27" />
+        <mark key="[" line="20" column="21" />
+        <mark key="]" line="21" column="7" />
+        <mark key="^" line="21" column="7" />
+        <mark key="." line="21" column="7" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="47" column="38" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/mapper/Mapper.java" />
       <jump line="50" column="55" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/mapper/Mapper.java" />
       <jump line="19" column="0" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/mapper/Mapper.java" />
       <jump line="24" column="0" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/mapper/Mapper.java" />
@@ -229,10 +230,11 @@
       <jump line="43" column="36" filename="$USER_HOME$/Downloads/projekt-1-marsrover-Deggy15-master/src/main/java/rover/map/Mars.java" />
       <jump line="12" column="36" filename="$USER_HOME$/Downloads/projekt-1-marsrover-Deggy15-master/src/main/java/rover/Start.java" />
       <jump line="19" column="8" filename="$USER_HOME$/Downloads/projekt-1-marsrover-Deggy15-master/src/main/java/rover/rover/Command.java" />
+      <jump line="56" column="16" filename="$USER_HOME$/Downloads/projekt-1-marsrover-Deggy15-master/src/main/java/original/Original.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Zml4ZWQgcGFja2FnZSBzdHJ1Y3R1cmUK</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -246,28 +248,28 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>s. Expected one of:</text>
+        <text>protected</text>
       </register>
       <register name="/" type="4">
-        <text>Rover</text>
+        <text>main</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb3V0cHV0LmFwcGVuZCgiXG4iKTsK</text>
+      <register name="0" type="4">
+        <text>mars</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Zml4ZWQgcGFja2FnZSBzdHJ1Y3R1cmUK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvL1RPRE8K</text>
+        <text encoding="base64">cHJvdGVjdGVkIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cHJvdGVjdGVkIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PENoYXJhY3Rlcj4gdmFsaWRDb21tYW5kcyA9IG5ldyBBcnJheUxpc3Q8PigpOwo=</text>
+        <text encoding="base64">ICAgICAgICBpZihzZWVkICkK</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -295,28 +297,28 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsaWRDb21tYW5kcy5hZGQoY29tbWFuZC5nZXRDaGFyUmVwcmVzZW50YXRpb24oKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBSYW5kb20gcmFuZG9tID0gbmV3IFJhbmRvbSgpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PFN0cmluZz4gdmFsaWRDb21tYW5kcyA9IG5ldyBBcnJheUxpc3Q8PigpOwo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIE1hcnMgbWFycyA9IG51bGw7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXhwZWN0ZWRWYWx1ZXMuYXBwZW5kKC5nZXRDaGFyUmVwcmVzZW50YXRpb24oKSk7Cg==</text>
+        <text encoding="base64">CiAgICAvKioKICAgICAqIFNpbmdsZXRvbiBpbnN0YW5jZSBvZiB0aGUgbWFycywgYmVjYXVzZSB0aGUgbWFycyBuZXZlciBjaGFuZ2VzIGFmdGVyIGluaXRhbGl6ZWQgb25jZS4KICAgICAqCiAgICAgKiBAcmV0dXJuIHRoZSBtYXJzLgogICAgICovCiAgICBwdWJsaWMgc3RhdGljIE1hcnMgZ2V0SW5zdGFuY2UoKSB7CiAgICAgICAgaWYgKG1hcnMgPT0gbnVsbCkgewogICAgICAgICAgICBtYXJzID0gbmV3IE1hcnMoKTsKICAgICAgICB9CiAgICAgICAgcmV0dXJuIG1hcnM7CiAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXhwZWN0ZWRWYWx1ZXMuYXBwZW5kKGNvZG1tYW5kLmdldENoYXJSZXByZXNlbnRhdGlvbigpKTsK</text>
+        <text encoding="base64">ICAgICAgICByYW5kb20uc2V0U2VlZChTeXN0ZW0uY3VycmVudFRpbWVNaWxsaXMoKSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmdCdWlsZGVyIGV4cGVjdGVkVmFsdWVzID0gbmV3IFN0cmluZ0J1aWxkZXIoKTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Rover</last-search>
+      <last-search>main</last-search>
       <last-offset />
-      <last-pattern>Rover</last-pattern>
+      <last-pattern>main</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>=</last-substitute>
       <last-dir>1</last-dir>
@@ -340,10 +342,10 @@
         <entry>alt</entry>
         <entry encoding="base64">LT4=</entry>
         <entry>logback</entry>
-        <entry>main</entry>
         <entry>move</entry>
         <entry>make</entry>
         <entry>Rover</entry>
+        <entry>main</entry>
       </history-search>
       <history-cmd>
         <entry>set number relativenumber</entry>
