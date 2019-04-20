@@ -20,6 +20,7 @@
       <file name="/a.dummy" timestamp="1555766889214">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Downloads/projekt-1-marsrover-Deggy15-master/src/main/java/rover/rover/states/NorthRover.java" timestamp="1555783591415" />
       <file name="$USER_HOME$/Downloads/projekt-1-marsrover-Deggy15-master/src/main/java/rover/rover/DownRover.java" timestamp="1555763005402">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="52" />
@@ -32,6 +33,7 @@
         <mark key="." line="7" column="29" />
         <mark key="^" line="7" column="29" />
       </file>
+      <file name="$USER_HOME$/Downloads/projekt-1-marsrover-Deggy15-master/src/main/java/rover/rover/states/SouthRover.java" timestamp="1555783547731" />
       <file name="$USER_HOME$/Downloads/projekt-1-marsrover-Deggy15-master/src/main/java/rover/rover/EastRover.java" timestamp="1555765272628">
         <mark key="[" line="25" column="15" />
         <mark key="]" line="25" column="15" />
@@ -44,7 +46,7 @@
         <mark key="." line="20" column="0" />
         <mark key="^" line="21" column="13" />
       </file>
-      <file name="$USER_HOME$/Downloads/projekt-1-marsrover-Deggy15-master/src/main/java/rover/map/Mars.java" timestamp="1555780549820">
+      <file name="$USER_HOME$/Downloads/projekt-1-marsrover-Deggy15-master/src/main/java/rover/map/Mars.java" timestamp="1555783618774">
         <mark key="[" line="13" column="44" />
         <mark key="]" line="14" column="3" />
         <mark key="^" line="14" column="3" />
