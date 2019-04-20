@@ -44,11 +44,11 @@
         <mark key="." line="20" column="0" />
         <mark key="^" line="21" column="13" />
       </file>
-      <file name="$USER_HOME$/Downloads/projekt-1-marsrover-Deggy15-master/src/main/java/rover/map/Mars.java" timestamp="1555770522391">
-        <mark key="[" line="20" column="23" />
-        <mark key="]" line="20" column="28" />
-        <mark key="^" line="20" column="28" />
-        <mark key="." line="20" column="28" />
+      <file name="$USER_HOME$/Downloads/projekt-1-marsrover-Deggy15-master/src/main/java/rover/map/Mars.java" timestamp="1555780549820">
+        <mark key="[" line="13" column="44" />
+        <mark key="]" line="14" column="3" />
+        <mark key="^" line="14" column="3" />
+        <mark key="." line="14" column="3" />
       </file>
       <file name="$USER_HOME$/Downloads/projekt-1-marsrover-Deggy15-master/src/main/java/rover/rover/UpRover.java" timestamp="1555763115560">
         <mark key="'" line="26" column="18" />
@@ -233,8 +233,8 @@
       <jump line="56" column="16" filename="$USER_HOME$/Downloads/projekt-1-marsrover-Deggy15-master/src/main/java/original/Original.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Zml4ZWQgcGFja2FnZSBzdHJ1Y3R1cmUK</text>
+      <register name="&quot;" type="4">
+        <text>cwpublic</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -248,7 +248,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>protected</text>
+        <text>cwpublic</text>
       </register>
       <register name="/" type="4">
         <text>main</text>
