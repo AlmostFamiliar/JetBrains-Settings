@@ -10,7 +10,7 @@
         <mark key="^" line="17" column="51" />
         <mark key="." line="17" column="51" />
       </file>
-      <file name="/a.dummy" timestamp="1557142318407">
+      <file name="/a.dummy" timestamp="1557144209633">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/KundenProjekte/ZPUE/enzian-talend/kundenproduktgruppen/src/main/java/de/gema/zpue/migration/anspruchsbasen/kundenproduktgruppen/logic/AnspruchsbasenUpdateService.java" timestamp="1557142351732">
@@ -139,11 +139,11 @@
         <mark key="." line="14" column="31" />
         <mark key="^" line="14" column="31" />
       </file>
-      <file name="C:/KundenProjekte/ZPUE/enzian-talend/kundenproduktgruppen/src/main/java/de/gema/zpue/migration/anspruchsbasen/kundenproduktgruppen/logic/AnspruchUpdateService.java" timestamp="1557143776071">
-        <mark key="[" line="33" column="4" />
-        <mark key="]" line="33" column="4" />
-        <mark key="." line="33" column="4" />
-        <mark key="^" line="33" column="9" />
+      <file name="C:/KundenProjekte/ZPUE/enzian-talend/kundenproduktgruppen/src/main/java/de/gema/zpue/migration/anspruchsbasen/kundenproduktgruppen/logic/AnspruchUpdateService.java" timestamp="1557144391304">
+        <mark key="[" line="103" column="0" />
+        <mark key="]" line="103" column="0" />
+        <mark key="." line="103" column="0" />
+        <mark key="^" line="86" column="19" />
       </file>
       <file name="C:/KundenProjekte/ZPUE/enzian/shared/src/main/java/de/gema/zpue/shared/konstanten/sap/Operation.java" timestamp="1554447902217">
         <mark key="[" line="8" column="14" />
@@ -303,12 +303,11 @@
         <mark key="^" line="28" column="15" />
         <mark key="." line="62" column="98" />
       </file>
-      <file name="C:/KundenProjekte/ZPUE/enzian-talend/kundenproduktgruppen/src/main/java/de/gema/zpue/migration/anspruchsbasen/kundenproduktgruppen/model/enaio/AnspruchData.java" timestamp="1557143647173">
-        <mark key="'" line="13" column="7" />
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
-        <mark key="^" line="2" column="3" />
+      <file name="C:/KundenProjekte/ZPUE/enzian-talend/kundenproduktgruppen/src/main/java/de/gema/zpue/migration/anspruchsbasen/kundenproduktgruppen/model/enaio/AnspruchData.java" timestamp="1557143916864">
+        <mark key="[" line="11" column="8" />
+        <mark key="]" line="12" column="18" />
+        <mark key="^" line="12" column="18" />
+        <mark key="." line="12" column="18" />
       </file>
       <file name="/fragment.java" timestamp="1555586909531">
         <mark key="[" line="0" column="0" />
@@ -420,8 +419,8 @@
       <jump line="6" column="7" filename="C:/KundenProjekte/ZPUE/enzian-talend/kundenproduktgruppen/src/main/java/de/gema/zpue/migration/anspruchsbasen/kundenproduktgruppen/model/enaio/AnspruchData.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>public</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -435,16 +434,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>public</text>
+        <text>//TODO kann das explodieren wenn date max?</text>
       </register>
       <register name="/" type="4">
         <text>\u</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICBleHBvcnRzOiBbUm91dGVyTW9kdWxlXQo=</text>
+      <register name="0" type="4">
+        <text>anspruchsbasis.getData().getBis()</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBmaW5hbCBBcnJheUxpc3Q8RW5haW9BbnNwcnVjaD4gYW5zcHJ1ZWNoZVNob3VsZFN0YXRlID0gbmV3IEFycmF5TGlzdDw+KCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -470,13 +469,13 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoYmFzaXNCb3VuZCA9PSBudWxsKSB7CiAgICAgICAgICAgIHJldHVybiBmYWxzZTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICBmaW5hbCBBcnJheUxpc3Q8RW5haW9BbnNwcnVjaD4gYW5zcHJ1ZWNoZVNob3VsZFN0YXRlID0gbmV3IEFycmF5TGlzdDw+KCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cHVibGljIGNsYXNzIEFuc3BydWNoRGF0YSB7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -500,23 +499,23 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">QEJ1aWxkZXIKICAgIEBEYXRhCiAgICBASnNvbklnbm9yZVByb3BlcnRpZXMoaWdub3JlVW5rbm93biA9IHRydWUpCiAgICBwdWJsaWMgc3RhdGljIGNsYXNzIEFuc3BydWNoRGF0YSB7CiAgICAgICAgcHJpdmF0ZSBTdHJpbmcga3VuZGU7CiAgICAgICAgcHJpdmF0ZSBTdHJpbmcgcHJvZHVrdG9iZXJncnVwcGU7CiAgICAgICAgcHJpdmF0ZSBTdHJpbmcgdmVyYWV1c3NlcnVuZ3NhcnQ7CiAgICAgICAgcHJpdmF0ZSBTdHJpbmcgamFocjsKICAgICAgICBwcml2YXRlIFN0cmluZyB2b247CiAgICAgICAgcHJpdmF0ZSBTdHJpbmcgYmlzOwogICAgICAgIHByaXZhdGUgU3RyaW5nIHN0YXR1czsKICAgICAgICBwcml2YXRlIFN0cmluZyBhbnNwcnVjaHNncnVuZGxhZ2VucmVmOwogICAgICAgIHByaXZhdGUgTGlzdDxNYXA8U3RyaW5nLCBTdHJpbmc+PiB2ZXJ0cmFnc21pdGdsaWVkc2NoYWZ0ZW47CgogICAgfQ==</text>
+      <register name="5" type="2">
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIFJlY2lwZXNSb3V0aW5nTW9kdWxlLAo=</text>
+        <text encoding="base64">cHVibGljIGNsYXNzIEFuc3BydWNoRGF0YSB7Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHtSZWNpcGVzUm91dGluZ01vZHVsZX0gZnJvbSAnLi9yZWNpcGVzLXJvdXRpbmcubW9kdWxlJzsK</text>
+      <register name="7" type="4">
+        <text encoding="base64">QEJ1aWxkZXIKICAgIEBEYXRhCiAgICBASnNvbklnbm9yZVByb3BlcnRpZXMoaWdub3JlVW5rbm93biA9IHRydWUpCiAgICBwdWJsaWMgc3RhdGljIGNsYXNzIEFuc3BydWNoRGF0YSB7CiAgICAgICAgcHJpdmF0ZSBTdHJpbmcga3VuZGU7CiAgICAgICAgcHJpdmF0ZSBTdHJpbmcgcHJvZHVrdG9iZXJncnVwcGU7CiAgICAgICAgcHJpdmF0ZSBTdHJpbmcgdmVyYWV1c3NlcnVuZ3NhcnQ7CiAgICAgICAgcHJpdmF0ZSBTdHJpbmcgamFocjsKICAgICAgICBwcml2YXRlIFN0cmluZyB2b247CiAgICAgICAgcHJpdmF0ZSBTdHJpbmcgYmlzOwogICAgICAgIHByaXZhdGUgU3RyaW5nIHN0YXR1czsKICAgICAgICBwcml2YXRlIFN0cmluZyBhbnNwcnVjaHNncnVuZGxhZ2VucmVmOwogICAgICAgIHByaXZhdGUgTGlzdDxNYXA8U3RyaW5nLCBTdHJpbmc+PiB2ZXJ0cmFnc21pdGdsaWVkc2NoYWZ0ZW47CgogICAgfQ==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBleHBvcnRzOiBbXSwK</text>
+        <text encoding="base64">ICAgIFJlY2lwZXNSb3V0aW5nTW9kdWxlLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBleHBvcnRzOiBbXSwK</text>
+        <text encoding="base64">aW1wb3J0IHtSZWNpcGVzUm91dGluZ01vZHVsZX0gZnJvbSAnLi9yZWNpcGVzLXJvdXRpbmcubW9kdWxlJzsK</text>
       </register>
       <register name=":" type="4">
-        <text>nohl</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -565,13 +564,13 @@
         <entry>b Mapper</entry>
         <entry>qw</entry>
         <entry>wq</entry>
-        <entry>q</entry>
         <entry>set ignorecase</entry>
         <entry>w</entry>
         <entry>set multiple-cursors</entry>
         <entry>nhl</entry>
         <entry>wa</entry>
         <entry>nohl</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
