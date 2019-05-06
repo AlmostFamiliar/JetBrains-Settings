@@ -81,7 +81,7 @@
         <mark key="^" line="6" column="3" />
         <mark key="." line="6" column="3" />
       </file>
-      <file name="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/data/output/EnaioAuskunft.java" timestamp="1557135122274">
+      <file name="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/data/output/EnaioAuskunft.java" timestamp="1557143593576">
         <mark key="t" line="23" column="0" />
         <mark key="'" line="22" column="29" />
         <mark key="[" line="18" column="34" />
@@ -139,6 +139,12 @@
         <mark key="." line="14" column="31" />
         <mark key="^" line="14" column="31" />
       </file>
+      <file name="C:/KundenProjekte/ZPUE/enzian-talend/kundenproduktgruppen/src/main/java/de/gema/zpue/migration/anspruchsbasen/kundenproduktgruppen/logic/AnspruchUpdateService.java" timestamp="1557143776071">
+        <mark key="[" line="33" column="4" />
+        <mark key="]" line="33" column="4" />
+        <mark key="." line="33" column="4" />
+        <mark key="^" line="33" column="9" />
+      </file>
       <file name="C:/KundenProjekte/ZPUE/enzian/shared/src/main/java/de/gema/zpue/shared/konstanten/sap/Operation.java" timestamp="1554447902217">
         <mark key="[" line="8" column="14" />
       </file>
@@ -166,7 +172,11 @@
         <mark key="." line="71" column="23" />
         <mark key="^" line="71" column="23" />
       </file>
-      <file name="C:/KundenProjekte/ZPUE/enzian-talend/kundenproduktgruppen/src/main/java/de/gema/zpue/migration/anspruchsbasen/kundenproduktgruppen/model/enaio/EnaioAnspruch.java" timestamp="1557142046866" />
+      <file name="C:/KundenProjekte/ZPUE/enzian-talend/kundenproduktgruppen/src/main/java/de/gema/zpue/migration/anspruchsbasen/kundenproduktgruppen/model/enaio/EnaioAnspruch.java" timestamp="1557143665359">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+      </file>
       <file name="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/resources/application.properties" timestamp="1555575716696">
         <mark key="[" line="1" column="47" />
         <mark key="]" line="1" column="51" />
@@ -293,6 +303,13 @@
         <mark key="^" line="28" column="15" />
         <mark key="." line="62" column="98" />
       </file>
+      <file name="C:/KundenProjekte/ZPUE/enzian-talend/kundenproduktgruppen/src/main/java/de/gema/zpue/migration/anspruchsbasen/kundenproduktgruppen/model/enaio/AnspruchData.java" timestamp="1557143647173">
+        <mark key="'" line="13" column="7" />
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+        <mark key="^" line="2" column="3" />
+      </file>
       <file name="/fragment.java" timestamp="1555586909531">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
@@ -301,7 +318,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="75" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/data/tables/StephanAuskPosTarif.java" />
       <jump line="13" column="0" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/data/tables/ZpueAuskunft.java" />
       <jump line="0" column="0" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/data/tables/ZpueAuskunft.java" />
       <jump line="7" column="61" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/data/tables/ZpueAuskunft.java" />
@@ -401,10 +417,11 @@
       <jump line="24" column="17" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/data/output/EnaioAuskunft.java" />
       <jump line="6" column="17" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/data/output/EnaioAuskunft.java" />
       <jump line="22" column="29" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/data/output/EnaioAuskunft.java" />
+      <jump line="6" column="7" filename="C:/KundenProjekte/ZPUE/enzian-talend/kundenproduktgruppen/src/main/java/de/gema/zpue/migration/anspruchsbasen/kundenproduktgruppen/model/enaio/AnspruchData.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>u</text>
+        <text>public</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -418,7 +435,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>u</text>
+        <text>public</text>
       </register>
       <register name="/" type="4">
         <text>\u</text>
@@ -427,7 +444,7 @@
         <text encoding="base64">ICBleHBvcnRzOiBbUm91dGVyTW9kdWxlXQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIFJlY2lwZXNSb3V0aW5nTW9kdWxlLAo=</text>
+        <text encoding="base64">ICAgICAgICBmaW5hbCBBcnJheUxpc3Q8RW5haW9BbnNwcnVjaD4gYW5zcHJ1ZWNoZVNob3VsZFN0YXRlID0gbmV3IEFycmF5TGlzdDw+KCk7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -453,13 +470,13 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHtSZWNpcGVzUm91dGluZ01vZHVsZX0gZnJvbSAnLi9yZWNpcGVzLXJvdXRpbmcubW9kdWxlJzsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBleHBvcnRzOiBbXSwK</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBleHBvcnRzOiBbXSwK</text>
+        <text encoding="base64">cHVibGljIGNsYXNzIEFuc3BydWNoRGF0YSB7Cg==</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -483,20 +500,20 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Y29uc3QgcmVjaXBlUm91dGVzOiBSb3V0ZXMgPSBbCiAgewogICAgcGF0aDogJ3JlY2lwZXMnLCBjb21wb25lbnQ6IFJlY2lwZXNDb21wb25lbnQsIGNoaWxkcmVuOiBbCiAgICAgIHtwYXRoOiAnJywgY29tcG9uZW50OiBSZWNpcGVTdGFydENvbXBvbmVudH0sCiAgICAgIHtwYXRoOiAnbmV3JywgY29tcG9uZW50OiBSZWNpcGVFZGl0Q29tcG9uZW50LCBjYW5BY3RpdmF0ZTogW0F1dGhHdWFyZF19LAogICAgICB7cGF0aDogJzppZCcsIGNvbXBvbmVudDogUmVjaXBlRGV0YWlsQ29tcG9uZW50fSwKICAgICAge3BhdGg6ICc6aWQvZWRpdCcsIGNvbXBvbmVudDogUmVjaXBlRWRpdENvbXBvbmVudCwgY2FuQWN0aXZhdGU6IFtBdXRoR3VhcmRdfSwKICAgIF0KICB9LApdOwo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">QEJ1aWxkZXIKICAgIEBEYXRhCiAgICBASnNvbklnbm9yZVByb3BlcnRpZXMoaWdub3JlVW5rbm93biA9IHRydWUpCiAgICBwdWJsaWMgc3RhdGljIGNsYXNzIEFuc3BydWNoRGF0YSB7CiAgICAgICAgcHJpdmF0ZSBTdHJpbmcga3VuZGU7CiAgICAgICAgcHJpdmF0ZSBTdHJpbmcgcHJvZHVrdG9iZXJncnVwcGU7CiAgICAgICAgcHJpdmF0ZSBTdHJpbmcgdmVyYWV1c3NlcnVuZ3NhcnQ7CiAgICAgICAgcHJpdmF0ZSBTdHJpbmcgamFocjsKICAgICAgICBwcml2YXRlIFN0cmluZyB2b247CiAgICAgICAgcHJpdmF0ZSBTdHJpbmcgYmlzOwogICAgICAgIHByaXZhdGUgU3RyaW5nIHN0YXR1czsKICAgICAgICBwcml2YXRlIFN0cmluZyBhbnNwcnVjaHNncnVuZGxhZ2VucmVmOwogICAgICAgIHByaXZhdGUgTGlzdDxNYXA8U3RyaW5nLCBTdHJpbmc+PiB2ZXJ0cmFnc21pdGdsaWVkc2NoYWZ0ZW47CgogICAgfQ==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIFJlY2lwZXNSb3V0aW5nTW9kdWxlLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB7IHBhdGg6ICdyZWNpcGVzJywgY29tcG9uZW50OiBSZWNpcGVzQ29tcG9uZW50LCBjaGlsZHJlbjogWwogICAgeyBwYXRoOiAnJywgY29tcG9uZW50OiBSZWNpcGVTdGFydENvbXBvbmVudCB9LAogICAgeyBwYXRoOiAnbmV3JywgY29tcG9uZW50OiBSZWNpcGVFZGl0Q29tcG9uZW50LCBjYW5BY3RpdmF0ZTogW0F1dGhHdWFyZF0gfSwKICAgIHsgcGF0aDogJzppZCcsIGNvbXBvbmVudDogUmVjaXBlRGV0YWlsQ29tcG9uZW50IH0sCiAgICB7IHBhdGg6ICc6aWQvZWRpdCcsIGNvbXBvbmVudDogUmVjaXBlRWRpdENvbXBvbmVudCwgY2FuQWN0aXZhdGU6IFtBdXRoR3VhcmRdIH0sCiAgXSB9LAo=</text>
+        <text encoding="base64">aW1wb3J0IHtSZWNpcGVzUm91dGluZ01vZHVsZX0gZnJvbSAnLi9yZWNpcGVzLXJvdXRpbmcubW9kdWxlJzsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIERyb3Bkb3duRGlyZWN0aXZlCg==</text>
+        <text encoding="base64">ICBleHBvcnRzOiBbXSwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIFJlYWN0aXZlRm9ybXNNb2R1bGUsCg==</text>
+        <text encoding="base64">ICBleHBvcnRzOiBbXSwK</text>
       </register>
       <register name=":" type="4">
         <text>nohl</text>
