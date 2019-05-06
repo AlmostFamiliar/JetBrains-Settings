@@ -496,7 +496,7 @@
         <text encoding="base64">ICAgIFJlYWN0aXZlRm9ybXNNb2R1bGUsCg==</text>
       </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>nohl</text>
       </register>
     </registers>
     <search>
@@ -506,7 +506,7 @@
       <last-replace>~</last-replace>
       <last-substitute>=</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
@@ -550,8 +550,8 @@
         <entry>w</entry>
         <entry>set multiple-cursors</entry>
         <entry>nhl</entry>
-        <entry>nohl</entry>
         <entry>wa</entry>
+        <entry>nohl</entry>
       </history-cmd>
       <history-expr />
       <history-input />
