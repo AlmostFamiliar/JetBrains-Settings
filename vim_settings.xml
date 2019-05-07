@@ -184,11 +184,12 @@
         <mark key="." line="14" column="38" />
         <mark key="^" line="14" column="38" />
       </file>
-      <file name="D:/Projekte/angular/authentication-final/authentication-final/src/app/recipes/recipe.module.ts" timestamp="1557082873835">
+      <file name="D:/Projekte/angular/authentication-final/authentication-final/src/app/recipes/recipe.module.ts" timestamp="1557255473374">
         <mark key="t" line="34" column="2" />
-        <mark key="'" line="34" column="25" />
+        <mark key="'" line="34" column="20" />
         <mark key="[" line="28" column="24" />
         <mark key="]" line="29" column="16" />
+        <mark key="m" line="28" column="22" />
         <mark key="." line="29" column="16" />
         <mark key="^" line="29" column="16" />
       </file>
@@ -307,7 +308,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/data/tables/Produkte.java" />
       <jump line="7" column="53" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/data/tables/Produkte.java" />
       <jump line="11" column="0" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/data/tables/ProdukteAltNeu.java" />
       <jump line="0" column="0" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/data/tables/ProdukteAltNeu.java" />
@@ -407,6 +407,7 @@
       <jump line="8" column="35" filename="D:/Projekte/angular/authentication-final/authentication-final/src/app/shared/shared.module.ts" />
       <jump line="14" column="25" filename="D:/Projekte/angular/authentication-final/authentication-final/src/app/shopping-list/shopping-list.module.ts" />
       <jump line="33" column="22" filename="D:/Projekte/angular/authentication-final/authentication-final/src/app/app.module.ts" />
+      <jump line="34" column="20" filename="D:/Projekte/angular/authentication-final/authentication-final/src/app/recipes/recipe.module.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
