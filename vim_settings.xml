@@ -74,12 +74,21 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="C:/KundenProjekte/ZPUE/enzian-talend/sonstigedatenuebernahmen/src/main/java/de/adesso/zpue/sonstigedatenuebernahmen/logic/CopyContentService.java" timestamp="1557294423792">
+        <mark key="[" line="64" column="146" />
+        <mark key="]" line="65" column="7" />
+        <mark key="^" line="65" column="7" />
+        <mark key="." line="65" column="7" />
+      </file>
       <file name="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/input/CsvParser.java" timestamp="1555582431837">
         <mark key="'" line="178" column="49" />
         <mark key="[" line="58" column="74" />
         <mark key="]" line="58" column="77" />
         <mark key="^" line="58" column="77" />
         <mark key="." line="58" column="77" />
+      </file>
+      <file name="C:/KundenProjekte/ZPUE/enzian-talend/sonstigedatenuebernahmen/src/main/java/de/adesso/zpue/sonstigedatenuebernahmen/rest/EnaioRestClient.java" timestamp="1557294463660">
+        <mark key="'" line="31" column="14" />
       </file>
       <file name="C:/KundenProjekte/ZPUE/enzian-talend/GsvtMitgliedschaften/src/main/java/de/gema/adesso/gsvtmitgliedschaften/model/GsvtMitgliedschaften.java" timestamp="1554732756764">
         <mark key="'" line="7" column="0" />
@@ -324,7 +333,7 @@
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1557156540849">
+      <file name="/fragment.java" timestamp="1557294399409">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
         <mark key="^" line="0" column="5" />
@@ -332,7 +341,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="29" column="58" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/mapper/Mapper.java" />
       <jump line="20" column="58" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/mapper/Mapper.java" />
       <jump line="39" column="44" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/input/CsvParser.java" />
       <jump line="111" column="21" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/input/CsvParser.java" />
@@ -432,6 +440,7 @@
       <jump line="21" column="13" filename="C:/KundenProjekte/ZPUE/enzian-talend/kundenproduktgruppen/src/main/java/de/gema/zpue/migration/anspruchsbasen/kundenproduktgruppen/communication/EnaioCommunicationService.java" />
       <jump line="237" column="42" filename="C:/KundenProjekte/ZPUE/enzian-talend/kundenproduktgruppen/src/main/java/de/gema/zpue/migration/anspruchsbasen/kundenproduktgruppen/logic/AnspruchUpdateService.java" />
       <jump line="230" column="29" filename="C:/KundenProjekte/ZPUE/enzian-talend/kundenproduktgruppen/src/main/java/de/gema/zpue/migration/anspruchsbasen/kundenproduktgruppen/logic/AnspruchUpdateService.java" />
+      <jump line="31" column="14" filename="C:/KundenProjekte/ZPUE/enzian-talend/sonstigedatenuebernahmen/src/main/java/de/adesso/zpue/sonstigedatenuebernahmen/rest/EnaioRestClient.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
