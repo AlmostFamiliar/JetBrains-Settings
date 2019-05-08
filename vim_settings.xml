@@ -155,14 +155,14 @@
         <mark key="." line="14" column="31" />
         <mark key="^" line="14" column="31" />
       </file>
-      <file name="C:/KundenProjekte/ZPUE/enzian-talend/kundenproduktgruppen/src/main/java/de/gema/zpue/migration/anspruchsbasen/kundenproduktgruppen/logic/AnspruchUpdateService.java" timestamp="1557308346133">
-        <mark key="a" line="244" column="11" />
-        <mark key="t" line="244" column="23" />
-        <mark key="'" line="240" column="16" />
-        <mark key="[" line="45" column="42" />
-        <mark key="]" line="45" column="42" />
-        <mark key="." line="45" column="42" />
-        <mark key="^" line="45" column="42" />
+      <file name="C:/KundenProjekte/ZPUE/enzian-talend/kundenproduktgruppen/src/main/java/de/gema/zpue/migration/anspruchsbasen/kundenproduktgruppen/logic/AnspruchUpdateService.java" timestamp="1557321604181">
+        <mark key="a" line="245" column="11" />
+        <mark key="t" line="245" column="23" />
+        <mark key="'" line="241" column="16" />
+        <mark key="[" line="46" column="100" />
+        <mark key="]" line="47" column="24" />
+        <mark key="." line="47" column="24" />
+        <mark key="^" line="47" column="24" />
       </file>
       <file name="C:/KundenProjekte/ZPUE/enzian/shared/src/main/java/de/gema/zpue/shared/konstanten/sap/Operation.java" timestamp="1554447902217">
         <mark key="[" line="8" column="14" />
@@ -282,12 +282,12 @@
         <mark key="^" line="15" column="41" />
         <mark key="." line="15" column="41" />
       </file>
-      <file name="C:/KundenProjekte/ZPUE/enzian-talend/kundenproduktgruppen/src/main/java/de/gema/zpue/migration/anspruchsbasen/kundenproduktgruppen/communication/EnaioCommunicationService.java" timestamp="1557156570660">
+      <file name="C:/KundenProjekte/ZPUE/enzian-talend/kundenproduktgruppen/src/main/java/de/gema/zpue/migration/anspruchsbasen/kundenproduktgruppen/communication/EnaioCommunicationService.java" timestamp="1557321468158">
         <mark key="'" line="21" column="13" />
-        <mark key="[" line="55" column="24" />
-        <mark key="]" line="55" column="56" />
-        <mark key="." line="55" column="24" />
-        <mark key="^" line="55" column="55" />
+        <mark key="[" line="55" column="23" />
+        <mark key="]" line="55" column="26" />
+        <mark key="." line="55" column="26" />
+        <mark key="^" line="55" column="26" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/dennis/src/rover/Original.java" timestamp="1555701439832">
         <mark key="[" line="0" column="0" />
@@ -444,7 +444,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">V2VydCBm/HIgZGllIA==</text>
+        <text>&quot;4414D571C168438C82B67411EA0FEE16&quot;</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -458,7 +458,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">V2VydCBm/HIgZGllIA==</text>
+        <text>&quot;4414D571C168438C82B67411EA0FEE16&quot;</text>
       </register>
       <register name="/" type="4">
         <text>A</text>
