@@ -155,13 +155,12 @@
         <mark key="." line="14" column="31" />
         <mark key="^" line="14" column="31" />
       </file>
-      <file name="C:/KundenProjekte/ZPUE/enzian-talend/kundenproduktgruppen/src/main/java/de/gema/zpue/migration/anspruchsbasen/kundenproduktgruppen/logic/AnspruchUpdateService.java" timestamp="1557306623979">
-        <mark key="t" line="240" column="55" />
-        <mark key="'" line="240" column="111" />
-        <mark key="[" line="240" column="111" />
-        <mark key="]" line="240" column="111" />
-        <mark key="." line="240" column="111" />
-        <mark key="^" line="240" column="111" />
+      <file name="C:/KundenProjekte/ZPUE/enzian-talend/kundenproduktgruppen/src/main/java/de/gema/zpue/migration/anspruchsbasen/kundenproduktgruppen/logic/AnspruchUpdateService.java" timestamp="1557306937548">
+        <mark key="t" line="240" column="23" />
+        <mark key="[" line="254" column="5" />
+        <mark key="]" line="235" column="27" />
+        <mark key="." line="235" column="27" />
+        <mark key="^" line="235" column="27" />
       </file>
       <file name="C:/KundenProjekte/ZPUE/enzian/shared/src/main/java/de/gema/zpue/shared/konstanten/sap/Operation.java" timestamp="1554447902217">
         <mark key="[" line="8" column="14" />
@@ -340,7 +339,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="111" column="21" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/input/CsvParser.java" />
       <jump line="58" column="90" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/mapper/Mapper.java" />
       <jump line="2" column="13" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/data/output/EnaioAuskunft.java" />
       <jump line="7" column="7" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/data/tables/Marken.java" />
@@ -439,11 +437,12 @@
       <jump line="230" column="29" filename="C:/KundenProjekte/ZPUE/enzian-talend/kundenproduktgruppen/src/main/java/de/gema/zpue/migration/anspruchsbasen/kundenproduktgruppen/logic/AnspruchUpdateService.java" />
       <jump line="31" column="14" filename="C:/KundenProjekte/ZPUE/enzian-talend/sonstigedatenuebernahmen/src/main/java/de/adesso/zpue/sonstigedatenuebernahmen/rest/EnaioRestClient.java" />
       <jump line="228" column="35" filename="C:/KundenProjekte/ZPUE/enzian-talend/kundenproduktgruppen/src/main/java/de/gema/zpue/migration/anspruchsbasen/kundenproduktgruppen/logic/AnspruchUpdateService.java" />
-      <jump line="240" column="111" filename="C:/KundenProjekte/ZPUE/enzian-talend/kundenproduktgruppen/src/main/java/de/gema/zpue/migration/anspruchsbasen/kundenproduktgruppen/logic/AnspruchUpdateService.java" />
+      <jump line="240" column="20" filename="C:/KundenProjekte/ZPUE/enzian-talend/kundenproduktgruppen/src/main/java/de/gema/zpue/migration/anspruchsbasen/kundenproduktgruppen/logic/AnspruchUpdateService.java" />
+      <jump line="256" column="34" filename="C:/KundenProjekte/ZPUE/enzian-talend/kundenproduktgruppen/src/main/java/de/gema/zpue/migration/anspruchsbasen/kundenproduktgruppen/logic/AnspruchUpdateService.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>min</text>
+        <text encoding="base64">CiAgICAKICAgIHByaXZhdGUgaW50IGZpbmRJbmRleCgraW50IG1pbiwgaW50IG1heCl7CiAgICAgICAgCiAgICB9</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -457,16 +456,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>min</text>
+        <text>,,,,</text>
       </register>
       <register name="/" type="4">
-        <text>1</text>
+        <text>\u</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGZpbmFsIEVuYWlvQW5zcHJ1Y2ggbWluQW5zcHJ1Y2ggPSBhbnNwcnVlY2hlLmdldChtaW4pOwogICAgICAgICAgICAgICAgaWYoIW1pbkFuc3BydWNoLmdldERhdGEoKS5nZXRBbnNwcnVjaHNncnVuZGxhZ2VucmVmKCkuZXF1YWxzSWdub3JlQ2FzZShhbnNwcnVjaHNncnVuZGxhZ2VuaWQpKXsKICAgICAgICAgICAgICAgICAgICBtaW4rKzsKICAgICAgICAgICAgICAgICAgIGJyZWFrOyAKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIG1pbi0tOwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">CiAgICAKICAgIHByaXZhdGUgaW50IGZpbmRJbmRleCgraW50IG1pbiwgaW50IG1heCl7CiAgICAgICAgCiAgICB9</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -492,13 +491,13 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd2hpbGUgKHRydWUpIHsKICAgICAgICAgICAgICAgIGlmIChtaW4gPT0gMCkgewogICAgICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgICAgICAgfQoKICAgICAgICAgICAgICAgIGZpbmFsIEVuYWlvQW5zcHJ1Y2ggYW5zcHIgPSBhbnNwcnVlY2hlLmdldCgtLW1pbik7CiAgICAgICAgICAgICAgICBpZiAoIWFuc3ByLmdldERhdGEoKS5nZXRBbnNwcnVjaHNncnVuZGxhZ2VucmVmKCkuZXF1YWxzKGFuc3BydWNoc2dydW5kbGFnZW5pZCkpIHsKICAgICAgICAgICAgICAgICAgICBtaW4rKzsKICAgICAgICAgICAgICAgICAgICBicmVhazsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQogICAgICAgICAgICA7CgogICAgICAgICAgICB3aGlsZSAodHJ1ZSkgewogICAgICAgICAgICAgICAgaWYgKG1heCA9PSBhbnNwcnVlY2hlLnNpemUoKSAtIDEpIHsKICAgICAgICAgICAgICAgICAgICBicmVhazsKICAgICAgICAgICAgICAgIH0KCiAgICAgICAgICAgICAgICBmaW5hbCBFbmFpb0Fuc3BydWNoIGFuc3ByID0gYW5zcHJ1ZWNoZS5nZXQoKyttYXgpOwogICAgICAgICAgICAgICAgaWYgKCFhbnNwci5nZXREYXRhKCkuZ2V0QW5zcHJ1Y2hzZ3J1bmRsYWdlbnJlZigpLmVxdWFscyhhbnNwcnVjaHNncnVuZGxhZ2VuaWQpKSB7CiAgICAgICAgICAgICAgICAgICAgYnJlYWs7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtYXgtLTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgd2hpbGUgKHRydWUpIHsKICAgICAgICAgICAgICAgIGlmIChtaW4gPT0gMCkgewogICAgICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgICAgICAgfQoKICAgICAgICAgICAgICAgIGZpbmFsIEVuYWlvQW5zcHJ1Y2ggYW5zcHIgPSBhbnNwcnVlY2hlLmdldCgtLW1pbik7CiAgICAgICAgICAgICAgICBpZiAoIWFuc3ByLmdldERhdGEoKS5nZXRBbnNwcnVjaHNncnVuZGxhZ2VucmVmKCkuZXF1YWxzKGFuc3BydWNoc2dydW5kbGFnZW5pZCkpIHsKICAgICAgICAgICAgICAgICAgICBtaW4rKzsKICAgICAgICAgICAgICAgICAgICBicmVhazsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQogICAgICAgICAgICA7CgogICAgICAgICAgICB3aGlsZSAodHJ1ZSkgewogICAgICAgICAgICAgICAgaWYgKG1heCA9PSBhbnNwcnVlY2hlLnNpemUoKSAtIDEpIHsKICAgICAgICAgICAgICAgICAgICBicmVhazsKICAgICAgICAgICAgICAgIH0KCiAgICAgICAgICAgICAgICBmaW5hbCBFbmFpb0Fuc3BydWNoIGFuc3ByID0gYW5zcHJ1ZWNoZS5nZXQoKyttYXgpOwogICAgICAgICAgICAgICAgaWYgKCFhbnNwci5nZXREYXRhKCkuZ2V0QW5zcHJ1Y2hzZ3J1bmRsYWdlbnJlZigpLmVxdWFscyhhbnNwcnVjaHNncnVuZGxhZ2VuaWQpKSB7CiAgICAgICAgICAgICAgICAgICAgYnJlYWs7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -523,31 +522,31 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtYXgtLTsK</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+      </register>
       <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtYXgtLTsK</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKG1heCArIDEgPiBhbnNwcnVlY2hlLnNpemUoZGQpKQo=</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">ICAgfSBjYXRjaCAoRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsKICAgICAgICB9</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgTGlzdDxNYXA8U3RyaW5nLCBTdHJpbmc+PiB2ZXJ0cmFnc21pdGdsaWVkc2NoYWZ0ZW47Cg==</text>
-      </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>nohl</text>
       </register>
     </registers>
     <search>
-      <last-search>1</last-search>
+      <last-search>\u</last-search>
       <last-offset />
-      <last-pattern>1</last-pattern>
+      <last-pattern>\u</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>=</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -567,11 +566,11 @@
         <entry>logback</entry>
         <entry encoding="base64">XDwsXD4=</entry>
         <entry>shopping</entry>
-        <entry>\u</entry>
         <entry>insert</entry>
         <entry>kundennum</entry>
         <entry>map</entry>
         <entry>1</entry>
+        <entry>\u</entry>
       </history-search>
       <history-cmd>
         <entry>set highlight</entry>
@@ -592,8 +591,8 @@
         <entry>set multiple-cursors</entry>
         <entry>nhl</entry>
         <entry>wa</entry>
-        <entry>nohl</entry>
         <entry>q</entry>
+        <entry>nohl</entry>
       </history-cmd>
       <history-expr />
       <history-input />
