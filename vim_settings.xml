@@ -149,12 +149,13 @@
         <mark key="." line="14" column="31" />
         <mark key="^" line="14" column="31" />
       </file>
-      <file name="C:/KundenProjekte/ZPUE/enzian-talend/kundenproduktgruppen/src/main/java/de/gema/zpue/migration/anspruchsbasen/kundenproduktgruppen/logic/AnspruchUpdateService.java" timestamp="1557382211353">
+      <file name="C:/KundenProjekte/ZPUE/enzian-talend/kundenproduktgruppen/src/main/java/de/gema/zpue/migration/anspruchsbasen/kundenproduktgruppen/logic/AnspruchUpdateService.java" timestamp="1557382987684">
         <mark key="a" line="246" column="11" />
         <mark key="'" line="233" column="27" />
-        <mark key="[" line="223" column="0" />
-        <mark key="]" line="223" column="0" />
-        <mark key="." line="223" column="0" />
+        <mark key="[" line="254" column="13" />
+        <mark key="]" line="255" column="11" />
+        <mark key="." line="255" column="11" />
+        <mark key="^" line="255" column="11" />
       </file>
       <file name="C:/KundenProjekte/ZPUE/enzian/shared/src/main/java/de/gema/zpue/shared/konstanten/sap/Operation.java" timestamp="1554447902217">
         <mark key="[" line="8" column="14" />
