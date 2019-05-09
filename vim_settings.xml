@@ -149,13 +149,13 @@
         <mark key="." line="14" column="31" />
         <mark key="^" line="14" column="31" />
       </file>
-      <file name="C:/KundenProjekte/ZPUE/enzian-talend/kundenproduktgruppen/src/main/java/de/gema/zpue/migration/anspruchsbasen/kundenproduktgruppen/logic/AnspruchUpdateService.java" timestamp="1557385185399">
+      <file name="C:/KundenProjekte/ZPUE/enzian-talend/kundenproduktgruppen/src/main/java/de/gema/zpue/migration/anspruchsbasen/kundenproduktgruppen/logic/AnspruchUpdateService.java" timestamp="1557386831850">
         <mark key="a" line="246" column="11" />
-        <mark key="'" line="233" column="27" />
-        <mark key="[" line="254" column="13" />
-        <mark key="]" line="255" column="11" />
-        <mark key="." line="255" column="11" />
-        <mark key="^" line="255" column="11" />
+        <mark key="'" line="224" column="32" />
+        <mark key="[" line="273" column="0" />
+        <mark key="]" line="273" column="0" />
+        <mark key="." line="273" column="0" />
+        <mark key="^" line="272" column="28" />
       </file>
       <file name="C:/KundenProjekte/ZPUE/enzian/shared/src/main/java/de/gema/zpue/shared/konstanten/sap/Operation.java" timestamp="1554447902217">
         <mark key="[" line="8" column="14" />
@@ -334,7 +334,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="0" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/rest/EnaioRestClient.java" />
       <jump line="118" column="25" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/input/CsvParser.java" />
       <jump line="15" column="0" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/input/CsvParser.java" />
       <jump line="53" column="19" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/logic/Flow.java" />
@@ -434,6 +433,7 @@
       <jump line="234" column="55" filename="C:/KundenProjekte/ZPUE/enzian-talend/kundenproduktgruppen/src/main/java/de/gema/zpue/migration/anspruchsbasen/kundenproduktgruppen/logic/AnspruchUpdateService.java" />
       <jump line="235" column="24" filename="C:/KundenProjekte/ZPUE/enzian-talend/kundenproduktgruppen/src/main/java/de/gema/zpue/migration/anspruchsbasen/kundenproduktgruppen/logic/AnspruchUpdateService.java" />
       <jump line="243" column="27" filename="C:/KundenProjekte/ZPUE/enzian-talend/kundenproduktgruppen/src/main/java/de/gema/zpue/migration/anspruchsbasen/kundenproduktgruppen/logic/AnspruchUpdateService.java" />
+      <jump line="224" column="32" filename="C:/KundenProjekte/ZPUE/enzian-talend/kundenproduktgruppen/src/main/java/de/gema/zpue/migration/anspruchsbasen/kundenproduktgruppen/logic/AnspruchUpdateService.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -451,13 +451,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text>2</text>
       </register>
       <register name="/" type="4">
         <text>A</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZpbmFsIEVuYWlvQW5zcHJ1Y2ggbWluQW5zcHJ1Y2ggPSBhbnNwcnVlY2hlLmdldChtaW4pOwogICAgICAgICAgICAgICAgaWYoIW1pbkFuc3BydWNoLmdldERhdGEoKS5nZXRBbnNwcnVjaHNncnVuZGxhZ2VucmVmKCkuZXF1YWxzSWdub3JlQ2FzZShhbnNwcnVjaHNncnVuZGxhZ2VuaWQpKXsKICAgICAgICAgICAgICAgICAgICBtaW4rKzsKICAgICAgICAgICAgICAgICAgIGJyZWFrOyAKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIG1pbi0tOwo=</text>
+        <text encoding="base64">cmV0dXJuIGdzdnRJZCArMTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -486,13 +486,13 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQ29sbGVjdGlvbnMuCg==</text>
+        <text encoding="base64">ICAgICAgICBpZihnKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -516,20 +516,20 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgIHdoaWxlIChsb3dlckJvdW5kIDwgdXBwZXJCb3VuZCkgewogICAgICAgICAgICAgICAgaW50IG1pZCA9ICh1cHBlckJvdW5kICsgbG93ZXJCb3VuZCkgLyAyOwogICAgICAgICAgICAgICAgaWYgKEIgPD0gYW5zcHJ1ZWNoZS5nZXQobWlkKS5nZXREYXRhKCkuZ2V0KSB7CiAgICAgICAgICAgICAgICAgICAgdXBwZXJCb3VuZCA9IG1pZDsKICAgICAgICBlbHNlewogICAgICAgICAgICAgICAgICAgICAgICBsb3dlckJvdW5kID0gbWlkICsgMTsKICAgICAgICAgICAgICAgICAgICB9</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYm9vbGVhbiBteWRpY2sgPSB0cnVlOwogICAgICAgICAgICAud2hpbGUK</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">CiAgICAKICAgIHByaXZhdGUgaW50IGZpbmRJbmRleCgraW50IG1pbiwgaW50IG1heCl7CiAgICAgICAgCiAgICB9</text>
-      </register>
-      <register name="8" type="2">
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgQ29sbGVjdGlvbnMuCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ZAo=</text>
+      </register>
+      <register name="8" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgIHdoaWxlIChsb3dlckJvdW5kIDwgdXBwZXJCb3VuZCkgewogICAgICAgICAgICAgICAgaW50IG1pZCA9ICh1cHBlckJvdW5kICsgbG93ZXJCb3VuZCkgLyAyOwogICAgICAgICAgICAgICAgaWYgKEIgPD0gYW5zcHJ1ZWNoZS5nZXQobWlkKS5nZXREYXRhKCkuZ2V0KSB7CiAgICAgICAgICAgICAgICAgICAgdXBwZXJCb3VuZCA9IG1pZDsKICAgICAgICBlbHNlewogICAgICAgICAgICAgICAgICAgICAgICBsb3dlckJvdW5kID0gbWlkICsgMTsKICAgICAgICAgICAgICAgICAgICB9</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYm9vbGVhbiBteWRpY2sgPSB0cnVlOwogICAgICAgICAgICAud2hpbGUK</text>
       </register>
       <register name=":" type="4">
         <text>nohl</text>
