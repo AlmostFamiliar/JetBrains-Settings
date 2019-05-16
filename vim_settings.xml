@@ -9,10 +9,7 @@
         <mark key="." line="14" column="12" />
         <mark key="^" line="14" column="12" />
       </file>
-      <file name="/a.dummy" timestamp="1557991746453">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="C:/KundenProjekte/ZPUE/enzian-talend/kundenproduktgruppen/src/main/java/de/gema/zpue/migration/anspruchsbasen/kundenproduktgruppen/logic/AnspruchsbasenUpdateService.java" timestamp="1558005876096">
+      <file name="C:/KundenProjekte/ZPUE/enzian-talend/kundenproduktgruppen/src/main/java/de/gema/zpue/migration/anspruchsbasen/kundenproduktgruppen/logic/AnspruchsbasenUpdateService.java" timestamp="1558007304820">
         <mark key="'" line="126" column="20" />
         <mark key="[" line="143" column="138" />
         <mark key="]" line="143" column="137" />
@@ -41,11 +38,20 @@
         <mark key="]" line="6" column="13" />
         <mark key="." line="6" column="13" />
       </file>
+      <file name="C:/KundenProjekte/ZPUE/enzian/service.kundendatenvalidierung/src/main/java/de/gema/zpue/kundendatenvalidierung/communication/EAICommunicationService.java" timestamp="1557839164205">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="34" column="34" />
+      </file>
+      <file name="C:/KundenProjekte/ZPUE/enzian-talend/kundenproduktgruppen/src/main/java/de/gema/zpue/migration/anspruchsbasen/kundenproduktgruppen/config/Config.java" timestamp="1558008165207" />
       <file name="C:/Projekte/Kotlin Koans/Introduction/Default arguments/src/Task.kt" timestamp="1557928230039">
         <mark key="[" line="0" column="36" />
         <mark key="]" line="0" column="37" />
         <mark key="^" line="0" column="37" />
         <mark key="." line="0" column="37" />
+      </file>
+      <file name="C:/KundenProjekte/ZPUE/enzian/service.kundendatenvalidierung/src/test/java/de/gema/zpue/kundendatenvalidierung/communication/EAICommunicationServiceTest.java" timestamp="1557839625960">
+        <mark key="[" line="49" column="4" />
+        <mark key="]" line="50" column="25" />
       </file>
       <file name="C:/KundenProjekte/ZPUE/enzian-talend/TalendHelperJars/kundenEnaioIds/src/main/java/zpue/models/GsvtDTO.java" timestamp="1557496927001">
         <mark key="[" line="7" column="13" />
@@ -72,11 +78,18 @@
         <mark key="^" line="66" column="50" />
         <mark key="." line="66" column="50" />
       </file>
-      <file name="C:/KundenProjekte/ZPUE/enzian-talend/kundenproduktgruppen/src/main/resources/application.yml" timestamp="1557999774201">
-        <mark key="[" line="7" column="25" />
-        <mark key="]" line="7" column="44" />
-        <mark key="." line="7" column="25" />
-        <mark key="^" line="7" column="24" />
+      <file name="C:/KundenProjekte/ZPUE/enzian-talend/kundenproduktgruppen/src/main/java/de/gema/zpue/migration/anspruchsbasen/kundenproduktgruppen/config/RequestResponseLoggingInterceptor.java" timestamp="1558007149212">
+        <mark key="'" line="41" column="12" />
+        <mark key="[" line="39" column="18" />
+        <mark key="]" line="39" column="21" />
+        <mark key="." line="39" column="21" />
+        <mark key="^" line="39" column="21" />
+      </file>
+      <file name="C:/KundenProjekte/ZPUE/enzian-talend/kundenproduktgruppen/src/main/resources/application.yml" timestamp="1558008482907">
+        <mark key="[" line="1" column="2" />
+        <mark key="]" line="1" column="2" />
+        <mark key="." line="1" column="2" />
+        <mark key="^" line="1" column="2" />
       </file>
       <file name="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/logic/Flow.java" timestamp="1557998025982">
         <mark key="[" line="51" column="0" />
@@ -146,11 +159,8 @@
         <mark key="." line="14" column="31" />
         <mark key="^" line="14" column="31" />
       </file>
-      <file name="C:/KundenProjekte/ZPUE/enzian/shared/src/main/java/de/gema/zpue/shared/konstanten/sap/Operation.java" timestamp="1554447902217">
-        <mark key="[" line="8" column="14" />
-      </file>
-      <file name="/Clipboard.txt" timestamp="1555499169044">
-        <mark key="[" line="0" column="0" />
+      <file name="C:/KundenProjekte/ZPUE/enzian-talend/kundenproduktgruppen/src/main/java/de/gema/zpue/migration/anspruchsbasen/kundenproduktgruppen/KundenproduktgruppenApplication.java" timestamp="1558006329988">
+        <mark key="'" line="13" column="0" />
       </file>
       <file name="C:/KundenProjekte/ZPUE/enzian-talend/TalendHelperJars/kundenEnaioIds/src/main/java/zpue/Kunden.java" timestamp="1557497089490">
         <mark key="[" line="24" column="45" />
@@ -158,7 +168,7 @@
         <mark key="." line="24" column="58" />
         <mark key="^" line="24" column="58" />
       </file>
-      <file name="C:/KundenProjekte/ZPUE/enzian-talend/kundenproduktgruppen/pom.xml" timestamp="1557999039744">
+      <file name="C:/KundenProjekte/ZPUE/enzian-talend/kundenproduktgruppen/pom.xml" timestamp="1558006954996">
         <mark key="[" line="21" column="44" />
         <mark key="]" line="22" column="16" />
         <mark key="." line="22" column="16" />
@@ -229,6 +239,13 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
+      <file name="C:/KundenProjekte/ZPUE/enzian-talend/kundenproduktgruppen/src/main/resources/logback.xml" timestamp="1558007193552">
+        <mark key="'" line="10" column="14" />
+        <mark key="[" line="52" column="17" />
+        <mark key="]" line="52" column="20" />
+        <mark key="." line="52" column="20" />
+        <mark key="^" line="52" column="20" />
+      </file>
       <file name="C:/KundenProjekte/ZPUE/enzian-talend/GsvtMitgliedschaften/src/main/resources/application-local.properties" timestamp="1557992902278">
         <mark key="[" line="3" column="6" />
         <mark key="]" line="3" column="6" />
@@ -255,11 +272,17 @@
         <mark key="." line="6" column="16" />
         <mark key="^" line="6" column="16" />
       </file>
-      <file name="C:/KundenProjekte/ZPUE/enzian-talend/kundenproduktgruppen/src/main/java/de/gema/zpue/migration/anspruchsbasen/kundenproduktgruppen/communication/EnaioCommunicationService.java" timestamp="1558005966590">
-        <mark key="'" line="21" column="13" />
-        <mark key="[" line="55" column="0" />
-        <mark key="]" line="55" column="0" />
-        <mark key="." line="55" column="0" />
+      <file name="C:/KundenProjekte/ZPUE/enzian-talend/kundenproduktgruppen/src/main/java/de/gema/zpue/migration/anspruchsbasen/kundenproduktgruppen/communication/EnaioCommunicationService.java" timestamp="1558008190854">
+        <mark key="t" line="63" column="26" />
+        <mark key="'" line="64" column="8" />
+        <mark key="[" line="58" column="17" />
+        <mark key="]" line="58" column="17" />
+        <mark key="." line="58" column="17" />
+        <mark key="^" line="63" column="30" />
+      </file>
+      <file name="C:/KundenProjekte/ZPUE/enzian/shared/src/main/java/de/gema/zpue/shared/config/Config.java" timestamp="1558006192667">
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="58" column="51" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/dennis/src/rover/Original.java" timestamp="1555701439832">
         <mark key="[" line="0" column="0" />
@@ -271,9 +294,6 @@
         <mark key="]" line="29" column="32" />
         <mark key="." line="29" column="32" />
         <mark key="^" line="29" column="41" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/dennis/src/rover/Operation.java" timestamp="1555677145447">
-        <mark key="[" line="3" column="5" />
       </file>
       <file name="C:/KundenProjekte/ZPUE/enzian-talend/TalendHelperJars/kundenEnaioIds/src/main/java/zpue/rest/EnaioRestClient.java" timestamp="1557736652930">
         <mark key="[" line="9" column="66" />
@@ -297,7 +317,7 @@
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1557999228739">
+      <file name="/fragment.java" timestamp="1558006236737">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
         <mark key="^" line="0" column="5" />
@@ -305,12 +325,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="52" column="11" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/logic/Flow.java" />
-      <jump line="24" column="3" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/logic/Flow.java" />
-      <jump line="51" column="4" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/logic/Flow.java" />
-      <jump line="24" column="0" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/input/CsvParser.java" />
-      <jump line="143" column="43" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/input/CsvParser.java" />
-      <jump line="147" column="37" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/input/CsvParser.java" />
       <jump line="151" column="52" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/input/CsvParser.java" />
       <jump line="148" column="49" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/input/CsvParser.java" />
       <jump line="129" column="49" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/input/CsvParser.java" />
@@ -405,10 +419,16 @@
       <jump line="173" column="8" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/input/CsvParser.java" />
       <jump line="52" column="3" filename="C:/KundenProjekte/ZPUE/enzian-talend/kundenproduktgruppen/src/main/java/de/gema/zpue/migration/anspruchsbasen/kundenproduktgruppen/logic/AnspruchsbasenUpdateService.java" />
       <jump line="126" column="20" filename="C:/KundenProjekte/ZPUE/enzian-talend/kundenproduktgruppen/src/main/java/de/gema/zpue/migration/anspruchsbasen/kundenproduktgruppen/logic/AnspruchsbasenUpdateService.java" />
+      <jump line="13" column="0" filename="C:/KundenProjekte/ZPUE/enzian-talend/kundenproduktgruppen/src/main/java/de/gema/zpue/migration/anspruchsbasen/kundenproduktgruppen/KundenproduktgruppenApplication.java" />
+      <jump line="41" column="12" filename="C:/KundenProjekte/ZPUE/enzian-talend/kundenproduktgruppen/src/main/java/de/gema/zpue/migration/anspruchsbasen/kundenproduktgruppen/config/RequestResponseLoggingInterceptor.java" />
+      <jump line="10" column="14" filename="C:/KundenProjekte/ZPUE/enzian-talend/kundenproduktgruppen/src/main/resources/logback.xml" />
+      <jump line="62" column="52" filename="C:/KundenProjekte/ZPUE/enzian-talend/kundenproduktgruppen/src/main/java/de/gema/zpue/migration/anspruchsbasen/kundenproduktgruppen/communication/EnaioCommunicationService.java" />
+      <jump line="63" column="26" filename="C:/KundenProjekte/ZPUE/enzian-talend/kundenproduktgruppen/src/main/java/de/gema/zpue/migration/anspruchsbasen/kundenproduktgruppen/communication/EnaioCommunicationService.java" />
+      <jump line="64" column="8" filename="C:/KundenProjekte/ZPUE/enzian-talend/kundenproduktgruppen/src/main/java/de/gema/zpue/migration/anspruchsbasen/kundenproduktgruppen/communication/EnaioCommunicationService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIH0K</text>
+      <register name="&quot;" type="4">
+        <text>#</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -422,16 +442,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>pfad</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
-        <text>erstellt</text>
+        <text>\u</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">cGZhZDogLi4vLi4vVGFiZWxsZW4K</text>
+        <text encoding="base64">ICAgICAgICA8ZmlsdGVyIGNsYXNzPSJjaC5xb3MubG9nYmFjay5jbGFzc2ljLmZpbHRlci5UaHJlc2hvbGRGaWx0ZXIiPgogICAgICAgICAgICA8bGV2ZWw+RVJST1I8L2xldmVsPgogICAgICAgIDwvZmlsdGVyPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgIGluc2VydFJlc3BvbnNlID0gcmVzdFRlbXBsYXRlLnBvc3RGb3JFbnRpdHkodGhpcy5lbmFpb0hvc3QgKyAiL3Jlc3Qtd3Mvc2VydmljZS9kbXMvY3JlYXRlL2Fuc3BydWNoc2dydW5kbGFnZT91c2VyY29tbWVudD1BbmdlbGVndCtkdXJjaCtLdW5kZW5Qcm9kR3J1cHBlbitNaWdyYXRpb25zam9iJnBhcmVudHR5cGU9Y3VzdG9tZXImcGFyZW50aWQ9e3BhcmVudElkfSIsIGVhYiwgSW5zZXJ0UmVzcG9uc2UuY2xhc3MsIHBhcmVudElkKTsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -457,13 +477,13 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICB0aHJvdyBuZXcgUmVzdENsaWVudEV4Y2VwdGlvbigpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIGlmKGluc2VydFJlc3BvbnNlLmdldFN0YXR1c0NvZGVWYWx1ZSgpID4gMjk5KXsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICB0aHJvdyBuZXcgUmVzdENsaWVudEV4Y2VwdGlvbigpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cuaW5mbyhTeXN0ZW0uZ2V0UHJvcGVydHkoInVzZXIuZGlyIikpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgIGlmKGluc2VydFJlc3BvbnNlLmdldFN0YXR1c0NvZGVWYWx1ZSgpID4gMjk5KXsK</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -491,7 +511,7 @@
         <text encoding="base64">ICAgICAgICBsb2cuaW5mbyhTeXN0ZW0uZ2V0UHJvcGVydHkoInVzZXIuZGlyIikpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBsb2cuaW5mbyhTeXN0ZW0uZ2V0UHJvcGVydHkoInVzZXIuZGlyIikpOwo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -500,25 +520,23 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cuaW5mbyhTeXN0ZW0uZ2V0UHJvcGVydHkoInVzZXIuZGlyIikpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action KJumpAction</text>
+        <text>nohl</text>
       </register>
     </registers>
     <search>
-      <last-search>erstellt</last-search>
+      <last-search>\u</last-search>
       <last-offset />
-      <last-pattern>erstellt</last-pattern>
-      <last-replace>~</last-replace>
-      <last-substitute>=</last-substitute>
-      <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <last-pattern>\u</last-pattern>
+      <last-replace>info</last-replace>
+      <last-substitute>debug</last-substitute>
+      <last-dir>-1</last-dir>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>@</entry>
-        <entry>.</entry>
         <entry>this</entry>
         <entry>Alt</entry>
         <entry>alt</entry>
@@ -530,17 +548,17 @@
         <entry>kundennum</entry>
         <entry>map</entry>
         <entry>1</entry>
-        <entry>\u</entry>
         <entry>A</entry>
         <entry>field</entry>
         <entry>anspruch</entry>
         <entry>Eai</entry>
         <entry>error</entry>
         <entry>erstellt</entry>
+        <entry>main</entry>
+        <entry>debug</entry>
+        <entry>\u</entry>
       </history-search>
       <history-cmd>
-        <entry>set hls=true</entry>
-        <entry>set nohlsearch=false</entry>
         <entry>set nohlsearch=true</entry>
         <entry>set all</entry>
         <entry>hlsearch</entry>
@@ -556,9 +574,11 @@
         <entry>wa</entry>
         <entry>q</entry>
         <entry>.nohl</entry>
-        <entry>nohl</entry>
         <entry>qa1</entry>
         <entry>action KJumpAction</entry>
+        <entry>s/debug/info/g</entry>
+        <entry>%s/debug/info/g</entry>
+        <entry>nohl</entry>
       </history-cmd>
       <history-expr />
       <history-input />
