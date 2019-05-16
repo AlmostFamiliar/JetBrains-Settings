@@ -262,11 +262,11 @@
         <mark key="." line="19" column="0" />
         <mark key="^" line="19" column="0" />
       </file>
-      <file name="C:/Projekte/Kotlin/src/HelloWorld.kt" timestamp="1557912332952">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="1" column="24" />
-        <mark key="^" line="1" column="24" />
-        <mark key="." line="1" column="24" />
+      <file name="C:/Projekte/Kotlin/src/HelloWorld.kt" timestamp="1557987080193">
+        <mark key="[" line="1" column="34" />
+        <mark key="]" line="1" column="34" />
+        <mark key="^" line="1" column="3" />
+        <mark key="." line="1" column="34" />
       </file>
       <file name="C:/KundenProjekte/ZPUE/enzian/service.sapmigration/src/main/java/de/gema/zpue/sapmigration/communication/ProcessMessageService.java" timestamp="1554446569772">
         <mark key="'" line="0" column="0" />
@@ -519,7 +519,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>1</text>
+        <text>number</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -533,7 +533,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>number</text>
       </register>
       <register name="/" type="4">
         <text>Eai</text>
@@ -541,8 +541,8 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBTdHJpbmcgdG9KU09OKENvbGxlY3Rpb248SW50ZWdlcj4gY29sbGVjdGlvbikgewogICAgICAgIFN0cmluZ0J1aWxkZXIgc2IgPSBuZXcgU3RyaW5nQnVpbGRlcigpOwogICAgICAgIHNiLmFwcGVuZCgiWyIpOwogICAgICAgIEl0ZXJhdG9yPEludGVnZXI+IGl0ZXJhdG9yID0gY29sbGVjdGlvbi5pdGVyYXRvcigpOwogICAgICAgIHdoaWxlIChpdGVyYXRvci5oYXNOZXh0KCkpIHsKICAgICAgICAgICAgSW50ZWdlciBlbGVtZW50ID0gaXRlcmF0b3IubmV4dCgpOwogICAgICAgICAgICBzYi5hcHBlbmQoZWxlbWVudCk7CiAgICAgICAgICAgIGlmIChpdGVyYXRvci5oYXNOZXh0KCkpIHsKICAgICAgICAgICAgICAgIHNiLmFwcGVuZCgiLCAiKTsKICAgICAgICAgICAgfQogICAgICAgIH0KICAgICAgICBzYi5hcHBlbmQoIl0iKTsKICAgICAgICByZXR1cm4gc2IudG9TdHJpbmcoKTsKICAgIH0K</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">CgpTdHJpbmcuZm9ybWF0KCIlMDdkIiwgbnVtYmVyKQ==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -571,10 +571,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnVuIHN0YXJ0KCk6IFN0cmluZyA9IFRPRE8oKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnVuIHRvSlNPTihjb2xsZWN0aW9uOiBDb2xsZWN0aW9uPEludD4pOiBTdHJpbmcgCg==</text>
+        <text encoding="base64">ZnVuIHN0YXJ0KCk6IFN0cmluZyA9IFRPRE8oKQo=</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -599,13 +599,13 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ZnVuIHRvSlNPTihjb2xsZWN0aW9uOiBDb2xsZWN0aW9uPEludD4pOiBTdHJpbmcgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQlsb2cuZXJyb3IoZS5nZXRNZXNzYWdlKCksIGUpOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlsb2cuZXJyb3IoZS5nZXRNZXNzYWdlKCksIGUpOwo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
