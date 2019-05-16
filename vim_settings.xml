@@ -255,8 +255,13 @@
         <mark key="." line="1" column="51" />
         <mark key="^" line="1" column="51" />
       </file>
-      <file name="C:/KundenProjekte/ZPUE/enzian-talend/TalendHelperJars/gsvtIds/src/main/java/zpue/Gsvt.java" timestamp="1557987894633">
-        <mark key="[" line="24" column="30" />
+      <file name="C:/KundenProjekte/ZPUE/enzian-talend/TalendHelperJars/gsvtIds/src/main/java/zpue/Gsvt.java" timestamp="1557989612596">
+        <mark key="t" line="24" column="41" />
+        <mark key="'" line="24" column="61" />
+        <mark key="[" line="28" column="31" />
+        <mark key="]" line="28" column="32" />
+        <mark key="^" line="28" column="32" />
+        <mark key="." line="28" column="32" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/dennis/src/rover/Position.java" timestamp="1555678058666">
         <mark key="'" line="19" column="0" />
@@ -265,10 +270,12 @@
         <mark key="." line="19" column="0" />
         <mark key="^" line="19" column="0" />
       </file>
-      <file name="C:/Projekte/Kotlin/src/HelloWorld.kt" timestamp="1557987080193">
-        <mark key="[" line="1" column="34" />
+      <file name="C:/Projekte/Kotlin/src/HelloWorld.kt" timestamp="1557988877214">
+        <mark key="t" line="1" column="20" />
+        <mark key="'" line="1" column="35" />
+        <mark key="[" line="1" column="33" />
         <mark key="]" line="1" column="34" />
-        <mark key="^" line="1" column="3" />
+        <mark key="^" line="1" column="35" />
         <mark key="." line="1" column="34" />
       </file>
       <file name="C:/KundenProjekte/ZPUE/enzian/service.sapmigration/src/main/java/de/gema/zpue/sapmigration/communication/ProcessMessageService.java" timestamp="1554446569772">
@@ -419,9 +426,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="204" column="0" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/input/CsvParser.java" />
-      <jump line="28" column="8" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/rest/Config.java" />
-      <jump line="36" column="16" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/rest/Config.java" />
       <jump line="40" column="12" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/rest/Config.java" />
       <jump line="14" column="0" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/rest/Config.java" />
       <jump line="15" column="0" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/rest/Config.java" />
@@ -519,10 +523,13 @@
       <jump line="128" column="25" filename="C:/KundenProjekte/ZPUE/enzian-talend/GsvtMitgliedschaften/src/main/java/de/gema/adesso/gsvtmitgliedschaften/rest/EnaioRestClient.java" />
       <jump line="38" column="13" filename="C:/KundenProjekte/ZPUE/enzian/service.vies/src/main/java/de/gema/zpue/vies/communication/comservices/EaiCommunicationImpl.java" />
       <jump line="60" column="25" filename="C:/KundenProjekte/ZPUE/enzian/service.vies/src/test/java/de/gema/zpue/vies/comservices/EaiCommunicationImplTest.java" />
+      <jump line="1" column="35" filename="C:/Projekte/Kotlin/src/HelloWorld.kt" />
+      <jump line="36" column="67" filename="C:/KundenProjekte/ZPUE/enzian-talend/TalendHelperJars/gsvtIds/src/main/java/zpue/Gsvt.java" />
+      <jump line="24" column="61" filename="C:/KundenProjekte/ZPUE/enzian-talend/TalendHelperJars/gsvtIds/src/main/java/zpue/Gsvt.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>number</text>
+        <text>final</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -536,16 +543,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>number</text>
+        <text>final</text>
       </register>
       <register name="/" type="4">
         <text>Eai</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBTdHJpbmcgdG9KU09OKENvbGxlY3Rpb248SW50ZWdlcj4gY29sbGVjdGlvbikgewogICAgICAgIFN0cmluZ0J1aWxkZXIgc2IgPSBuZXcgU3RyaW5nQnVpbGRlcigpOwogICAgICAgIHNiLmFwcGVuZCgiWyIpOwogICAgICAgIEl0ZXJhdG9yPEludGVnZXI+IGl0ZXJhdG9yID0gY29sbGVjdGlvbi5pdGVyYXRvcigpOwogICAgICAgIHdoaWxlIChpdGVyYXRvci5oYXNOZXh0KCkpIHsKICAgICAgICAgICAgSW50ZWdlciBlbGVtZW50ID0gaXRlcmF0b3IubmV4dCgpOwogICAgICAgICAgICBzYi5hcHBlbmQoZWxlbWVudCk7CiAgICAgICAgICAgIGlmIChpdGVyYXRvci5oYXNOZXh0KCkpIHsKICAgICAgICAgICAgICAgIHNiLmFwcGVuZCgiLCAiKTsKICAgICAgICAgICAgfQogICAgICAgIH0KICAgICAgICBzYi5hcHBlbmQoIl0iKTsKICAgICAgICByZXR1cm4gc2IudG9TdHJpbmcoKTsKICAgIH0K</text>
+      <register name="0" type="4">
+        <text>gsvtIdToInt</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CgpTdHJpbmcuZm9ybWF0KCIlMDdkIiwgbnVtYmVyKQ==</text>
+      <register name="1" type="2">
+        <text encoding="base64">Z3N2dElkLnN1YnN0cmluZygzKTsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -571,13 +578,13 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50bG4oSW50ZWdlci5wYXJzZUludCgiMDM5IikpCg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">CgpTdHJpbmcuZm9ybWF0KCIlMDdkIiwgbnVtYmVyKQ==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnVuIHN0YXJ0KCk6IFN0cmluZyA9IFRPRE8oKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -602,19 +609,19 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnVuIHRvSlNPTihjb2xsZWN0aW9uOiBDb2xsZWN0aW9uPEludD4pOiBTdHJpbmcgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ZnVuIHN0YXJ0KCk6IFN0cmluZyA9IFRPRE8oKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQlsb2cuZXJyb3IoZS5nZXRNZXNzYWdlKCksIGUpOwo=</text>
+        <text encoding="base64">ZnVuIHRvSlNPTihjb2xsZWN0aW9uOiBDb2xsZWN0aW9uPEludD4pOiBTdHJpbmcgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlsb2cuZXJyb3IoZS5nZXRNZXNzYWdlKCksIGUpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>action KJumpAction</text>
