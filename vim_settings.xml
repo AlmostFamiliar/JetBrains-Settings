@@ -23,7 +23,7 @@
         <mark key="^" line="17" column="51" />
         <mark key="." line="17" column="51" />
       </file>
-      <file name="/a.dummy" timestamp="1557497100687">
+      <file name="/a.dummy" timestamp="1557991746453">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/KundenProjekte/ZPUE/enzian-talend/kundenproduktgruppen/src/main/java/de/gema/zpue/migration/anspruchsbasen/kundenproduktgruppen/logic/AnspruchsbasenUpdateService.java" timestamp="1557154954719">
@@ -102,6 +102,14 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="6" column="33" />
       </file>
+      <file name="C:/KundenProjekte/ZPUE/enzian-talend/GsvtMitgliedschaften/src/main/java/de/gema/adesso/gsvtmitgliedschaften/logic/GsvtMapping.java" timestamp="1557992857940">
+        <mark key="t" line="66" column="30" />
+        <mark key="'" line="66" column="76" />
+        <mark key="[" line="66" column="40" />
+        <mark key="]" line="66" column="50" />
+        <mark key="^" line="66" column="50" />
+        <mark key="." line="66" column="50" />
+      </file>
       <file name="C:/KundenProjekte/ZPUE/enzian-talend/kundenproduktgruppen/src/main/resources/application.yml" timestamp="1557142214576">
         <mark key="[" line="2" column="28" />
         <mark key="]" line="2" column="29" />
@@ -113,6 +121,7 @@
         <mark key="^" line="78" column="24" />
         <mark key="." line="78" column="24" />
       </file>
+      <file name="C:/KundenProjekte/ZPUE/enzian-talend/GsvtMitgliedschaften/src/main/java/de/gema/adesso/gsvtmitgliedschaften/GsvtmitgliedschaftenApplication.java" timestamp="1557992779263" />
       <file name="C:/Projekte/tmp789/src/Main.java" timestamp="1555586581495">
         <mark key="[" line="0" column="19" />
         <mark key="]" line="7" column="0" />
@@ -142,14 +151,6 @@
         <mark key="]" line="6" column="3" />
         <mark key="^" line="6" column="3" />
         <mark key="." line="6" column="3" />
-      </file>
-      <file name="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/data/output/EnaioAuskunft.java" timestamp="1557735795657">
-        <mark key="t" line="23" column="0" />
-        <mark key="'" line="22" column="29" />
-        <mark key="[" line="18" column="34" />
-        <mark key="]" line="18" column="33" />
-        <mark key="^" line="18" column="33" />
-        <mark key="." line="18" column="33" />
       </file>
       <file name="C:/Projekte/Kotlin Koans/Introduction/Hello, world!/src/Task.kt" timestamp="1557925215418">
         <mark key="[" line="0" column="11" />
@@ -249,6 +250,11 @@
         <mark key="]" line="10" column="43" />
         <mark key="." line="15" column="0" />
       </file>
+      <file name="C:/KundenProjekte/ZPUE/enzian-talend/GsvtMitgliedschaften/src/main/resources/application.properties" timestamp="1557992791215">
+        <mark key="[" line="0" column="24" />
+        <mark key="]" line="0" column="25" />
+        <mark key="." line="0" column="25" />
+      </file>
       <file name="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/resources/application.properties" timestamp="1555575716696">
         <mark key="[" line="1" column="47" />
         <mark key="]" line="1" column="51" />
@@ -270,7 +276,7 @@
         <mark key="." line="19" column="0" />
         <mark key="^" line="19" column="0" />
       </file>
-      <file name="C:/Projekte/Kotlin/src/HelloWorld.kt" timestamp="1557988877214">
+      <file name="C:/Projekte/Kotlin/src/HelloWorld.kt" timestamp="1557991389965">
         <mark key="t" line="1" column="20" />
         <mark key="'" line="1" column="35" />
         <mark key="[" line="1" column="33" />
@@ -328,12 +334,17 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
+      <file name="C:/KundenProjekte/ZPUE/enzian-talend/GsvtMitgliedschaften/src/main/resources/application-local.properties" timestamp="1557992902278">
+        <mark key="[" line="3" column="6" />
+        <mark key="]" line="3" column="6" />
+        <mark key="." line="3" column="6" />
+      </file>
       <file name="C:/Projekte/tmp789/src/de/adesso/strasser/peter/main/Car.java" timestamp="1555587072008">
         <mark key="[" line="2" column="31" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1557067645762">
+      <file name="/Dummy.txt" timestamp="1557992912749">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/data/tables/Produkte.java" timestamp="1555514344030">
@@ -418,7 +429,7 @@
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1557303876603">
+      <file name="/fragment.java" timestamp="1557992911860">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
         <mark key="^" line="0" column="5" />
@@ -426,8 +437,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="40" column="12" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/rest/Config.java" />
-      <jump line="14" column="0" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/rest/Config.java" />
       <jump line="15" column="0" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/rest/Config.java" />
       <jump line="46" column="29" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/rest/EnaioRestClient.java" />
       <jump line="18" column="0" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/rest/EnaioRestClient.java" />
@@ -526,10 +535,12 @@
       <jump line="1" column="35" filename="C:/Projekte/Kotlin/src/HelloWorld.kt" />
       <jump line="36" column="67" filename="C:/KundenProjekte/ZPUE/enzian-talend/TalendHelperJars/gsvtIds/src/main/java/zpue/Gsvt.java" />
       <jump line="24" column="61" filename="C:/KundenProjekte/ZPUE/enzian-talend/TalendHelperJars/gsvtIds/src/main/java/zpue/Gsvt.java" />
+      <jump line="65" column="87" filename="C:/KundenProjekte/ZPUE/enzian-talend/GsvtMitgliedschaften/src/main/java/de/gema/adesso/gsvtmitgliedschaften/logic/GsvtMapping.java" />
+      <jump line="66" column="76" filename="C:/KundenProjekte/ZPUE/enzian-talend/GsvtMitgliedschaften/src/main/java/de/gema/adesso/gsvtmitgliedschaften/logic/GsvtMapping.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>final</text>
+        <text>/</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -543,7 +554,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>final</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>Eai</text>
@@ -552,7 +563,7 @@
         <text>gsvtIdToInt</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Z3N2dElkLnN1YnN0cmluZygzKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -578,13 +589,13 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4oSW50ZWdlci5wYXJzZUludCgiMDM5IikpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIChTdHJpbmcgZW56aWFuR3N2dElkIDogenB1ZUdzdnRJZHNUb0Vuemlhbk1hcC5nZXQoenB1ZUdzdnRNaXRnbGllZHNjaGFmdC5nZXRHU1ZUX0lEKCkpKSB7Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">CgpTdHJpbmcuZm9ybWF0KCIlMDdkIiwgbnVtYmVyKQ==</text>
+      <register name="3" type="2">
+        <text encoding="base64">Z3N2dElkLnN1YnN0cmluZygzKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50bG4oSW50ZWdlci5wYXJzZUludCgiMDM5IikpCg==</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -608,20 +619,20 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">CgpTdHJpbmcuZm9ybWF0KCIlMDdkIiwgbnVtYmVyKQ==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnVuIHN0YXJ0KCk6IFN0cmluZyA9IFRPRE8oKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnVuIHRvSlNPTihjb2xsZWN0aW9uOiBDb2xsZWN0aW9uPEludD4pOiBTdHJpbmcgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ZnVuIHN0YXJ0KCk6IFN0cmluZyA9IFRPRE8oKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlsb2cuZXJyb3IoZS5nZXRNZXNzYWdlKCksIGUpOwo=</text>
+        <text encoding="base64">ZnVuIHRvSlNPTihjb2xsZWN0aW9uOiBDb2xsZWN0aW9uPEludD4pOiBTdHJpbmcgCg==</text>
       </register>
       <register name=":" type="4">
         <text>action KJumpAction</text>
