@@ -9,12 +9,12 @@
         <mark key="." line="14" column="12" />
         <mark key="^" line="14" column="12" />
       </file>
-      <file name="C:/KundenProjekte/ZPUE/enzian-talend/kundenproduktgruppen/src/main/java/de/gema/zpue/migration/anspruchsbasen/kundenproduktgruppen/logic/AnspruchsbasenUpdateService.java" timestamp="1558007304820">
-        <mark key="'" line="126" column="20" />
-        <mark key="[" line="143" column="138" />
-        <mark key="]" line="143" column="137" />
-        <mark key="." line="143" column="137" />
-        <mark key="^" line="143" column="137" />
+      <file name="C:/KundenProjekte/ZPUE/enzian-talend/kundenproduktgruppen/src/main/java/de/gema/zpue/migration/anspruchsbasen/kundenproduktgruppen/logic/AnspruchsbasenUpdateService.java" timestamp="1558016498347">
+        <mark key="'" line="139" column="20" />
+        <mark key="[" line="64" column="56" />
+        <mark key="]" line="65" column="7" />
+        <mark key="." line="65" column="7" />
+        <mark key="^" line="65" column="7" />
       </file>
       <file name="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/resources/log4j.properties" timestamp="1555593383721">
         <mark key="[" line="9" column="75" />
@@ -55,11 +55,6 @@
         <mark key="." line="7" column="12" />
         <mark key="^" line="7" column="12" />
       </file>
-      <file name="C:/KundenProjekte/ZPUE/enzian-talend/kundenproduktgruppen/src/main/java/de/gema/zpue/migration/anspruchsbasen/kundenproduktgruppen/input/CSVUtils.java" timestamp="1557998747395">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
-      </file>
       <file name="C:/KundenProjekte/ZPUE/enzian-talend/kundenproduktgruppen/src/main/java/de/gema/zpue/migration/anspruchsbasen/kundenproduktgruppen/model/enaio/InsertResponse.java" timestamp="1557153822443">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -81,13 +76,13 @@
         <mark key="." line="39" column="21" />
         <mark key="^" line="39" column="21" />
       </file>
-      <file name="C:/KundenProjekte/ZPUE/enzian-talend/kundenproduktgruppen/src/main/resources/application.yml" timestamp="1558008482907">
+      <file name="C:/KundenProjekte/ZPUE/enzian-talend/kundenproduktgruppen/src/main/resources/application.yml" timestamp="1558016391723">
         <mark key="[" line="1" column="2" />
         <mark key="]" line="1" column="2" />
         <mark key="." line="1" column="2" />
         <mark key="^" line="1" column="2" />
       </file>
-      <file name="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/logic/Flow.java" timestamp="1557998025982">
+      <file name="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/logic/Flow.java" timestamp="1558016476182">
         <mark key="[" line="51" column="0" />
         <mark key="]" line="54" column="56" />
         <mark key="^" line="78" column="24" />
@@ -139,6 +134,7 @@
         <mark key="." line="14" column="31" />
         <mark key="^" line="14" column="31" />
       </file>
+      <file name="C:/KundenProjekte/ZPUE/enzian-talend/kundenproduktgruppen/src/main/java/de/gema/zpue/migration/anspruchsbasen/kundenproduktgruppen/logic/AnspruchUpdateService.java" timestamp="1558017152654" />
       <file name="C:/KundenProjekte/ZPUE/enzian-talend/kundenproduktgruppen/src/main/java/de/gema/zpue/migration/anspruchsbasen/kundenproduktgruppen/KundenproduktgruppenApplication.java" timestamp="1558006329988">
         <mark key="'" line="13" column="0" />
       </file>
@@ -159,16 +155,6 @@
         <mark key="]" line="0" column="91" />
         <mark key="." line="0" column="91" />
         <mark key="^" line="0" column="91" />
-      </file>
-      <file name="C:/Projekte/Kotlin Koans/Introduction/Java to Kotlin conversion/src/JavaCode.java" timestamp="1557913017800">
-        <mark key="[" line="4" column="1" />
-        <mark key="]" line="4" column="5" />
-        <mark key="." line="4" column="1" />
-      </file>
-      <file name="C:/KundenProjekte/ZPUE/enzian-talend/GsvtMitgliedschaften/src/main/resources/application.properties" timestamp="1557992791215">
-        <mark key="[" line="0" column="24" />
-        <mark key="]" line="0" column="25" />
-        <mark key="." line="0" column="25" />
       </file>
       <file name="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/resources/application.properties" timestamp="1557999690375">
         <mark key="[" line="0" column="0" />
@@ -210,11 +196,6 @@
         <mark key="]" line="52" column="20" />
         <mark key="." line="52" column="20" />
         <mark key="^" line="52" column="20" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1557999228748">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="C:/KundenProjekte/ZPUE/enzian-talend/TalendHelperJars/kundenEnaioIds/pom.xml" timestamp="1557738540163">
         <mark key="[" line="6" column="13" />
@@ -373,8 +354,8 @@
       <jump line="15" column="46" filename="C:/Projekte/Kotlin/src/de/strasser/peter/kotlin/hehe/HelloWorld.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>PREFIX</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -388,7 +369,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>* 2</text>
+        <text>PREFIX</text>
       </register>
       <register name="/" type="4">
         <text>\u</text>
