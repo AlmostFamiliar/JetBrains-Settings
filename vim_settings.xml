@@ -16,11 +16,6 @@
         <mark key="." line="143" column="137" />
         <mark key="^" line="143" column="137" />
       </file>
-      <file name="C:/KundenProjekte/ZPUE/enzian/service.validierung/src/main/java/de/gema/zpue/validierung/api/ExceptionControllerAdvice.java" timestamp="1557839498120">
-        <mark key="[" line="58" column="0" />
-        <mark key="]" line="58" column="0" />
-        <mark key="." line="58" column="0" />
-      </file>
       <file name="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/resources/log4j.properties" timestamp="1555593383721">
         <mark key="[" line="9" column="75" />
         <mark key="]" line="9" column="79" />
@@ -33,10 +28,12 @@
         <mark key="." line="14" column="35" />
         <mark key="^" line="14" column="35" />
       </file>
-      <file name="C:/Projekte/tmp789/src/de/adesso/strasser/peter/main/Main.java" timestamp="1555587085953">
-        <mark key="[" line="6" column="13" />
-        <mark key="]" line="6" column="13" />
-        <mark key="." line="6" column="13" />
+      <file name="C:/KundenProjekte/ZPUE/enzian/service.sapmessageconverter/src/main/java/de/gema/zpue/sapmessageconverter/logic/RechnungsConverterService.java" timestamp="1558011007594">
+        <mark key="'" line="53" column="88" />
+        <mark key="[" line="63" column="43" />
+        <mark key="]" line="63" column="43" />
+        <mark key="^" line="109" column="40" />
+        <mark key="." line="63" column="43" />
       </file>
       <file name="C:/KundenProjekte/ZPUE/enzian/service.kundendatenvalidierung/src/main/java/de/gema/zpue/kundendatenvalidierung/communication/EAICommunicationService.java" timestamp="1557839164205">
         <mark key="[" line="33" column="0" />
@@ -70,14 +67,6 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="6" column="33" />
       </file>
-      <file name="C:/KundenProjekte/ZPUE/enzian-talend/GsvtMitgliedschaften/src/main/java/de/gema/adesso/gsvtmitgliedschaften/logic/GsvtMapping.java" timestamp="1557993891515">
-        <mark key="t" line="66" column="30" />
-        <mark key="'" line="66" column="76" />
-        <mark key="[" line="66" column="40" />
-        <mark key="]" line="66" column="50" />
-        <mark key="^" line="66" column="50" />
-        <mark key="." line="66" column="50" />
-      </file>
       <file name="C:/KundenProjekte/ZPUE/enzian-talend/kundenproduktgruppen/src/main/java/de/gema/zpue/migration/anspruchsbasen/kundenproduktgruppen/config/RequestResponseLoggingInterceptor.java" timestamp="1558007149212">
         <mark key="'" line="41" column="12" />
         <mark key="[" line="39" column="18" />
@@ -98,11 +87,6 @@
         <mark key="." line="78" column="24" />
       </file>
       <file name="C:/KundenProjekte/ZPUE/enzian-talend/GsvtMitgliedschaften/src/main/java/de/gema/adesso/gsvtmitgliedschaften/GsvtmitgliedschaftenApplication.java" timestamp="1557992779263" />
-      <file name="C:/Projekte/tmp789/src/Main.java" timestamp="1555586581495">
-        <mark key="[" line="0" column="19" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-      </file>
       <file name="C:/KundenProjekte/ZPUE/enzian-talend/sonstigedatenuebernahmen/src/main/java/de/adesso/zpue/sonstigedatenuebernahmen/logic/CopyContentService.java" timestamp="1557298606510">
         <mark key="[" line="64" column="146" />
         <mark key="]" line="65" column="7" />
@@ -115,11 +99,6 @@
         <mark key="]" line="192" column="65" />
         <mark key="^" line="58" column="77" />
         <mark key="." line="58" column="77" />
-      </file>
-      <file name="C:/Projekte/Kotlin Koans/Introduction/Java to Kotlin conversion/src/Task.kt" timestamp="1557913096710">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="C:/Projekte/Kotlin Koans/Introduction/Hello, world!/src/Task.kt" timestamp="1557925215418">
         <mark key="[" line="0" column="11" />
@@ -135,11 +114,6 @@
         <mark key="]" line="5" column="32" />
         <mark key="^" line="5" column="32" />
         <mark key="." line="5" column="32" />
-      </file>
-      <file name="C:/KundenProjekte/ZPUE/enzian/service.sap/pom.xml" timestamp="1557836573830">
-        <mark key="[" line="13" column="18" />
-        <mark key="]" line="13" column="19" />
-        <mark key="." line="13" column="19" />
       </file>
       <file name="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/mapper/Table.java" timestamp="1555580107042">
         <mark key="[" line="15" column="26" />
@@ -185,11 +159,6 @@
         <mark key="]" line="4" column="5" />
         <mark key="." line="4" column="1" />
       </file>
-      <file name="C:/KundenProjekte/ZPUE/enzian-talend/kundenproduktgruppen/src/main/java/de/gema/zpue/migration/anspruchsbasen/kundenproduktgruppen/model/enaio/EnaioAnspruch.java" timestamp="1557153818045">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="43" />
-        <mark key="." line="15" column="0" />
-      </file>
       <file name="C:/KundenProjekte/ZPUE/enzian-talend/GsvtMitgliedschaften/src/main/resources/application.properties" timestamp="1557992791215">
         <mark key="[" line="0" column="24" />
         <mark key="]" line="0" column="25" />
@@ -201,43 +170,17 @@
         <mark key="." line="1" column="51" />
         <mark key="^" line="1" column="51" />
       </file>
-      <file name="C:/KundenProjekte/ZPUE/enzian-talend/TalendHelperJars/gsvtIds/src/main/java/zpue/Gsvt.java" timestamp="1557989612596">
-        <mark key="t" line="24" column="41" />
-        <mark key="'" line="24" column="61" />
-        <mark key="[" line="24" column="31" />
-        <mark key="]" line="24" column="32" />
-        <mark key="^" line="24" column="32" />
-        <mark key="." line="24" column="32" />
-      </file>
-      <file name="C:/Projekte/Kotlin/src/HelloWorld.kt" timestamp="1557991389965">
-        <mark key="t" line="1" column="20" />
-        <mark key="'" line="1" column="35" />
-        <mark key="[" line="1" column="33" />
-        <mark key="]" line="1" column="34" />
-        <mark key="^" line="1" column="35" />
-        <mark key="." line="1" column="34" />
-      </file>
       <file name="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/resources/application-local.properties" timestamp="1555579243427">
         <mark key="[" line="2" column="13" />
         <mark key="]" line="2" column="13" />
         <mark key="." line="2" column="13" />
         <mark key="^" line="1" column="0" />
       </file>
-      <file name="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/mylogs.log" timestamp="1555589929750">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/dennis/src/rover/Move.java" timestamp="1555679224461">
         <mark key="[" line="6" column="91" />
         <mark key="]" line="6" column="92" />
         <mark key="." line="6" column="92" />
         <mark key="^" line="8" column="86" />
-      </file>
-      <file name="D:/Projekte/angular/authentication-final/authentication-final/src/app/app-routing.module.ts" timestamp="1557080086013">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
       </file>
       <file name="C:/KundenProjekte/ZPUE/enzian-talend/kundenproduktgruppen/src/main/resources/logback.xml" timestamp="1558007193552">
         <mark key="'" line="10" column="14" />
@@ -246,25 +189,11 @@
         <mark key="." line="52" column="20" />
         <mark key="^" line="52" column="20" />
       </file>
-      <file name="C:/KundenProjekte/ZPUE/enzian-talend/GsvtMitgliedschaften/src/main/resources/application-local.properties" timestamp="1557992902278">
-        <mark key="[" line="3" column="6" />
-        <mark key="]" line="3" column="6" />
-        <mark key="." line="3" column="6" />
-      </file>
-      <file name="C:/Projekte/tmp789/src/de/adesso/strasser/peter/main/Car.java" timestamp="1555587072008">
-        <mark key="[" line="2" column="31" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
+      <file name="C:/KundenProjekte/ZPUE/enzian/service.sapmessageconverter/src/main/java/de/gema/zpue/sapmessageconverter/converter/PositionConverter.java" timestamp="1558010883638" />
       <file name="/Dummy.txt" timestamp="1557999228748">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="C:/KundenProjekte/ZPUE/enzian/service.vies/pom.xml" timestamp="1557840325313">
-        <mark key="[" line="13" column="17" />
-        <mark key="]" line="13" column="18" />
-        <mark key="." line="13" column="18" />
       </file>
       <file name="C:/KundenProjekte/ZPUE/enzian-talend/TalendHelperJars/kundenEnaioIds/pom.xml" timestamp="1557738540163">
         <mark key="[" line="6" column="13" />
@@ -281,11 +210,6 @@
       <file name="C:/KundenProjekte/ZPUE/enzian/shared/src/main/java/de/gema/zpue/shared/config/Config.java" timestamp="1558006192667">
         <mark key="[" line="58" column="0" />
         <mark key="]" line="58" column="51" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/dennis/src/rover/Original.java" timestamp="1555701439832">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/pom.xml" timestamp="1555589515150">
         <mark key="[" line="29" column="32" />
@@ -304,16 +228,6 @@
         <mark key="]" line="3" column="4" />
         <mark key="^" line="3" column="4" />
         <mark key="." line="3" column="4" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/dennis/src/Main.java" timestamp="1555675412576">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="C:/KundenProjekte/ZPUE/enzian-talend/kundenproduktgruppen/src/main/java/de/gema/zpue/migration/anspruchsbasen/kundenproduktgruppen/model/enaio/AnspruchData.java" timestamp="1557155917049">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
       </file>
       <file name="/fragment.java" timestamp="1558006236737">
         <mark key="[" line="0" column="0" />
