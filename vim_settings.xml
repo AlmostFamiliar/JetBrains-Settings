@@ -3,15 +3,24 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/data/tables/OfAuskunftPosition.java" timestamp="1555514331753">
-        <mark key="'" line="8" column="73" />
-        <mark key="[" line="17" column="33" />
-        <mark key="]" line="17" column="51" />
-        <mark key="^" line="17" column="51" />
-        <mark key="." line="17" column="51" />
+      <file name="C:/Projekte/Kotlin Koans/Introduction/Named arguments/src/Task.kt" timestamp="1557927899599">
+        <mark key="[" line="0" column="83" />
+        <mark key="]" line="0" column="91" />
+        <mark key="." line="0" column="91" />
+        <mark key="^" line="0" column="91" />
       </file>
-      <file name="/a.dummy" timestamp="1555587041817">
-        <mark key="[" line="0" column="0" />
+      <file name="C:/KundenProjekte/ZPUE/enzian-talend/TalendHelperJars/kundenEnaioIds/src/main/java/zpue/Gsvt.java" timestamp="1557496981808">
+        <mark key="[" line="14" column="13" />
+        <mark key="]" line="14" column="12" />
+        <mark key="." line="14" column="12" />
+        <mark key="^" line="14" column="12" />
+      </file>
+      <file name="C:/KundenProjekte/ZPUE/enzian-talend/kundenproduktgruppen/src/main/java/de/gema/zpue/migration/anspruchsbasen/kundenproduktgruppen/logic/AnspruchsbasenUpdateService.java" timestamp="1558016498347">
+        <mark key="'" line="139" column="20" />
+        <mark key="[" line="64" column="56" />
+        <mark key="]" line="65" column="7" />
+        <mark key="." line="65" column="7" />
+        <mark key="^" line="65" column="7" />
       </file>
       <file name="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/resources/log4j.properties" timestamp="1555593383721">
         <mark key="[" line="9" column="75" />
@@ -19,81 +28,169 @@
         <mark key="." line="9" column="79" />
         <mark key="^" line="9" column="79" />
       </file>
-      <file name="C:/KundenProjekte/ZPUE/enzian/service.sapmessageconverter/src/main/java/de/gema/zpue/sapmessageconverter/enums/Operation.java" timestamp="1554447358338">
-        <mark key="'" line="7" column="17" />
-        <mark key="[" line="31" column="19" />
-        <mark key="]" line="31" column="20" />
-        <mark key="." line="31" column="20" />
-        <mark key="^" line="11" column="13" />
+      <file name="C:/KundenProjekte/ZPUE/enzian-talend/TalendHelperJars/kundenEnaioIds/src/main/java/zpue/models/KundenDTO.java" timestamp="1557496948192">
+        <mark key="[" line="14" column="24" />
+        <mark key="]" line="14" column="35" />
+        <mark key="." line="14" column="35" />
+        <mark key="^" line="14" column="35" />
       </file>
-      <file name="C:/KundenProjekte/ZPUE/enzian/service.sapmessageconverter/src/main/java/de/gema/zpue/sapmessageconverter/logic/RechnungsConverterService.java" timestamp="1554448523566">
+      <file name="C:/KundenProjekte/ZPUE/enzian/service.sapmessageconverter/src/main/java/de/gema/zpue/sapmessageconverter/logic/RechnungsConverterService.java" timestamp="1558011007594">
         <mark key="'" line="53" column="88" />
         <mark key="[" line="63" column="43" />
         <mark key="]" line="63" column="43" />
         <mark key="^" line="109" column="40" />
         <mark key="." line="63" column="43" />
       </file>
-      <file name="C:/Projekte/tmp789/src/de/adesso/strasser/peter/main/Main.java" timestamp="1555587085953">
-        <mark key="[" line="6" column="13" />
-        <mark key="]" line="6" column="13" />
-        <mark key="." line="6" column="13" />
-      </file>
-      <file name="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/utils/On.java" timestamp="1555594164361">
-        <mark key="'" line="21" column="18" />
-        <mark key="[" line="35" column="47" />
-        <mark key="]" line="35" column="48" />
-        <mark key="^" line="35" column="48" />
-        <mark key="." line="35" column="48" />
-      </file>
-      <file name="/Kotlin Console" timestamp="1557951667549">
+      <file name="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/resources/application.properties" timestamp="1557999690375">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="20" />
+        <mark key="." line="1" column="51" />
+        <mark key="^" line="1" column="51" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/dennis/src/rover/Position.java" timestamp="1555678058666">
-        <mark key="'" line="19" column="0" />
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
-        <mark key="^" line="19" column="0" />
+      <file name="C:/KundenProjekte/ZPUE/enzian-talend/TalendHelperJars/gsvtIds/src/main/java/zpue/Gsvt.java" timestamp="1557989612596">
+        <mark key="t" line="24" column="41" />
+        <mark key="'" line="24" column="61" />
+        <mark key="[" line="24" column="31" />
+        <mark key="]" line="24" column="32" />
+        <mark key="^" line="24" column="32" />
+        <mark key="." line="24" column="32" />
       </file>
-      <file name="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/logic/Flow.java" timestamp="1555591043624">
-        <mark key="[" line="78" column="24" />
-        <mark key="]" line="78" column="24" />
+      <file name="C:/KundenProjekte/ZPUE/enzian/service.kundendatenvalidierung/src/main/java/de/gema/zpue/kundendatenvalidierung/communication/EAICommunicationService.java" timestamp="1557839164205">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="34" column="34" />
+      </file>
+      <file name="C:/Projekte/Kotlin/src/HelloWorld.kt" timestamp="1558012815835">
+        <mark key="t" line="1" column="20" />
+        <mark key="'" line="1" column="35" />
+        <mark key="[" line="2" column="1" />
+        <mark key="]" line="2" column="1" />
+        <mark key="^" line="1" column="35" />
+        <mark key="." line="2" column="1" />
+      </file>
+      <file name="C:/Projekte/Kotlin Koans/Introduction/Default arguments/src/Task.kt" timestamp="1557928230039">
+        <mark key="[" line="0" column="36" />
+        <mark key="]" line="0" column="37" />
+        <mark key="^" line="0" column="37" />
+        <mark key="." line="0" column="37" />
+      </file>
+      <file name="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/resources/application-local.properties" timestamp="1555579243427">
+        <mark key="[" line="2" column="13" />
+        <mark key="]" line="2" column="13" />
+        <mark key="." line="2" column="13" />
+        <mark key="^" line="1" column="0" />
+      </file>
+      <file name="C:/KundenProjekte/ZPUE/enzian/service.kundendatenvalidierung/src/test/java/de/gema/zpue/kundendatenvalidierung/communication/EAICommunicationServiceTest.java" timestamp="1557839625960">
+        <mark key="[" line="49" column="4" />
+        <mark key="]" line="50" column="25" />
+      </file>
+      <file name="C:/KundenProjekte/ZPUE/enzian-talend/TalendHelperJars/kundenEnaioIds/src/main/java/zpue/models/GsvtDTO.java" timestamp="1557496927001">
+        <mark key="[" line="7" column="13" />
+        <mark key="]" line="7" column="12" />
+        <mark key="." line="7" column="12" />
+        <mark key="^" line="7" column="12" />
+      </file>
+      <file name="C:/KundenProjekte/ZPUE/enzian-talend/kundenproduktgruppen/src/main/java/de/gema/zpue/migration/anspruchsbasen/kundenproduktgruppen/model/enaio/InsertResponse.java" timestamp="1557153822443">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+        <mark key="^" line="6" column="33" />
+      </file>
+      <file name="C:/KundenProjekte/ZPUE/enzian-talend/GsvtMitgliedschaften/src/main/java/de/gema/adesso/gsvtmitgliedschaften/logic/GsvtMapping.java" timestamp="1557993891515">
+        <mark key="t" line="66" column="30" />
+        <mark key="'" line="66" column="76" />
+        <mark key="[" line="66" column="40" />
+        <mark key="]" line="66" column="50" />
+        <mark key="^" line="66" column="50" />
+        <mark key="." line="66" column="50" />
+      </file>
+      <file name="C:/KundenProjekte/ZPUE/enzian-talend/kundenproduktgruppen/src/main/java/de/gema/zpue/migration/anspruchsbasen/kundenproduktgruppen/config/RequestResponseLoggingInterceptor.java" timestamp="1558007149212">
+        <mark key="'" line="41" column="12" />
+        <mark key="[" line="39" column="18" />
+        <mark key="]" line="39" column="21" />
+        <mark key="." line="39" column="21" />
+        <mark key="^" line="39" column="21" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/dennis/src/rover/Move.java" timestamp="1555679224461">
+        <mark key="[" line="6" column="91" />
+        <mark key="]" line="6" column="92" />
+        <mark key="." line="6" column="92" />
+        <mark key="^" line="8" column="86" />
+      </file>
+      <file name="C:/KundenProjekte/ZPUE/enzian-talend/kundenproduktgruppen/src/main/resources/application.yml" timestamp="1558016391723">
+        <mark key="[" line="1" column="2" />
+        <mark key="]" line="1" column="2" />
+        <mark key="." line="1" column="2" />
+        <mark key="^" line="1" column="2" />
+      </file>
+      <file name="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/logic/Flow.java" timestamp="1558016476182">
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="54" column="56" />
         <mark key="^" line="78" column="24" />
         <mark key="." line="78" column="24" />
       </file>
-      <file name="C:/Projekte/tmp789/src/Main.java" timestamp="1555586581495">
-        <mark key="[" line="0" column="19" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="C:/KundenProjekte/ZPUE/enzian-talend/kundenproduktgruppen/src/main/resources/logback.xml" timestamp="1558007193552">
+        <mark key="'" line="10" column="14" />
+        <mark key="[" line="52" column="17" />
+        <mark key="]" line="52" column="20" />
+        <mark key="." line="52" column="20" />
+        <mark key="^" line="52" column="20" />
       </file>
-      <file name="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/input/CsvParser.java" timestamp="1555582431837">
-        <mark key="'" line="178" column="49" />
-        <mark key="[" line="58" column="74" />
-        <mark key="]" line="58" column="77" />
+      <file name="C:/KundenProjekte/ZPUE/enzian-talend/sonstigedatenuebernahmen/src/main/java/de/adesso/zpue/sonstigedatenuebernahmen/logic/CopyContentService.java" timestamp="1557298606510">
+        <mark key="[" line="64" column="146" />
+        <mark key="]" line="65" column="7" />
+        <mark key="^" line="65" column="7" />
+        <mark key="." line="65" column="7" />
+      </file>
+      <file name="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/input/CsvParser.java" timestamp="1557999281484">
+        <mark key="'" line="173" column="8" />
+        <mark key="[" line="192" column="54" />
+        <mark key="]" line="192" column="65" />
         <mark key="^" line="58" column="77" />
         <mark key="." line="58" column="77" />
       </file>
-      <file name="C:/KundenProjekte/ZPUE/enzian-talend/GsvtMitgliedschaften/src/main/java/de/gema/adesso/gsvtmitgliedschaften/model/GsvtMitgliedschaften.java" timestamp="1554732756764">
-        <mark key="'" line="7" column="0" />
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="3" />
-        <mark key="^" line="6" column="3" />
-        <mark key="." line="6" column="3" />
+      <file name="/Dummy.txt" timestamp="1558100969942">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/Informatik/Kotlin/src/de/strasser/peter/kotlin/helloworld/HelloWorld.kt" timestamp="1558116788169">
-        <mark key="t" line="20" column="8" />
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="10" column="13" />
-        <mark key="]" line="10" column="23" />
-        <mark key="." line="10" column="13" />
-        <mark key="^" line="10" column="12" />
+      <file name="C:/KundenProjekte/ZPUE/enzian-talend/TalendHelperJars/kundenEnaioIds/pom.xml" timestamp="1557738540163">
+        <mark key="[" line="6" column="13" />
+        <mark key="]" line="6" column="16" />
+        <mark key="." line="6" column="16" />
+        <mark key="^" line="6" column="16" />
       </file>
-      <file name="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/data/tables/OfAuskunft.java" timestamp="1555582412123">
-        <mark key="'" line="8" column="50" />
-        <mark key="[" line="16" column="43" />
-        <mark key="]" line="16" column="44" />
-        <mark key="^" line="16" column="34" />
-        <mark key="." line="16" column="44" />
+      <file name="C:/KundenProjekte/ZPUE/enzian-talend/kundenproduktgruppen/src/main/java/de/gema/zpue/migration/anspruchsbasen/kundenproduktgruppen/communication/EnaioCommunicationService.java" timestamp="1558010244449">
+        <mark key="[" line="57" column="227" />
+        <mark key="]" line="57" column="227" />
+        <mark key="." line="57" column="227" />
+        <mark key="^" line="57" column="226" />
+      </file>
+      <file name="C:/KundenProjekte/ZPUE/enzian/shared/src/main/java/de/gema/zpue/shared/config/Config.java" timestamp="1558006192667">
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="58" column="51" />
+      </file>
+      <file name="C:/Projekte/Kotlin Koans/Introduction/Hello, world!/src/Task.kt" timestamp="1557925215418">
+        <mark key="[" line="0" column="11" />
+        <mark key="]" line="0" column="11" />
+        <mark key="." line="0" column="11" />
+        <mark key="^" line="0" column="11" />
+      </file>
+      <file name="C:/KundenProjekte/ZPUE/enzian-talend/kundenproduktgruppen/src/test/java/CSVParserTest.java" timestamp="1557998893405">
+        <mark key="'" line="65" column="0" />
+      </file>
+      <file name="C:/Projekte/Kotlin/src/de/strasser/peter/kotlin/hehe/HelloWorld.kt" timestamp="1558097882746">
+        <mark key="t" line="4" column="11" />
+        <mark key="'" line="4" column="30" />
+        <mark key="[" line="18" column="12" />
+        <mark key="]" line="18" column="27" />
+        <mark key="." line="18" column="12" />
+        <mark key="^" line="16" column="39" />
+      </file>
+      <file name="C:/Projekte/Kotlin/src/de/strasser/peter/kotlin/javacode/DummyClass.java" timestamp="1558097510343">
+        <mark key="t" line="12" column="30" />
+        <mark key="'" line="4" column="8" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="^" line="9" column="36" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="C:/Projekte/tmp789/src/de/adesso/strasser/peter/main/MainTest.java" timestamp="1555587040145">
         <mark key="[" line="4" column="43" />
@@ -101,20 +198,30 @@
         <mark key="^" line="5" column="32" />
         <mark key="." line="5" column="32" />
       </file>
-      <file name="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/data/tables/ProdukteAltNeu.java" timestamp="1555514349933">
-        <mark key="'" line="8" column="65" />
-        <mark key="[" line="14" column="29" />
-        <mark key="]" line="14" column="47" />
-        <mark key="." line="14" column="47" />
-        <mark key="^" line="14" column="47" />
+      <file name="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/pom.xml" timestamp="1555589515150">
+        <mark key="[" line="29" column="32" />
+        <mark key="]" line="29" column="32" />
+        <mark key="." line="29" column="32" />
+        <mark key="^" line="29" column="41" />
       </file>
-      <file name="D:/Projekte/angular/authentication-final/authentication-final/src/app/app.module.ts" timestamp="1557083340877">
-        <mark key="t" line="31" column="21" />
-        <mark key="'" line="31" column="22" />
-        <mark key="[" line="31" column="22" />
-        <mark key="]" line="31" column="22" />
-        <mark key="." line="31" column="22" />
-        <mark key="^" line="31" column="22" />
+      <file name="C:/KundenProjekte/ZPUE/enzian/service.anspruchsgenerierung/src/main/java/de/gema/zpue/anspruchsgenerierung/logic/AnspruchsGenerierungsService.java" timestamp="1558101489604">
+        <mark key="'" line="118" column="6" />
+        <mark key="[" line="125" column="52" />
+        <mark key="]" line="125" column="51" />
+        <mark key="^" line="125" column="51" />
+        <mark key="." line="125" column="51" />
+      </file>
+      <file name="C:/KundenProjekte/ZPUE/enzian-talend/TalendHelperJars/kundenEnaioIds/src/main/java/zpue/rest/EnaioRestClient.java" timestamp="1557736652930">
+        <mark key="[" line="9" column="66" />
+        <mark key="]" line="9" column="65" />
+        <mark key="." line="9" column="65" />
+        <mark key="^" line="9" column="65" />
+      </file>
+      <file name="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/data/JoinFactory.java" timestamp="1555514968428">
+        <mark key="[" line="2" column="4" />
+        <mark key="]" line="3" column="4" />
+        <mark key="^" line="3" column="4" />
+        <mark key="." line="3" column="4" />
       </file>
       <file name="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/mapper/Table.java" timestamp="1555580107042">
         <mark key="[" line="15" column="26" />
@@ -134,251 +241,29 @@
         <mark key="." line="14" column="31" />
         <mark key="^" line="14" column="31" />
       </file>
-      <file name="/Kotlin Console.kts" timestamp="1557951705155">
-        <mark key="[" line="0" column="8" />
-        <mark key="]" line="0" column="8" />
-        <mark key="." line="0" column="8" />
+      <file name="C:/KundenProjekte/ZPUE/enzian-talend/kundenproduktgruppen/src/main/java/de/gema/zpue/migration/anspruchsbasen/kundenproduktgruppen/KundenproduktgruppenApplication.java" timestamp="1558006329988">
+        <mark key="'" line="13" column="0" />
       </file>
-      <file name="C:/KundenProjekte/ZPUE/enzian/shared/src/main/java/de/gema/zpue/shared/konstanten/sap/Operation.java" timestamp="1554447902217">
-        <mark key="[" line="8" column="14" />
+      <file name="C:/KundenProjekte/ZPUE/enzian-talend/TalendHelperJars/kundenEnaioIds/src/main/java/zpue/Kunden.java" timestamp="1557497089490">
+        <mark key="[" line="24" column="45" />
+        <mark key="]" line="24" column="58" />
+        <mark key="." line="24" column="58" />
+        <mark key="^" line="24" column="58" />
       </file>
-      <file name="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/data/tables/ZpueAuskunftPos.java" timestamp="1555514372054">
-        <mark key="'" line="8" column="67" />
-        <mark key="[" line="21" column="30" />
-        <mark key="]" line="21" column="48" />
-        <mark key="^" line="21" column="48" />
-        <mark key="." line="21" column="48" />
+      <file name="C:/KundenProjekte/ZPUE/enzian-talend/kundenproduktgruppen/pom.xml" timestamp="1558006954996">
+        <mark key="[" line="21" column="44" />
+        <mark key="]" line="22" column="16" />
+        <mark key="." line="22" column="16" />
+        <mark key="^" line="22" column="16" />
       </file>
-      <file name="/Clipboard.txt" timestamp="1555499169044">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/data/tables/StephanAuskPosTarif.java" timestamp="1555514356999">
-        <mark key="'" line="8" column="75" />
-        <mark key="[" line="18" column="34" />
-        <mark key="]" line="18" column="52" />
-        <mark key="^" line="18" column="52" />
-        <mark key="." line="18" column="52" />
-      </file>
-      <file name="C:/Informatik/Kotlin/src/HelloWorld.kt" timestamp="1557938269089">
-        <mark key="a" line="0" column="0" />
-        <mark key="'" line="1" column="24" />
-        <mark key="[" line="2" column="1" />
-        <mark key="]" line="2" column="1" />
-        <mark key="." line="2" column="1" />
-        <mark key="^" line="2" column="1" />
-      </file>
-      <file name="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/rest/EnaioRestClient.java" timestamp="1555590900345">
-        <mark key="'" line="19" column="0" />
-        <mark key="[" line="71" column="19" />
-        <mark key="]" line="71" column="23" />
-        <mark key="." line="71" column="23" />
-        <mark key="^" line="71" column="23" />
-      </file>
-      <file name="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/resources/application.properties" timestamp="1555575716696">
-        <mark key="[" line="1" column="47" />
-        <mark key="]" line="1" column="51" />
-        <mark key="." line="1" column="51" />
-        <mark key="^" line="1" column="51" />
-      </file>
-      <file name="D:/Projekte/angular/authentication-final/authentication-final/src/app/shared/shared.module.ts" timestamp="1557082699251">
-        <mark key="t" line="8" column="19" />
-        <mark key="'" line="8" column="35" />
-        <mark key="[" line="8" column="35" />
-        <mark key="]" line="8" column="35" />
-        <mark key="^" line="8" column="35" />
-        <mark key="." line="8" column="35" />
-      </file>
-      <file name="C:/KundenProjekte/ZPUE/enzian/service.sapmigration/src/main/java/de/gema/zpue/sapmigration/communication/ProcessMessageService.java" timestamp="1554446569772">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="30" column="48" />
-        <mark key="]" line="31" column="3" />
-        <mark key="^" line="31" column="3" />
-        <mark key="." line="31" column="3" />
-      </file>
-      <file name="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/resources/application-local.properties" timestamp="1555579243427">
-        <mark key="[" line="2" column="13" />
-        <mark key="]" line="2" column="13" />
-        <mark key="." line="2" column="13" />
-        <mark key="^" line="1" column="0" />
-      </file>
-      <file name="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/data/tables/Marken.java" timestamp="1555518346248">
-        <mark key="'" line="7" column="7" />
-        <mark key="[" line="14" column="20" />
-        <mark key="]" line="14" column="38" />
-        <mark key="." line="14" column="38" />
-        <mark key="^" line="14" column="38" />
-      </file>
-      <file name="D:/Projekte/angular/authentication-final/authentication-final/src/app/recipes/recipe.module.ts" timestamp="1557858093536">
-        <mark key="t" line="34" column="2" />
-        <mark key="'" line="34" column="20" />
-        <mark key="[" line="22" column="0" />
-        <mark key="m" line="28" column="22" />
-        <mark key="]" line="22" column="0" />
-        <mark key="^" line="29" column="16" />
-        <mark key="." line="22" column="0" />
-      </file>
-      <file name="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/data/tables/ZpueAuskunft.java" timestamp="1555520537559">
-        <mark key="'" line="8" column="61" />
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="28" />
-        <mark key="^" line="20" column="1" />
-        <mark key="." line="9" column="0" />
-      </file>
-      <file name="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/mylogs.log" timestamp="1555589929750">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/utils/DateUtils.java" timestamp="1555582762008">
-        <mark key="'" line="20" column="7" />
-        <mark key="[" line="21" column="67" />
-        <mark key="]" line="21" column="73" />
-        <mark key="." line="21" column="73" />
-        <mark key="^" line="21" column="73" />
-      </file>
-      <file name="D:/Projekte/angular/authentication-final/authentication-final/src/app/app-routing.module.ts" timestamp="1557083089649">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-      </file>
-      <file name="D:/Projekte/angular/authentication-final/authentication-final/src/app/shopping-list/shopping-list.module.ts" timestamp="1557083314161">
-        <mark key="t" line="16" column="23" />
-        <mark key="'" line="16" column="25" />
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
-      </file>
-      <file name="C:/Projekte/tmp789/src/de/adesso/strasser/peter/main/Car.java" timestamp="1555587072008">
-        <mark key="[" line="2" column="31" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/dennis/src/rover/Move.java" timestamp="1555679224461">
-        <mark key="[" line="6" column="91" />
-        <mark key="]" line="6" column="92" />
-        <mark key="." line="6" column="92" />
-        <mark key="^" line="8" column="86" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/dennis/src/rover/Start.java" timestamp="1555678891128">
-        <mark key="[" line="148" column="27" />
-        <mark key="]" line="148" column="9" />
-        <mark key="." line="148" column="8" />
-        <mark key="o" line="148" column="19" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1557067645762">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/data/tables/Produkte.java" timestamp="1555514344030">
-        <mark key="'" line="8" column="53" />
-        <mark key="[" line="15" column="23" />
-        <mark key="]" line="15" column="41" />
-        <mark key="^" line="15" column="41" />
-        <mark key="." line="15" column="41" />
-      </file>
-      <file name="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/data/tables/ZpuePartner.java" timestamp="1555514760614">
-        <mark key="'" line="7" column="59" />
-        <mark key="[" line="7" column="59" />
-        <mark key="]" line="7" column="59" />
-        <mark key="^" line="7" column="59" />
-        <mark key="." line="7" column="59" />
-      </file>
-      <file name="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/pom.xml" timestamp="1555589515150">
-        <mark key="[" line="29" column="32" />
-        <mark key="]" line="29" column="32" />
-        <mark key="." line="29" column="32" />
-        <mark key="^" line="29" column="41" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/dennis/src/Main.java" timestamp="1555675412576">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/data/JoinFactory.java" timestamp="1555514968428">
-        <mark key="[" line="2" column="4" />
-        <mark key="]" line="3" column="4" />
-        <mark key="^" line="3" column="4" />
-        <mark key="." line="3" column="4" />
-      </file>
-      <file name="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/mapper/Mapper.java" timestamp="1555581924709">
-        <mark key="'" line="22" column="38" />
-        <mark key="[" line="62" column="98" />
-        <mark key="]" line="62" column="98" />
-        <mark key="^" line="28" column="15" />
-        <mark key="." line="62" column="98" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/dennis/src/rover/Operation.java" timestamp="1555677145447">
-        <mark key="[" line="3" column="5" />
-      </file>
-      <file name="/fragment.java" timestamp="1555586909531">
+      <file name="/fragment.java" timestamp="1558101086010">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
         <mark key="^" line="0" column="5" />
         <mark key="." line="0" column="5" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/dennis/src/rover/Original.java" timestamp="1555701439832">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="28" column="115" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/mapper/Mapper.java" />
-      <jump line="18" column="0" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/mapper/Mapper.java" />
-      <jump line="47" column="38" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/mapper/Mapper.java" />
-      <jump line="50" column="55" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/mapper/Mapper.java" />
-      <jump line="19" column="0" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/mapper/Mapper.java" />
-      <jump line="24" column="0" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/mapper/Mapper.java" />
-      <jump line="33" column="0" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/mapper/Mapper.java" />
-      <jump line="36" column="0" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/mapper/Mapper.java" />
-      <jump line="41" column="0" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/mapper/Mapper.java" />
-      <jump line="55" column="0" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/mapper/Mapper.java" />
-      <jump line="59" column="0" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/mapper/Mapper.java" />
-      <jump line="51" column="35" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/mapper/Mapper.java" />
-      <jump line="0" column="0" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/mapper/Mapper.java" />
-      <jump line="61" column="0" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/mapper/Mapper.java" />
-      <jump line="62" column="0" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/mapper/Mapper.java" />
-      <jump line="54" column="4" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/mapper/Mapper.java" />
-      <jump line="30" column="0" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/mapper/Mapper.java" />
-      <jump line="17" column="0" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/mapper/Mapper.java" />
-      <jump line="56" column="4" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/mapper/Mapper.java" />
-      <jump line="57" column="0" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/mapper/Mapper.java" />
-      <jump line="29" column="58" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/mapper/Mapper.java" />
-      <jump line="20" column="58" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/mapper/Mapper.java" />
-      <jump line="39" column="44" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/input/CsvParser.java" />
-      <jump line="111" column="21" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/input/CsvParser.java" />
-      <jump line="58" column="90" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/mapper/Mapper.java" />
-      <jump line="2" column="13" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/data/output/EnaioAuskunft.java" />
-      <jump line="7" column="7" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/data/tables/Marken.java" />
-      <jump line="16" column="7" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/utils/DateUtils.java" />
-      <jump line="60" column="0" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/mapper/Mapper.java" />
-      <jump line="49" column="8" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/logic/Flow.java" />
-      <jump line="13" column="0" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/rest/EnaioRestClient.java" />
-      <jump line="118" column="25" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/input/CsvParser.java" />
-      <jump line="15" column="0" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/input/CsvParser.java" />
-      <jump line="53" column="19" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/logic/Flow.java" />
-      <jump line="63" column="77" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/logic/Flow.java" />
-      <jump line="174" column="32" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/input/CsvParser.java" />
-      <jump line="204" column="0" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/input/CsvParser.java" />
-      <jump line="28" column="8" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/rest/Config.java" />
-      <jump line="36" column="16" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/rest/Config.java" />
-      <jump line="40" column="12" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/rest/Config.java" />
-      <jump line="14" column="0" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/rest/Config.java" />
-      <jump line="15" column="0" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/rest/Config.java" />
-      <jump line="46" column="29" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/rest/EnaioRestClient.java" />
-      <jump line="18" column="0" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/rest/EnaioRestClient.java" />
-      <jump line="19" column="0" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/rest/EnaioRestClient.java" />
-      <jump line="52" column="11" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/logic/Flow.java" />
-      <jump line="24" column="3" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/logic/Flow.java" />
-      <jump line="51" column="4" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/logic/Flow.java" />
-      <jump line="24" column="0" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/input/CsvParser.java" />
-      <jump line="143" column="43" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/input/CsvParser.java" />
-      <jump line="147" column="37" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/input/CsvParser.java" />
-      <jump line="151" column="52" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/input/CsvParser.java" />
-      <jump line="148" column="49" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/input/CsvParser.java" />
-      <jump line="129" column="49" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/input/CsvParser.java" />
-      <jump line="109" column="49" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/input/CsvParser.java" />
-      <jump line="93" column="49" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/input/CsvParser.java" />
-      <jump line="78" column="49" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/input/CsvParser.java" />
       <jump line="61" column="49" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/input/CsvParser.java" />
       <jump line="150" column="52" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/input/CsvParser.java" />
       <jump line="163" column="49" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/input/CsvParser.java" />
@@ -401,31 +286,88 @@
       <jump line="23" column="25" filename="D:/Projekte/angular/authentication-final/authentication-final/src/app/recipes/recipe.module.ts" />
       <jump line="16" column="24" filename="D:/Projekte/angular/authentication-final/authentication-final/src/app/recipes/recipe.module.ts" />
       <jump line="32" column="25" filename="D:/Projekte/angular/authentication-final/authentication-final/src/app/recipes/recipe.module.ts" />
-      <jump line="8" column="35" filename="D:/Projekte/angular/authentication-final/authentication-final/src/app/shared/shared.module.ts" />
-      <jump line="14" column="25" filename="D:/Projekte/angular/authentication-final/authentication-final/src/app/shopping-list/shopping-list.module.ts" />
-      <jump line="33" column="22" filename="D:/Projekte/angular/authentication-final/authentication-final/src/app/app.module.ts" />
-      <jump line="34" column="20" filename="D:/Projekte/angular/authentication-final/authentication-final/src/app/recipes/recipe.module.ts" />
-      <jump line="1" column="24" filename="C:/Informatik/Kotlin/src/HelloWorld.kt" />
-      <jump line="7" column="72" filename="C:/Informatik/Kotlin/src/de/strasser/peter/kotlin/helloworld/HelloWorld.kt" />
-      <jump line="8" column="0" filename="C:/Informatik/Kotlin/src/de/strasser/peter/kotlin/helloworld/HelloWorld.kt" />
-      <jump line="18" column="9" filename="C:/Informatik/Kotlin/src/de/strasser/peter/kotlin/helloworld/HelloWorld.kt" />
-      <jump line="4" column="4" filename="C:/Informatik/Kotlin/src/de/strasser/peter/kotlin/helloworld/HelloWorld.kt" />
-      <jump line="20" column="7" filename="C:/Informatik/Kotlin/src/de/strasser/peter/kotlin/helloworld/HelloWorld.kt" />
-      <jump line="22" column="4" filename="C:/Informatik/Kotlin/src/de/strasser/peter/kotlin/helloworld/HelloWorld.kt" />
-      <jump line="27" column="20" filename="C:/Informatik/Kotlin/src/de/strasser/peter/kotlin/helloworld/HelloWorld.kt" />
-      <jump line="35" column="0" filename="C:/Informatik/Kotlin/src/de/strasser/peter/kotlin/helloworld/HelloWorld.kt" />
-      <jump line="10" column="0" filename="C:/Informatik/Kotlin/src/de/strasser/peter/kotlin/helloworld/HelloWorld.kt" />
-      <jump line="25" column="0" filename="C:/Informatik/Kotlin/src/de/strasser/peter/kotlin/helloworld/HelloWorld.kt" />
-      <jump line="21" column="0" filename="C:/Informatik/Kotlin/src/de/strasser/peter/kotlin/helloworld/HelloWorld.kt" />
-      <jump line="12" column="0" filename="C:/Informatik/Kotlin/src/de/strasser/peter/kotlin/helloworld/HelloWorld.kt" />
-      <jump line="6" column="28" filename="C:/Informatik/Kotlin/src/de/strasser/peter/kotlin/helloworld/HelloWorld.kt" />
-      <jump line="19" column="0" filename="C:/Informatik/Kotlin/src/de/strasser/peter/kotlin/helloworld/HelloWorld.kt" />
-      <jump line="28" column="0" filename="C:/Informatik/Kotlin/src/de/strasser/peter/kotlin/helloworld/HelloWorld.kt" />
-      <jump line="0" column="0" filename="C:/Informatik/Kotlin/src/de/strasser/peter/kotlin/helloworld/HelloWorld.kt" />
+      <jump line="23" column="36" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/data/output/EnaioAuskunft.java" />
+      <jump line="15" column="30" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/data/output/EnaioAuskunft.java" />
+      <jump line="18" column="33" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/data/output/EnaioAuskunft.java" />
+      <jump line="19" column="12" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/data/output/EnaioAuskunft.java" />
+      <jump line="20" column="18" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/data/output/EnaioAuskunft.java" />
+      <jump line="3" column="14" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/data/output/EnaioAuskunft.java" />
+      <jump line="4" column="14" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/data/output/EnaioAuskunft.java" />
+      <jump line="24" column="17" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/data/output/EnaioAuskunft.java" />
+      <jump line="6" column="17" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/data/output/EnaioAuskunft.java" />
+      <jump line="22" column="29" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/data/output/EnaioAuskunft.java" />
+      <jump line="6" column="7" filename="C:/KundenProjekte/ZPUE/enzian-talend/kundenproduktgruppen/src/main/java/de/gema/zpue/migration/anspruchsbasen/kundenproduktgruppen/model/enaio/AnspruchData.java" />
+      <jump line="238" column="0" filename="C:/KundenProjekte/ZPUE/enzian-talend/kundenproduktgruppen/src/main/java/de/gema/zpue/migration/anspruchsbasen/kundenproduktgruppen/logic/AnspruchsbasenUpdateService.java" />
+      <jump line="246" column="17" filename="C:/KundenProjekte/ZPUE/enzian-talend/kundenproduktgruppen/src/main/java/de/gema/zpue/migration/anspruchsbasen/kundenproduktgruppen/logic/AnspruchsbasenUpdateService.java" />
+      <jump line="250" column="16" filename="C:/KundenProjekte/ZPUE/enzian-talend/kundenproduktgruppen/src/main/java/de/gema/zpue/migration/anspruchsbasen/kundenproduktgruppen/logic/AnspruchsbasenUpdateService.java" />
+      <jump line="258" column="20" filename="C:/KundenProjekte/ZPUE/enzian-talend/kundenproduktgruppen/src/main/java/de/gema/zpue/migration/anspruchsbasen/kundenproduktgruppen/logic/AnspruchsbasenUpdateService.java" />
+      <jump line="40" column="45" filename="C:/KundenProjekte/ZPUE/enzian-talend/kundenproduktgruppen/src/main/java/de/gema/zpue/migration/anspruchsbasen/kundenproduktgruppen/logic/AnspruchsbasenUpdateService.java" />
+      <jump line="56" column="16" filename="C:/KundenProjekte/ZPUE/enzian-talend/kundenproduktgruppen/src/main/java/de/gema/zpue/migration/anspruchsbasen/kundenproduktgruppen/logic/AnspruchsbasenUpdateService.java" />
+      <jump line="100" column="98" filename="C:/KundenProjekte/ZPUE/enzian-talend/kundenproduktgruppen/src/main/java/de/gema/zpue/migration/anspruchsbasen/kundenproduktgruppen/logic/AnspruchsbasenUpdateService.java" />
+      <jump line="102" column="79" filename="C:/KundenProjekte/ZPUE/enzian-talend/kundenproduktgruppen/src/main/java/de/gema/zpue/migration/anspruchsbasen/kundenproduktgruppen/logic/AnspruchsbasenUpdateService.java" />
+      <jump line="105" column="23" filename="C:/KundenProjekte/ZPUE/enzian-talend/kundenproduktgruppen/src/main/java/de/gema/zpue/migration/anspruchsbasen/kundenproduktgruppen/logic/AnspruchsbasenUpdateService.java" />
+      <jump line="143" column="15" filename="C:/KundenProjekte/ZPUE/enzian-talend/kundenproduktgruppen/src/main/java/de/gema/zpue/migration/anspruchsbasen/kundenproduktgruppen/logic/AnspruchsbasenUpdateService.java" />
+      <jump line="0" column="0" filename="C:/KundenProjekte/ZPUE/enzian-talend/kundenproduktgruppen/src/main/java/de/gema/zpue/migration/anspruchsbasen/kundenproduktgruppen/logic/AnspruchsbasenUpdateService.java" />
+      <jump line="146" column="17" filename="C:/KundenProjekte/ZPUE/enzian-talend/kundenproduktgruppen/src/main/java/de/gema/zpue/migration/anspruchsbasen/kundenproduktgruppen/logic/AnspruchsbasenUpdateService.java" />
+      <jump line="158" column="16" filename="C:/KundenProjekte/ZPUE/enzian-talend/kundenproduktgruppen/src/main/java/de/gema/zpue/migration/anspruchsbasen/kundenproduktgruppen/logic/AnspruchsbasenUpdateService.java" />
+      <jump line="35" column="123" filename="C:/KundenProjekte/ZPUE/enzian-talend/kundenproduktgruppen/src/main/java/de/gema/zpue/migration/anspruchsbasen/kundenproduktgruppen/logic/AnspruchUpdateService.java" />
+      <jump line="110" column="61" filename="C:/KundenProjekte/ZPUE/enzian-talend/kundenproduktgruppen/src/main/java/de/gema/zpue/migration/anspruchsbasen/kundenproduktgruppen/logic/AnspruchsbasenUpdateService.java" />
+      <jump line="135" column="68" filename="C:/KundenProjekte/ZPUE/enzian-talend/kundenproduktgruppen/src/main/java/de/gema/zpue/migration/anspruchsbasen/kundenproduktgruppen/logic/AnspruchsbasenUpdateService.java" />
+      <jump line="148" column="114" filename="C:/KundenProjekte/ZPUE/enzian-talend/kundenproduktgruppen/src/main/java/de/gema/zpue/migration/anspruchsbasen/kundenproduktgruppen/logic/AnspruchsbasenUpdateService.java" />
+      <jump line="325" column="30" filename="C:/KundenProjekte/ZPUE/enzian-talend/kundenproduktgruppen/src/main/java/de/gema/zpue/migration/anspruchsbasen/kundenproduktgruppen/logic/AnspruchsbasenUpdateService.java" />
+      <jump line="331" column="93" filename="C:/KundenProjekte/ZPUE/enzian-talend/kundenproduktgruppen/src/main/java/de/gema/zpue/migration/anspruchsbasen/kundenproduktgruppen/logic/AnspruchsbasenUpdateService.java" />
+      <jump line="339" column="116" filename="C:/KundenProjekte/ZPUE/enzian-talend/kundenproduktgruppen/src/main/java/de/gema/zpue/migration/anspruchsbasen/kundenproduktgruppen/logic/AnspruchsbasenUpdateService.java" />
+      <jump line="340" column="109" filename="C:/KundenProjekte/ZPUE/enzian-talend/kundenproduktgruppen/src/main/java/de/gema/zpue/migration/anspruchsbasen/kundenproduktgruppen/logic/AnspruchsbasenUpdateService.java" />
+      <jump line="64" column="21" filename="C:/KundenProjekte/ZPUE/enzian-talend/kundenproduktgruppen/src/main/java/de/gema/zpue/migration/anspruchsbasen/kundenproduktgruppen/logic/AnspruchsbasenUpdateService.java" />
+      <jump line="157" column="7" filename="C:/KundenProjekte/ZPUE/enzian-talend/kundenproduktgruppen/src/main/java/de/gema/zpue/migration/anspruchsbasen/kundenproduktgruppen/logic/AnspruchUpdateService.java" />
+      <jump line="3" column="76" filename="C:/KundenProjekte/ZPUE/enzian-talend/kundenproduktgruppen/src/main/java/de/gema/zpue/migration/anspruchsbasen/kundenproduktgruppen/logic/AnspruchUpdateService.java" />
+      <jump line="159" column="8" filename="C:/KundenProjekte/ZPUE/enzian-talend/kundenproduktgruppen/src/main/java/de/gema/zpue/migration/anspruchsbasen/kundenproduktgruppen/logic/AnspruchUpdateService.java" />
+      <jump line="40" column="31" filename="C:/KundenProjekte/ZPUE/enzian-talend/kundenproduktgruppen/src/main/java/de/gema/zpue/migration/anspruchsbasen/kundenproduktgruppen/logic/AnspruchUpdateService.java" />
+      <jump line="207" column="121" filename="C:/KundenProjekte/ZPUE/enzian-talend/kundenproduktgruppen/src/main/java/de/gema/zpue/migration/anspruchsbasen/kundenproduktgruppen/logic/AnspruchUpdateService.java" />
+      <jump line="21" column="13" filename="C:/KundenProjekte/ZPUE/enzian-talend/kundenproduktgruppen/src/main/java/de/gema/zpue/migration/anspruchsbasen/kundenproduktgruppen/communication/EnaioCommunicationService.java" />
+      <jump line="237" column="42" filename="C:/KundenProjekte/ZPUE/enzian-talend/kundenproduktgruppen/src/main/java/de/gema/zpue/migration/anspruchsbasen/kundenproduktgruppen/logic/AnspruchUpdateService.java" />
+      <jump line="230" column="29" filename="C:/KundenProjekte/ZPUE/enzian-talend/kundenproduktgruppen/src/main/java/de/gema/zpue/migration/anspruchsbasen/kundenproduktgruppen/logic/AnspruchUpdateService.java" />
+      <jump line="31" column="14" filename="C:/KundenProjekte/ZPUE/enzian-talend/sonstigedatenuebernahmen/src/main/java/de/adesso/zpue/sonstigedatenuebernahmen/rest/EnaioRestClient.java" />
+      <jump line="228" column="35" filename="C:/KundenProjekte/ZPUE/enzian-talend/kundenproduktgruppen/src/main/java/de/gema/zpue/migration/anspruchsbasen/kundenproduktgruppen/logic/AnspruchUpdateService.java" />
+      <jump line="240" column="20" filename="C:/KundenProjekte/ZPUE/enzian-talend/kundenproduktgruppen/src/main/java/de/gema/zpue/migration/anspruchsbasen/kundenproduktgruppen/logic/AnspruchUpdateService.java" />
+      <jump line="256" column="34" filename="C:/KundenProjekte/ZPUE/enzian-talend/kundenproduktgruppen/src/main/java/de/gema/zpue/migration/anspruchsbasen/kundenproduktgruppen/logic/AnspruchUpdateService.java" />
+      <jump line="48" column="12" filename="C:/KundenProjekte/ZPUE/enzian-talend/kundenproduktgruppen/src/main/java/de/gema/zpue/migration/anspruchsbasen/kundenproduktgruppen/logic/AnspruchUpdateService.java" />
+      <jump line="233" column="18" filename="C:/KundenProjekte/ZPUE/enzian-talend/kundenproduktgruppen/src/main/java/de/gema/zpue/migration/anspruchsbasen/kundenproduktgruppen/logic/AnspruchUpdateService.java" />
+      <jump line="236" column="29" filename="C:/KundenProjekte/ZPUE/enzian-talend/kundenproduktgruppen/src/main/java/de/gema/zpue/migration/anspruchsbasen/kundenproduktgruppen/logic/AnspruchUpdateService.java" />
+      <jump line="234" column="55" filename="C:/KundenProjekte/ZPUE/enzian-talend/kundenproduktgruppen/src/main/java/de/gema/zpue/migration/anspruchsbasen/kundenproduktgruppen/logic/AnspruchUpdateService.java" />
+      <jump line="235" column="24" filename="C:/KundenProjekte/ZPUE/enzian-talend/kundenproduktgruppen/src/main/java/de/gema/zpue/migration/anspruchsbasen/kundenproduktgruppen/logic/AnspruchUpdateService.java" />
+      <jump line="243" column="27" filename="C:/KundenProjekte/ZPUE/enzian-talend/kundenproduktgruppen/src/main/java/de/gema/zpue/migration/anspruchsbasen/kundenproduktgruppen/logic/AnspruchUpdateService.java" />
+      <jump line="224" column="32" filename="C:/KundenProjekte/ZPUE/enzian-talend/kundenproduktgruppen/src/main/java/de/gema/zpue/migration/anspruchsbasen/kundenproduktgruppen/logic/AnspruchUpdateService.java" />
+      <jump line="265" column="44" filename="C:/KundenProjekte/ZPUE/enzian-talend/kundenproduktgruppen/src/main/java/de/gema/zpue/migration/anspruchsbasen/kundenproduktgruppen/logic/AnspruchUpdateService.java" />
+      <jump line="126" column="63" filename="C:/KundenProjekte/ZPUE/enzian-talend/GsvtMitgliedschaften/src/main/java/de/gema/adesso/gsvtmitgliedschaften/rest/EnaioRestClient.java" />
+      <jump line="128" column="25" filename="C:/KundenProjekte/ZPUE/enzian-talend/GsvtMitgliedschaften/src/main/java/de/gema/adesso/gsvtmitgliedschaften/rest/EnaioRestClient.java" />
+      <jump line="38" column="13" filename="C:/KundenProjekte/ZPUE/enzian/service.vies/src/main/java/de/gema/zpue/vies/communication/comservices/EaiCommunicationImpl.java" />
+      <jump line="60" column="25" filename="C:/KundenProjekte/ZPUE/enzian/service.vies/src/test/java/de/gema/zpue/vies/comservices/EaiCommunicationImplTest.java" />
+      <jump line="1" column="35" filename="C:/Projekte/Kotlin/src/HelloWorld.kt" />
+      <jump line="36" column="67" filename="C:/KundenProjekte/ZPUE/enzian-talend/TalendHelperJars/gsvtIds/src/main/java/zpue/Gsvt.java" />
+      <jump line="24" column="61" filename="C:/KundenProjekte/ZPUE/enzian-talend/TalendHelperJars/gsvtIds/src/main/java/zpue/Gsvt.java" />
+      <jump line="65" column="87" filename="C:/KundenProjekte/ZPUE/enzian-talend/GsvtMitgliedschaften/src/main/java/de/gema/adesso/gsvtmitgliedschaften/logic/GsvtMapping.java" />
+      <jump line="66" column="76" filename="C:/KundenProjekte/ZPUE/enzian-talend/GsvtMitgliedschaften/src/main/java/de/gema/adesso/gsvtmitgliedschaften/logic/GsvtMapping.java" />
+      <jump line="65" column="0" filename="C:/KundenProjekte/ZPUE/enzian-talend/kundenproduktgruppen/src/test/java/CSVParserTest.java" />
+      <jump line="173" column="8" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/input/CsvParser.java" />
+      <jump line="52" column="3" filename="C:/KundenProjekte/ZPUE/enzian-talend/kundenproduktgruppen/src/main/java/de/gema/zpue/migration/anspruchsbasen/kundenproduktgruppen/logic/AnspruchsbasenUpdateService.java" />
+      <jump line="126" column="20" filename="C:/KundenProjekte/ZPUE/enzian-talend/kundenproduktgruppen/src/main/java/de/gema/zpue/migration/anspruchsbasen/kundenproduktgruppen/logic/AnspruchsbasenUpdateService.java" />
+      <jump line="13" column="0" filename="C:/KundenProjekte/ZPUE/enzian-talend/kundenproduktgruppen/src/main/java/de/gema/zpue/migration/anspruchsbasen/kundenproduktgruppen/KundenproduktgruppenApplication.java" />
+      <jump line="41" column="12" filename="C:/KundenProjekte/ZPUE/enzian-talend/kundenproduktgruppen/src/main/java/de/gema/zpue/migration/anspruchsbasen/kundenproduktgruppen/config/RequestResponseLoggingInterceptor.java" />
+      <jump line="10" column="14" filename="C:/KundenProjekte/ZPUE/enzian-talend/kundenproduktgruppen/src/main/resources/logback.xml" />
+      <jump line="62" column="52" filename="C:/KundenProjekte/ZPUE/enzian-talend/kundenproduktgruppen/src/main/java/de/gema/zpue/migration/anspruchsbasen/kundenproduktgruppen/communication/EnaioCommunicationService.java" />
+      <jump line="63" column="26" filename="C:/KundenProjekte/ZPUE/enzian-talend/kundenproduktgruppen/src/main/java/de/gema/zpue/migration/anspruchsbasen/kundenproduktgruppen/communication/EnaioCommunicationService.java" />
+      <jump line="64" column="8" filename="C:/KundenProjekte/ZPUE/enzian-talend/kundenproduktgruppen/src/main/java/de/gema/zpue/migration/anspruchsbasen/kundenproduktgruppen/communication/EnaioCommunicationService.java" />
+      <jump line="6" column="32" filename="C:/Projekte/Kotlin/src/de/strasser/peter/kotlin/javacode/DummyClass.java" />
+      <jump line="15" column="46" filename="C:/Projekte/Kotlin/src/de/strasser/peter/kotlin/hehe/HelloWorld.kt" />
+      <jump line="8" column="35" filename="C:/Projekte/Kotlin/src/de/strasser/peter/kotlin/javacode/DummyClass.java" />
+      <jump line="4" column="8" filename="C:/Projekte/Kotlin/src/de/strasser/peter/kotlin/javacode/DummyClass.java" />
+      <jump line="4" column="30" filename="C:/Projekte/Kotlin/src/de/strasser/peter/kotlin/hehe/HelloWorld.kt" />
+      <jump line="118" column="6" filename="C:/KundenProjekte/ZPUE/enzian/service.anspruchsgenerierung/src/main/java/de/gema/zpue/anspruchsgenerierung/logic/AnspruchsGenerierungsService.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>\u001B[31m</text>
+        <text>str</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -439,16 +381,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>\u001B[31m</text>
+        <text>str</text>
       </register>
       <register name="/" type="4">
-        <text>nohl</text>
+        <text>start</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHZhbCB4ID0gMHgxMDEwMTAxMAo=</text>
+      <register name="0" type="4">
+        <text>thisIsNeverNull</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGhlaGVoZWhlaGUgd2hhdGNoYSBkb2luIG15IGR1ZGU/Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -474,13 +416,13 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGhlaGVoZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aGVoZWhlaGUgbXkgZGljayBpcyBzbyBoYXJkIHdoZW4gaSB0aGluayBhYm91dCB5b3UgOikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaW50VGV4dChzdHIpCg==</text>
+        <text encoding="base64">ICAgIGhlaGU/Cg==</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -505,77 +447,77 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHZhbCBzdHIyID0gc3RyISEK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHZhbCBuYW1lcyA9IGFycmF5T2YoImhlaGVoZSIsICJqb2UiLCAiZGFtbnN1dXVubmkiKQogICAgcHJpbnRsbihuYW1lc1syXSkKCiAgICB2YWwgZXZlbk51bWJlcnMgPSBBcnJheSgxNSkgeyBpIC0+ICIkaSAgIiArIGkgKiAyIH0KICAgIGZvciAobnVtYmVyIGluIGV2ZW5OdW1iZXJzKSB7CiAgICAgICAgcHJpbnRsbihudW1iZXIpCiAgICB9CgogICAgdmFsIGxvdHNPZk51bWJlcnMgPSBBcnJheSgxMDAwMDApIHsgaSAtPiBpICsgMSB9CiAgICBwcmludGxuKGxvdHNPZk51bWJlcnNbbG90c09mTnVtYmVycy5zaXplIC0gMV0pCgogICAgdmFsIG15SW50QXJyYXkgPSBpbnRBcnJheU9mKDMsIDQsIDEsIDcsIDIsIDEyLCA3KQogICAgRHVtbXlDbGFzcygpLnByaW50TnVtYmVycyhteUludEFycmF5KQoKICAgIHByaW50bG4oRHVtbXlDbGFzcygpLmlzVmFjYXRpb25UaW1lKGZhbHNlKSkKCiAgICB2YXIgc29tZU90aGVyQXJyYXkgPSBJbnRBcnJheSg1KQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgdmFsIAo=</text>
+        <text encoding="base64">ICAgIHByaW50bG4obmFtZXMgaXMgQXJyYXk8U3RyaW5nPikK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgCiAgICBwcmludGxiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHZhbCBzdHIzID0gc3RyMi50b1VwcGVyQ2FzZSgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>s/to/heheheh</text>
+        <text>split q</text>
       </register>
     </registers>
     <search>
-      <last-search>nohl</last-search>
+      <last-search>start</last-search>
       <last-offset />
-      <last-pattern>nohl</last-pattern>
-      <last-replace>heheheh</last-replace>
-      <last-substitute>to</last-substitute>
+      <last-pattern>start</last-pattern>
+      <last-replace>info</last-replace>
+      <last-substitute>debug</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>auskunft</entry>
-        <entry>new</entry>
-        <entry>ZpueAusk</entry>
-        <entry encoding="base64">XDx0aGlzXD4=</entry>
-        <entry>;</entry>
-        <entry encoding="base64">JiY=</entry>
-        <entry>@</entry>
-        <entry>.</entry>
-        <entry>this</entry>
-        <entry>Alt</entry>
         <entry>alt</entry>
         <entry encoding="base64">LT4=</entry>
         <entry>logback</entry>
         <entry encoding="base64">XDwsXD4=</entry>
         <entry>shopping</entry>
-        <entry>\u</entry>
+        <entry>insert</entry>
+        <entry>kundennum</entry>
+        <entry>map</entry>
+        <entry>1</entry>
+        <entry>A</entry>
+        <entry>field</entry>
+        <entry>anspruch</entry>
+        <entry>Eai</entry>
+        <entry>error</entry>
+        <entry>erstellt</entry>
         <entry>main</entry>
-        <entry>'</entry>
-        <entry>to</entry>
-        <entry>nohl</entry>
+        <entry>debug</entry>
+        <entry>\u</entry>
+        <entry>bool</entry>
+        <entry>start</entry>
       </history-search>
       <history-cmd>
-        <entry>set hls=true</entry>
-        <entry>set nohlsearch=false</entry>
-        <entry>set nohlsearch=true</entry>
-        <entry>set all</entry>
-        <entry>hlsearch</entry>
         <entry>set hlsearch</entry>
         <entry>Mapper</entry>
         <entry>b Mapper</entry>
         <entry>qw</entry>
         <entry>wq</entry>
-        <entry>q</entry>
         <entry>set ignorecase</entry>
+        <entry>w</entry>
         <entry>set multiple-cursors</entry>
         <entry>nhl</entry>
-        <entry>nohl</entry>
         <entry>wa</entry>
-        <entry>w</entry>
+        <entry>.nohl</entry>
+        <entry>qa1</entry>
         <entry>action KJumpAction</entry>
-        <entry>s/'/&quot;</entry>
-        <entry>s/to/heheheh</entry>
+        <entry>s/debug/info/g</entry>
+        <entry>%s/debug/info/g</entry>
+        <entry>nohl</entry>
+        <entry encoding="base64">JzwsJz5hY3Rpb24gS0p1bXBBY3Rpb24=</entry>
+        <entry>q</entry>
+        <entry>actionlist</entry>
+        <entry>split q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
