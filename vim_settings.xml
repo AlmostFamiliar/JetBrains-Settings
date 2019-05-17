@@ -148,6 +148,9 @@
         <mark key="^" line="58" column="77" />
         <mark key="." line="58" column="77" />
       </file>
+      <file name="/Dummy.txt" timestamp="1558100969942">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="C:/KundenProjekte/ZPUE/enzian-talend/TalendHelperJars/kundenEnaioIds/pom.xml" timestamp="1557738540163">
         <mark key="[" line="6" column="13" />
         <mark key="]" line="6" column="16" />
@@ -173,12 +176,12 @@
       <file name="C:/KundenProjekte/ZPUE/enzian-talend/kundenproduktgruppen/src/test/java/CSVParserTest.java" timestamp="1557998893405">
         <mark key="'" line="65" column="0" />
       </file>
-      <file name="C:/Projekte/Kotlin/src/de/strasser/peter/kotlin/hehe/HelloWorld.kt" timestamp="1558097836580">
+      <file name="C:/Projekte/Kotlin/src/de/strasser/peter/kotlin/hehe/HelloWorld.kt" timestamp="1558097882746">
         <mark key="t" line="4" column="11" />
         <mark key="'" line="4" column="30" />
-        <mark key="[" line="16" column="36" />
-        <mark key="]" line="16" column="39" />
-        <mark key="." line="16" column="39" />
+        <mark key="[" line="18" column="12" />
+        <mark key="]" line="18" column="27" />
+        <mark key="." line="18" column="12" />
         <mark key="^" line="16" column="39" />
       </file>
       <file name="C:/Projekte/Kotlin/src/de/strasser/peter/kotlin/javacode/DummyClass.java" timestamp="1558097510343">
@@ -200,6 +203,13 @@
         <mark key="]" line="29" column="32" />
         <mark key="." line="29" column="32" />
         <mark key="^" line="29" column="41" />
+      </file>
+      <file name="C:/KundenProjekte/ZPUE/enzian/service.anspruchsgenerierung/src/main/java/de/gema/zpue/anspruchsgenerierung/logic/AnspruchsGenerierungsService.java" timestamp="1558101489604">
+        <mark key="'" line="118" column="6" />
+        <mark key="[" line="125" column="52" />
+        <mark key="]" line="125" column="51" />
+        <mark key="^" line="125" column="51" />
+        <mark key="." line="125" column="51" />
       </file>
       <file name="C:/KundenProjekte/ZPUE/enzian-talend/TalendHelperJars/kundenEnaioIds/src/main/java/zpue/rest/EnaioRestClient.java" timestamp="1557736652930">
         <mark key="[" line="9" column="66" />
@@ -246,7 +256,7 @@
         <mark key="." line="22" column="16" />
         <mark key="^" line="22" column="16" />
       </file>
-      <file name="/fragment.java" timestamp="1558006236737">
+      <file name="/fragment.java" timestamp="1558101086010">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
         <mark key="^" line="0" column="5" />
@@ -254,7 +264,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="78" column="49" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/input/CsvParser.java" />
       <jump line="61" column="49" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/input/CsvParser.java" />
       <jump line="150" column="52" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/input/CsvParser.java" />
       <jump line="163" column="49" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/input/CsvParser.java" />
@@ -354,10 +363,11 @@
       <jump line="8" column="35" filename="C:/Projekte/Kotlin/src/de/strasser/peter/kotlin/javacode/DummyClass.java" />
       <jump line="4" column="8" filename="C:/Projekte/Kotlin/src/de/strasser/peter/kotlin/javacode/DummyClass.java" />
       <jump line="4" column="30" filename="C:/Projekte/Kotlin/src/de/strasser/peter/kotlin/hehe/HelloWorld.kt" />
+      <jump line="118" column="6" filename="C:/KundenProjekte/ZPUE/enzian/service.anspruchsgenerierung/src/main/java/de/gema/zpue/anspruchsgenerierung/logic/AnspruchsGenerierungsService.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>&quot;hahaha&quot;</text>
+        <text>str</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -371,13 +381,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>&quot;hahaha&quot;</text>
+        <text>str</text>
       </register>
       <register name="/" type="4">
-        <text>bool</text>
+        <text>start</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4oc3RyISEudG9VcHBlckNhc2UoKSkK</text>
+      <register name="0" type="4">
+        <text>thisIsNeverNull</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGhlaGVoZWhlaGUgd2hhdGNoYSBkb2luIG15IGR1ZGU/Cg==</text>
@@ -456,17 +466,16 @@
       </register>
     </registers>
     <search>
-      <last-search>bool</last-search>
+      <last-search>start</last-search>
       <last-offset />
-      <last-pattern>bool</last-pattern>
+      <last-pattern>start</last-pattern>
       <last-replace>info</last-replace>
       <last-substitute>debug</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Alt</entry>
         <entry>alt</entry>
         <entry encoding="base64">LT4=</entry>
         <entry>logback</entry>
@@ -486,6 +495,7 @@
         <entry>debug</entry>
         <entry>\u</entry>
         <entry>bool</entry>
+        <entry>start</entry>
       </history-search>
       <history-cmd>
         <entry>set hlsearch</entry>
