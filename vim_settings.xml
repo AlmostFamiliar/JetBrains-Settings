@@ -176,20 +176,20 @@
       <file name="C:/KundenProjekte/ZPUE/enzian-talend/kundenproduktgruppen/src/test/java/CSVParserTest.java" timestamp="1557998893405">
         <mark key="'" line="65" column="0" />
       </file>
-      <file name="C:/Projekte/Kotlin/src/de/strasser/peter/kotlin/hehe/HelloWorld.kt" timestamp="1558190852989">
-        <mark key="[" line="3" column="3" />
-        <mark key="]" line="3" column="2" />
-        <mark key="." line="3" column="2" />
-        <mark key="^" line="3" column="2" />
+      <file name="C:/Projekte/Kotlin/src/de/strasser/peter/kotlin/hehe/HelloWorld.kt" timestamp="1558191117866">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="3" />
+        <mark key="." line="3" column="3" />
+        <mark key="^" line="3" column="3" />
       </file>
-      <file name="C:/Projekte/Kotlin/src/de/strasser/peter/kotlin/javacode/DummyClass.java" timestamp="1558190979042">
+      <file name="C:/Projekte/Kotlin/src/de/strasser/peter/kotlin/javacode/DummyClass.java" timestamp="1558191085201">
         <mark key="t" line="9" column="21" />
-        <mark key="'" line="9" column="22" />
+        <mark key="'" line="9" column="18" />
         <mark key="y" line="9" column="8" />
-        <mark key="[" line="9" column="22" />
-        <mark key="]" line="9" column="22" />
-        <mark key="." line="9" column="22" />
-        <mark key="^" line="9" column="22" />
+        <mark key="[" line="24" column="1" />
+        <mark key="]" line="24" column="7" />
+        <mark key="." line="24" column="7" />
+        <mark key="^" line="24" column="7" />
       </file>
       <file name="C:/Projekte/tmp789/src/de/adesso/strasser/peter/main/MainTest.java" timestamp="1555587040145">
         <mark key="[" line="4" column="43" />
@@ -362,11 +362,11 @@
       <jump line="4" column="8" filename="C:/Projekte/Kotlin/src/de/strasser/peter/kotlin/javacode/DummyClass.java" />
       <jump line="4" column="30" filename="C:/Projekte/Kotlin/src/de/strasser/peter/kotlin/hehe/HelloWorld.kt" />
       <jump line="118" column="6" filename="C:/KundenProjekte/ZPUE/enzian/service.anspruchsgenerierung/src/main/java/de/gema/zpue/anspruchsgenerierung/logic/AnspruchsGenerierungsService.java" />
-      <jump line="9" column="22" filename="C:/Projekte/Kotlin/src/de/strasser/peter/kotlin/javacode/DummyClass.java" />
+      <jump line="9" column="18" filename="C:/Projekte/Kotlin/src/de/strasser/peter/kotlin/javacode/DummyClass.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgIH0KICAgIAogICAgcHVibGljIFN0cmluZyBpc1ZhY2F0aW9uVGltZShCb29sZWFuIG9uVmFjYXRpb24pewogICAgICAgIHJldHVybiBvblZhY2F0aW9uID8gIkknbSBvbiB2YWNhdGlvbiIgOiAiSSdtIHdvcmtpbmchIjsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBwcmludE51bWJlcnMoaW50W10gbnVtYmVycyl7CiAgICAgICAgZm9yIChpbnQgbnVtYmVyIDogbnVtYmVycykgewogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4obnVtYmVyKTsKICAgICAgICB9CiAgICB9Cn0KCgogY2xhc3MgTXlEaWNrewogICBwdWJsaWMgdm9pZCBwcmludCgpIHsKICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiaGFoYWgiKTsKICAgfQp9Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Empljkjkk</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -380,7 +380,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>private</text>
+        <text>Empljkjkk</text>
       </register>
       <register name="/" type="4">
         <text>start</text>
