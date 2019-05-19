@@ -176,20 +176,19 @@
       <file name="C:/KundenProjekte/ZPUE/enzian-talend/kundenproduktgruppen/src/test/java/CSVParserTest.java" timestamp="1557998893405">
         <mark key="'" line="65" column="0" />
       </file>
-      <file name="C:/Projekte/Kotlin/src/de/strasser/peter/kotlin/hehe/HelloWorld.kt" timestamp="1558194809967">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="3" />
-        <mark key="." line="3" column="3" />
-        <mark key="^" line="3" column="3" />
+      <file name="C:/Projekte/Kotlin/src/de/strasser/peter/kotlin/hehe/HelloWorld.kt" timestamp="1558267349538">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="5" column="0" />
       </file>
-      <file name="C:/Projekte/Kotlin/src/de/strasser/peter/kotlin/javacode/DummyClass.java" timestamp="1558194746656">
-        <mark key="t" line="9" column="21" />
-        <mark key="'" line="9" column="18" />
-        <mark key="y" line="9" column="8" />
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
-        <mark key="^" line="23" column="7" />
+      <file name="C:/Projekte/Kotlin/src/de/strasser/peter/kotlin/javacode/DummyClass.java" timestamp="1558266197065">
+        <mark key="t" line="6" column="21" />
+        <mark key="y" line="6" column="8" />
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="^" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="C:/Projekte/tmp789/src/de/adesso/strasser/peter/main/MainTest.java" timestamp="1555587040145">
         <mark key="[" line="4" column="43" />
@@ -263,12 +262,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="150" column="52" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/input/CsvParser.java" />
-      <jump line="163" column="49" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/input/CsvParser.java" />
-      <jump line="185" column="49" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/input/CsvParser.java" />
-      <jump line="22" column="38" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/mapper/Mapper.java" />
-      <jump line="44" column="14" filename="/auskunftssplit-effective-pom.xml" />
-      <jump line="148" column="28" filename="/auskunftssplit-effective-pom.xml" />
       <jump line="38" column="32" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/mylogs.log" />
       <jump line="0" column="0" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/mylogs.log" />
       <jump line="74" column="67" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/logic/Flow.java" />
@@ -363,10 +356,16 @@
       <jump line="4" column="30" filename="C:/Projekte/Kotlin/src/de/strasser/peter/kotlin/hehe/HelloWorld.kt" />
       <jump line="118" column="6" filename="C:/KundenProjekte/ZPUE/enzian/service.anspruchsgenerierung/src/main/java/de/gema/zpue/anspruchsgenerierung/logic/AnspruchsGenerierungsService.java" />
       <jump line="9" column="18" filename="C:/Projekte/Kotlin/src/de/strasser/peter/kotlin/javacode/DummyClass.java" />
+      <jump line="0" column="0" filename="C:/Projekte/Kotlin/src/de/strasser/peter/kotlin/javacode/DummyClass.java" />
+      <jump line="58" column="0" filename="C:/Projekte/Kotlin/src/de/strasser/peter/kotlin/javacode/DummyClass.java" />
+      <jump line="25" column="0" filename="C:/Projekte/Kotlin/src/de/strasser/peter/kotlin/javacode/DummyClass.java" />
+      <jump line="74" column="0" filename="C:/Projekte/Kotlin/src/de/strasser/peter/kotlin/javacode/DummyClass.java" />
+      <jump line="50" column="0" filename="C:/Projekte/Kotlin/src/de/strasser/peter/kotlin/javacode/DummyClass.java" />
+      <jump line="5" column="0" filename="C:/Projekte/Kotlin/src/de/strasser/peter/kotlin/hehe/HelloWorld.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aGVoZWhlaGVoZWhlaGVoZWggbXkgZHVkZSB3aGF0IGNoYSBkb2luIAo=</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -380,16 +379,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Empljkjkk</text>
+        <text>public</text>
       </register>
       <register name="/" type="4">
         <text>start</text>
       </register>
-      <register name="0" type="4">
-        <text>thisIsNeverNull</text>
+      <register name="0" type="2">
+        <text encoding="base64">cGFja2FnZSBkZS5zdHJhc3Nlci5wZXRlci5rb3RsaW4uamF2YWNvZGU7CgpwdWJsaWMgY2xhc3MgRHVtbXlDbGFzcyB7CgogICAgcHVibGljIHN0YXRpYyB2b2lkIG1haW4oU3RyaW5nW10gYXJncykgewogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiaGVoZWhlaCIpOwogICAgICAgIE15RGljay5wcmludCgpOwogICAgfQoKICAgIHB1YmxpYyBTdHJpbmcgaXNWYWNhdGlvblRpbWUoQm9vbGVhbiBvblZhY2F0aW9uKXsKICAgICAgICByZXR1cm4gb25WYWNhdGlvbiA/ICJJJ20gb24gdmFjYXRpb24iIDogIkknbSB3b3JraW5nISI7CiAgICB9CgogICAgcHVibGljIHZvaWQgcHJpbnROdW1iZXJzKGludFtdIG51bWJlcnMpewogICAgICAgIGZvciAoaW50IG51bWJlciA6IG51bWJlcnMpIHsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKG51bWJlcik7CiAgICAgICAgfQogICAgfQp9CgogY2xhc3MgTXlEaWNrewogICBwdWJsaWMgc3RhdGljIHZvaWQgcHJpbnQoKSB7CiAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImhhaGFoIik7CiAgIH0KfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aGVoZWhlaGVoZWhlaGVoZWggbXkgZHVkZSB3aGF0IGNoYSBkb2luIAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -415,13 +414,13 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgIH0KICAgIAogICAgcHVibGljIFN0cmluZyBpc1ZhY2F0aW9uVGltZShCb29sZWFuIG9uVmFjYXRpb24pewogICAgICAgIHJldHVybiBvblZhY2F0aW9uID8gIkknbSBvbiB2YWNhdGlvbiIgOiAiSSdtIHdvcmtpbmchIjsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBwcmludE51bWJlcnMoaW50W10gbnVtYmVycyl7CiAgICAgICAgZm9yIChpbnQgbnVtYmVyIDogbnVtYmVycykgewogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4obnVtYmVyKTsKICAgICAgICB9CiAgICB9Cn0KCgogY2xhc3MgTXlEaWNrewogICBwdWJsaWMgdm9pZCBwcmludCgpIHsKICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiaGFoYWgiKTsKICAgfQp9Cg==</text>
+        <text encoding="base64">aGVoZWhlaGVoZWhlaGVoZWggbXkgZHVkZSB3aGF0IGNoYSBkb2luIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgaGFoYWhoYWhhYWhhaGFoYWhhaGFoYWhhaGFoIG5pY2Ugam9rZSBtY2NeMQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aGVoZWhlaCBteSBkaWNrIGlzIHNvIGhhcmQgbXkgbTgK</text>
+        <text encoding="base64">ICAgIHZhciBmaXJzdE5hbWU6IFN0cmluZyA9IGZpcnN0TmFtZQo=</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -445,20 +444,20 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHZhbCBzdHI6IFN0cmluZz8gPSAiaGVoZWhlIgogICAgcHJpbnRsbigiU3RyaW5nOiAke3N0cj8udG9VcHBlckNhc2UoKX0iKQoKICAgIHZhbCBiYW5rQnJhbmNoIDogSW50PyA9IG51bGwKICAgIHZhbCBjb3VudHJ5Q29kZTogU3RyaW5nPyA9IGJhbmtCcmFuY2g/LnRvU3RyaW5nKCkKCiAgICBwcmludGxuKGJhbmtCcmFuY2ggPzogImhlaGVoZWhlaGUkY291bnRyeUNvZGUiKQoKICAgIHZhbCBzb21ldGhpbmc6IEFueSA9IGFycmF5T2YoMSwyLDMsNCkKICAgIHZhbCBzdHIzOiBTdHJpbmc/ID0gc29tZXRoaW5nIGFzPyBTdHJpbmcKCgogICAgdmFsIHRoaXNJc05ldmVyTnVsbCA6IFN0cmluZz8gPSBudWxsCiAgICBwcmludGxuKHRoaXNJc05ldmVyTnVsbCEhLnRvVXBwZXJDYXNlKCkpCiAgICBwcmludGxuKHRoaXNJc05ldmVyTnVsbC50b1VwcGVyQ2FzZSgpKQo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">ICAgICAgICBmb3IgKGludCBudW1iZXIgOiBudW1iZXJzKSB7CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihudW1iZXIpOwogICAgICAgIH0=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4oc3RyM30pCg==</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKGludCBudW1iZXIgOiBudW1iZXJzKSB7CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihudW1iZXIpOwogICAgICAgIH0K</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICAgIHZhbCBzdHI6IFN0cmluZz8gPSAiaGVoZWhlIgogICAgcHJpbnRsbigiU3RyaW5nOiAke3N0cj8udG9VcHBlckNhc2UoKX0iKQoKICAgIHZhbCBiYW5rQnJhbmNoIDogSW50PyA9IG51bGwKICAgIHZhbCBjb3VudHJ5Q29kZTogU3RyaW5nPyA9IGJhbmtCcmFuY2g/LnRvU3RyaW5nKCkKCiAgICBwcmludGxuKGJhbmtCcmFuY2ggPzogImhlaGVoZWhlaGUkY291bnRyeUNvZGUiKQoKICAgIHZhbCBzb21ldGhpbmc6IEFueSA9IGFycmF5T2YoMSwyLDMsNCkKICAgIHZhbCBzdHIzOiBTdHJpbmc/ID0gc29tZXRoaW5nIGFzPyBTdHJpbmcKICAgIHByaW50bG4oc3RyMw==</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGhlaGVoZWhlaGUgd2hhdGNoYSBkb2luIG15IGR1ZGU/Cg==</text>
+        <text encoding="base64">aW1wb3J0IGRlLnN0cmFzc2VyLnBldGVyLmtvdGxpbi5qYXZhY29kZS5EdW1teUNsYXNzCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGhlaGVoZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>split q</text>
