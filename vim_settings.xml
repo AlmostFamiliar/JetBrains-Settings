@@ -141,12 +141,12 @@
         <mark key="." line="52" column="20" />
         <mark key="^" line="52" column="20" />
       </file>
-      <file name="C:/Projekte/Kotlin/src/de/strasser/peter/kotlin/inheritance/Printer.kt" timestamp="1558384381986">
+      <file name="C:/Projekte/Kotlin/src/de/strasser/peter/kotlin/inheritance/Printer.kt" timestamp="1558384659119">
         <mark key="'" line="29" column="61" />
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="48" column="0" />
-        <mark key="." line="48" column="0" />
-        <mark key="^" line="48" column="40" />
+        <mark key="[" line="36" column="4" />
+        <mark key="]" line="36" column="32" />
+        <mark key="." line="36" column="32" />
+        <mark key="^" line="36" column="32" />
       </file>
       <file name="C:/KundenProjekte/ZPUE/enzian-talend/sonstigedatenuebernahmen/src/main/java/de/adesso/zpue/sonstigedatenuebernahmen/logic/CopyContentService.java" timestamp="1557298606510">
         <mark key="[" line="64" column="146" />
@@ -183,11 +183,11 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="C:/Projekte/Kotlin/src/de/strasser/peter/kotlin/inheritance/Interface.kt" timestamp="1558384343522">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="^" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="C:/Projekte/Kotlin/src/de/strasser/peter/kotlin/inheritance/Interface.kt" timestamp="1558384742650">
+        <mark key="'" line="8" column="3" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="C:/KundenProjekte/ZPUE/enzian-talend/kundenproduktgruppen/src/main/java/de/gema/zpue/migration/anspruchsbasen/kundenproduktgruppen/communication/EnaioCommunicationService.java" timestamp="1558010244449">
         <mark key="[" line="57" column="227" />
@@ -291,7 +291,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="331" column="93" filename="C:/KundenProjekte/ZPUE/enzian-talend/kundenproduktgruppen/src/main/java/de/gema/zpue/migration/anspruchsbasen/kundenproduktgruppen/logic/AnspruchsbasenUpdateService.java" />
       <jump line="339" column="116" filename="C:/KundenProjekte/ZPUE/enzian-talend/kundenproduktgruppen/src/main/java/de/gema/zpue/migration/anspruchsbasen/kundenproduktgruppen/logic/AnspruchsbasenUpdateService.java" />
       <jump line="340" column="109" filename="C:/KundenProjekte/ZPUE/enzian-talend/kundenproduktgruppen/src/main/java/de/gema/zpue/migration/anspruchsbasen/kundenproduktgruppen/logic/AnspruchsbasenUpdateService.java" />
       <jump line="64" column="21" filename="C:/KundenProjekte/ZPUE/enzian-talend/kundenproduktgruppen/src/main/java/de/gema/zpue/migration/anspruchsbasen/kundenproduktgruppen/logic/AnspruchsbasenUpdateService.java" />
@@ -391,10 +390,11 @@
       <jump line="41" column="0" filename="C:/Projekte/Kotlin/src/de/strasser/peter/kotlin/inheritance/Printer.kt" />
       <jump line="44" column="26" filename="C:/Projekte/Kotlin/src/de/strasser/peter/kotlin/inheritance/Printer.kt" />
       <jump line="29" column="61" filename="C:/Projekte/Kotlin/src/de/strasser/peter/kotlin/inheritance/Printer.kt" />
+      <jump line="3" column="3" filename="C:/Projekte/Kotlin/src/de/strasser/peter/kotlin/inheritance/Interface.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">b3BlbiA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHZhbCBudW1iZXI0OiBJbnQK</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -408,7 +408,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">b3BlbiA=</text>
+        <text>My</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">IA==</text>
@@ -417,7 +417,7 @@
         <text>\'This Printers model is $modelName\'</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aGVoZWhlaGVoZWhlaGUK</text>
+        <text encoding="base64">ICAgIHZhbCBudW1iZXI0OiBJbnQK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -443,13 +443,13 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">aGVoZWhlaGVoZWhlaGUK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -474,16 +474,16 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKSAvL1RvIGNoYW5nZSBib2R5IG9mIGNyZWF0ZWQgZnVuY3Rpb25zIHVzZSBGaWxlIHwgU2V0dGluZ3MgfCBGaWxlIFRlbXBsYXRlcy4K</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKSAvL1RvIGNoYW5nZSBib2R5IG9mIGNyZWF0ZWQgZnVuY3Rpb25zIHVzZSBGaWxlIHwgU2V0dGluZ3MgfCBGaWxlIFRlbXBsYXRlcy4K</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
