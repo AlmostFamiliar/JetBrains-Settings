@@ -200,12 +200,8 @@
         <mark key="." line="29" column="32" />
         <mark key="^" line="29" column="41" />
       </file>
-      <file name="C:/KundenProjekte/ZPUE/enzian/service.anspruchsgenerierung/src/main/java/de/gema/zpue/anspruchsgenerierung/logic/AnspruchsGenerierungsService.java" timestamp="1558101489604">
-        <mark key="'" line="118" column="6" />
-        <mark key="[" line="125" column="52" />
-        <mark key="]" line="125" column="51" />
-        <mark key="^" line="125" column="51" />
-        <mark key="." line="125" column="51" />
+      <file name="C:/KundenProjekte/ZPUE/enzian/service.anspruchsgenerierung/src/main/java/de/gema/zpue/anspruchsgenerierung/logic/AnspruchsGenerierungsService.java" timestamp="1558352582302">
+        <mark key="^" line="185" column="6" />
       </file>
       <file name="C:/KundenProjekte/ZPUE/enzian-talend/TalendHelperJars/kundenEnaioIds/src/main/java/zpue/rest/EnaioRestClient.java" timestamp="1557736652930">
         <mark key="[" line="9" column="66" />
@@ -362,8 +358,8 @@
       <jump line="29" column="19" filename="C:/Projekte/Kotlin/src/de/strasser/peter/kotlin/javacode/DummyClass.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -412,13 +408,13 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cHVibGljIGNsYXNzIHRlc3Qgewp9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y2xhc3MgdGVzdCB7CiAgICBwcml2YXRlIFN0cmluZyBob3VzZTsKICAgIHByaXZhdGUgU3RyaW5nIGdhcmRlbjsKICAgIHByaXZhdGUgU3RyaW5nIGdhcmFnZTsKCiAgICBwdWJsaWMgU3RyaW5nIGdldEhvdXNlKCkgewogICAgICAgIHJldHVybiBob3VzZTsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBzZXRIb3VzZShTdHJpbmcgaG91c2UpIHsKICAgICAgICB0aGlzLmhvdXNlID0gaG91c2U7CiAgICB9CgogICAgcHVibGljIFN0cmluZyBnZXRHYXJkZW4oKSB7CiAgICAgICAgcmV0dXJuIGdhcmRlbjsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBzZXRHYXJkZW4oU3RyaW5nIGdhcmRlbikgewogICAgICAgIHRoaXMuZ2FyZGVuID0gZ2FyZGVuOwogICAgfQoKICAgIHB1YmxpYyBTdHJpbmcgZ2V0R2FyYWdlKCkgewogICAgICAgIHJldHVybiBnYXJhZ2U7CiAgICB9CgogICAgcHVibGljIHZvaWQgc2V0R2FyYWdlKFN0cmluZyBnYXJhZ2UpIHsKICAgICAgICB0aGlzLmdhcmFnZSA9IGdhcmFnZTsKICAgIH0KfQo=</text>
+        <text encoding="base64">cHVibGljIGNsYXNzIHRlc3Qgewp9Cg==</text>
       </register>
-      <register name="4" type="8">
-        <text encoding="base64">IAogCiA=</text>
+      <register name="4" type="2">
+        <text encoding="base64">Y2xhc3MgdGVzdCB7CiAgICBwcml2YXRlIFN0cmluZyBob3VzZTsKICAgIHByaXZhdGUgU3RyaW5nIGdhcmRlbjsKICAgIHByaXZhdGUgU3RyaW5nIGdhcmFnZTsKCiAgICBwdWJsaWMgU3RyaW5nIGdldEhvdXNlKCkgewogICAgICAgIHJldHVybiBob3VzZTsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBzZXRIb3VzZShTdHJpbmcgaG91c2UpIHsKICAgICAgICB0aGlzLmhvdXNlID0gaG91c2U7CiAgICB9CgogICAgcHVibGljIFN0cmluZyBnZXRHYXJkZW4oKSB7CiAgICAgICAgcmV0dXJuIGdhcmRlbjsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBzZXRHYXJkZW4oU3RyaW5nIGdhcmRlbikgewogICAgICAgIHRoaXMuZ2FyZGVuID0gZ2FyZGVuOwogICAgfQoKICAgIHB1YmxpYyBTdHJpbmcgZ2V0R2FyYWdlKCkgewogICAgICAgIHJldHVybiBnYXJhZ2U7CiAgICB9CgogICAgcHVibGljIHZvaWQgc2V0R2FyYWdlKFN0cmluZyBnYXJhZ2UpIHsKICAgICAgICB0aGlzLmdhcmFnZSA9IGdhcmFnZTsKICAgIH0KfQo=</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -442,20 +438,20 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">aGVoZWhlaGVoZWhlaGVoZWggbXkgZHVkZSB3aGF0IGNoYSBkb2luIAo=</text>
+      <register name="5" type="8">
+        <text encoding="base64">IAogCiA=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">aGVoZWhlaGVoZWhlaGVoZWggbXkgZHVkZSB3aGF0IGNoYSBkb2luIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aGVoZWhlaGVoZWhlaGVoZWggbXkgZHVkZSB3aGF0IGNoYSBkb2luIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHZhciBmaXJzdE5hbWU6IFN0cmluZyA9IGZpcnN0TmFtZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgICAgICBmb3IgKGludCBudW1iZXIgOiBudW1iZXJzKSB7CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihudW1iZXIpOwogICAgICAgIH0=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIHZhciBmaXJzdE5hbWU6IFN0cmluZyA9IGZpcnN0TmFtZQo=</text>
       </register>
       <register name=":" type="4">
         <text>action KJumpAction</text>
