@@ -176,12 +176,13 @@
       <file name="C:/KundenProjekte/ZPUE/enzian-talend/kundenproduktgruppen/src/test/java/CSVParserTest.java" timestamp="1557998893405">
         <mark key="'" line="65" column="0" />
       </file>
-      <file name="C:/Projekte/Kotlin/src/de/strasser/peter/kotlin/hehe/HelloWorld.kt" timestamp="1558370126208">
-        <mark key="'" line="33" column="34" />
-        <mark key="[" line="33" column="33" />
-        <mark key="]" line="34" column="14" />
-        <mark key="." line="34" column="14" />
-        <mark key="^" line="34" column="14" />
+      <file name="C:/Projekte/Kotlin/src/de/strasser/peter/kotlin/hehe/HelloWorld.kt" timestamp="1558370459159">
+        <mark key="t" line="46" column="33" />
+        <mark key="'" line="47" column="14" />
+        <mark key="[" line="15" column="34" />
+        <mark key="]" line="15" column="36" />
+        <mark key="." line="15" column="36" />
+        <mark key="^" line="15" column="36" />
       </file>
       <file name="C:/Projekte/Kotlin/src/de/strasser/peter/kotlin/javacode/DummyClass.java" timestamp="1558368751927">
         <mark key="'" line="15" column="8" />
@@ -258,8 +259,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="25" filename="D:/Projekte/angular/authentication-final/authentication-final/src/app/recipes/recipe.module.ts" />
-      <jump line="16" column="24" filename="D:/Projekte/angular/authentication-final/authentication-final/src/app/recipes/recipe.module.ts" />
       <jump line="32" column="25" filename="D:/Projekte/angular/authentication-final/authentication-final/src/app/recipes/recipe.module.ts" />
       <jump line="23" column="36" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/data/output/EnaioAuskunft.java" />
       <jump line="15" column="30" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/data/output/EnaioAuskunft.java" />
@@ -358,10 +357,12 @@
       <jump line="0" column="0" filename="C:/Projekte/Kotlin/src/de/strasser/peter/kotlin/hehe/HelloWorld.kt" />
       <jump line="33" column="34" filename="C:/Projekte/Kotlin/src/de/strasser/peter/kotlin/hehe/HelloWorld.kt" />
       <jump line="1" column="0" filename="C:/Projekte/Kotlin/src/de/strasser/peter/kotlin/hehe/HelloWorld.kt" />
+      <jump line="34" column="14" filename="C:/Projekte/Kotlin/src/de/strasser/peter/kotlin/hehe/HelloWorld.kt" />
+      <jump line="35" column="14" filename="C:/Projekte/Kotlin/src/de/strasser/peter/kotlin/hehe/HelloWorld.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text />
+        <text>str</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -375,13 +376,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>str</text>
       </register>
       <register name="/" type="4">
         <text>start</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZnVuIGZ1bmMoYXJnMTogSW50LCBhcmcyOiBJbnQsIGxhYmVsOiBTdHJpbmcpID0gIiRsYWJlbCAke2FyZzEgKiBhcmcyfSIK</text>
+        <text encoding="base64">ICAgIHZhbCBjYXIxID0gQ2FyKCJibHVlIiwgIkF1ZGkiLCAxMjM0KQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">fQo=</text>
