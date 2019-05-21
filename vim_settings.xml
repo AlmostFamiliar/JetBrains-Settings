@@ -141,7 +141,7 @@
         <mark key="." line="52" column="20" />
         <mark key="^" line="52" column="20" />
       </file>
-      <file name="C:/Projekte/Kotlin/src/de/strasser/peter/kotlin/inheritance/Printer.kt" timestamp="1558384659119">
+      <file name="C:/Projekte/Kotlin/src/de/strasser/peter/kotlin/inheritance/Printer.kt" timestamp="1558422752938">
         <mark key="'" line="29" column="61" />
         <mark key="[" line="36" column="4" />
         <mark key="]" line="36" column="32" />
@@ -183,11 +183,12 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="C:/Projekte/Kotlin/src/de/strasser/peter/kotlin/inheritance/Interface.kt" timestamp="1558384742650">
+      <file name="C:/Projekte/Kotlin/src/de/strasser/peter/kotlin/inheritance/Interface.kt" timestamp="1558422619533">
         <mark key="'" line="8" column="3" />
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+        <mark key="[" line="28" column="71" />
+        <mark key="]" line="28" column="70" />
+        <mark key="." line="28" column="70" />
+        <mark key="^" line="28" column="70" />
       </file>
       <file name="C:/KundenProjekte/ZPUE/enzian-talend/kundenproduktgruppen/src/main/java/de/gema/zpue/migration/anspruchsbasen/kundenproduktgruppen/communication/EnaioCommunicationService.java" timestamp="1558010244449">
         <mark key="[" line="57" column="227" />
@@ -205,13 +206,13 @@
         <mark key="." line="0" column="11" />
         <mark key="^" line="0" column="11" />
       </file>
-      <file name="C:/Projekte/Kotlin/src/de/strasser/peter/kotlin/hehe/HelloWorld.kt" timestamp="1558382037728">
-        <mark key="t" line="55" column="33" />
-        <mark key="'" line="35" column="21" />
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="^" line="18" column="3" />
-        <mark key="." line="17" column="0" />
+      <file name="C:/Projekte/Kotlin/src/de/strasser/peter/kotlin/hehe/HelloWorld.kt" timestamp="1558422652760">
+        <mark key="t" line="42" column="33" />
+        <mark key="'" line="22" column="21" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="5" column="3" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="C:/Projekte/Kotlin/src/de/strasser/peter/kotlin/javacode/DummyClass.java" timestamp="1558368751927">
         <mark key="'" line="15" column="8" />
@@ -265,11 +266,11 @@
         <mark key="." line="14" column="31" />
         <mark key="^" line="14" column="31" />
       </file>
-      <file name="C:/Projekte/Kotlin/src/de/strasser/peter/kotlin/different/Utils.kt" timestamp="1558372171904">
-        <mark key="[" line="4" column="53" />
-        <mark key="]" line="4" column="53" />
-        <mark key="." line="4" column="53" />
-        <mark key="^" line="3" column="18" />
+      <file name="C:/Projekte/Kotlin/src/de/strasser/peter/kotlin/different/Utils.kt" timestamp="1558422756489">
+        <mark key="[" line="11" column="33" />
+        <mark key="]" line="12" column="25" />
+        <mark key="." line="12" column="25" />
+        <mark key="^" line="12" column="25" />
       </file>
       <file name="C:/KundenProjekte/ZPUE/enzian-talend/TalendHelperJars/kundenEnaioIds/src/main/java/zpue/Kunden.java" timestamp="1557497089490">
         <mark key="[" line="24" column="45" />
@@ -394,7 +395,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHZhbCBudW1iZXI0OiBJbnQK</text>
+        <text encoding="base64">ICAgIHZhbCBjYXIxID0gQ2FyKCJibHVlIiwgIkF1ZGkiLCAxMjM0KQogICAgdmFsIGNhcjIgPSBDYXIoInllbGxvdyIsICJBdWRpIiwgMTIzNCkKICAgIHZhbCBjYXIzID0gQ2FyKCJyZWQiLCAiQXVkaSIsIDEyMzQpCiAgICB2YWwgY2FyNCA9IENhcigicmVkIiwgIkJNVyIsIDEyMzQpCiAgICB2YWwgbWFueUNhcnMgPSBhcnJheU9mKGNhcjEsIGNhcjIsIGNhcjMpCgogICAgcHJpbnRDb2xvcnMoKm1hbnlDYXJzKQogICAgcHJpbnRsbigiLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tIikKCiAgICB2YWwgbW9yZUNhcnMgPSBhcnJheU9mKGNhcjIsIGNhcjMpCiAgICB2YWwgYWxsVGhlQ2FycyA9IGFycmF5T2YoKm1hbnlDYXJzLCAqbW9yZUNhcnMsIGNhcjQpCgogICAgcHJpbnRDb2xvcnMoKmFsbFRoZUNhcnMpCg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -408,16 +409,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>My</text>
+        <text>car</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">IA==</text>
       </register>
-      <register name="0" type="4">
-        <text>\'This Printers model is $modelName\'</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHByaW50bG4oY2FyKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHZhbCBudW1iZXI0OiBJbnQK</text>
+        <text encoding="base64">ICAgIHZhbCBjYXIxID0gQ2FyKCJibHVlIiwgIkF1ZGkiLCAxMjM0KQogICAgdmFsIGNhcjIgPSBDYXIoInllbGxvdyIsICJBdWRpIiwgMTIzNCkKICAgIHZhbCBjYXIzID0gQ2FyKCJyZWQiLCAiQXVkaSIsIDEyMzQpCiAgICB2YWwgY2FyNCA9IENhcigicmVkIiwgIkJNVyIsIDEyMzQpCiAgICB2YWwgbWFueUNhcnMgPSBhcnJheU9mKGNhcjEsIGNhcjIsIGNhcjMpCgogICAgcHJpbnRDb2xvcnMoKm1hbnlDYXJzKQogICAgcHJpbnRsbigiLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tIikKCiAgICB2YWwgbW9yZUNhcnMgPSBhcnJheU9mKGNhcjIsIGNhcjMpCiAgICB2YWwgYWxsVGhlQ2FycyA9IGFycmF5T2YoKm1hbnlDYXJzLCAqbW9yZUNhcnMsIGNhcjQpCgogICAgcHJpbnRDb2xvcnMoKmFsbFRoZUNhcnMpCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -443,13 +444,13 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aGVoZWhlaGVoZWhlaGUK</text>
+        <text encoding="base64">ICAgIGRDYXIoIkF1ZGkiLCAiQmx1ZSIsIDIwMTUpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHZhbCBudW1iZXI0OiBJbnQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">aGVoZWhlaGVoZWhlaGUK</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -474,19 +475,19 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKSAvL1RvIGNoYW5nZSBib2R5IG9mIGNyZWF0ZWQgZnVuY3Rpb25zIHVzZSBGaWxlIHwgU2V0dGluZ3MgfCBGaWxlIFRlbXBsYXRlcy4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>action KJumpAction</text>
