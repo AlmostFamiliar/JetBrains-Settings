@@ -9,7 +9,7 @@
         <mark key="." line="14" column="12" />
         <mark key="^" line="14" column="12" />
       </file>
-      <file name="C:/KundenProjekte/ZPUE/enzian-talend/finalisiererechnungen/src/main/java/de/gema/zpue/finalize/rest/EnaioRestClient.java" timestamp="1558547411702">
+      <file name="C:/KundenProjekte/ZPUE/enzian-talend/finalisiererechnungen/src/main/java/de/gema/zpue/finalize/rest/EnaioRestClient.java" timestamp="1558598632564">
         <mark key="t" line="53" column="68" />
         <mark key="'" line="53" column="70" />
         <mark key="[" line="17" column="34" />
@@ -38,13 +38,13 @@
         <mark key="^" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="C:/KundenProjekte/ZPUE/enzian-talend/finalisiererechnungen/src/main/java/de/gema/zpue/finalize/logic/Flow.java" timestamp="1558547254794">
-        <mark key="t" line="76" column="56" />
-        <mark key="'" line="76" column="15" />
-        <mark key="[" line="74" column="18" />
-        <mark key="]" line="74" column="28" />
-        <mark key="." line="74" column="18" />
-        <mark key="^" line="21" column="10" />
+      <file name="C:/KundenProjekte/ZPUE/enzian-talend/finalisiererechnungen/src/main/java/de/gema/zpue/finalize/logic/Flow.java" timestamp="1558600422522">
+        <mark key="t" line="70" column="56" />
+        <mark key="'" line="70" column="15" />
+        <mark key="[" line="62" column="29" />
+        <mark key="]" line="62" column="28" />
+        <mark key="." line="62" column="28" />
+        <mark key="^" line="62" column="28" />
       </file>
       <file name="C:/Projekte/Kotlin Koans/Introduction/Default arguments/src/Task.kt" timestamp="1557928230039">
         <mark key="[" line="0" column="36" />
@@ -412,7 +412,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>e</text>
+        <text>j</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -426,16 +426,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>j</text>
       </register>
       <register name="/" type="4">
         <text>definal</text>
       </register>
-      <register name="0" type="4">
-        <text>counterStr</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gKGkgJiA4KSA9PSAwID8gIj8oXiA/IF4/KSIgOiAiICAoP14gPyBeKT8iOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIGludCBkd3dhZHdhID0gMjUxOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -460,14 +460,14 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
-        <text>●</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oOCArICIiKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgdGhyb3cgbmV3IFJlc3RDbGllbnRFeGNlcHRpb24ocmVzcG9uc2UuZ2V0KSAK</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oMGIxMDAwICsgIiIpOwo=</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -492,19 +492,19 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAwMDAwMDAwMDAxMDEwMTAxMDEwMTAxCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAwMDAwMDAwMDAwMDAwMDAwMDAwMDAxCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAwMDAwMDAwMDAwMDAwMDAwMDAwMDAxCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICAgICAgICAgIDAwMDAwMDAwMDAxMDAxMDAxMDEKICAgICAgICAgICAgICAgIDAwMDAwMDAwMDAwMDAwMDAwMDEK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZy5lcnJvcihyZXNwb25zZS5nZXRTdGF0dXNUZXh0KCkgKyAiICIgKyByZXNwb25zZS5nZXRCb2R5KCkudG9TdHJpbmcoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBmaW5hbCBpbmR0IERBTkNFX0ZBS1RPUiA9IChpIDw8IDMpICYgMTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZpbmFsIGJvb2xlYW4gaXNHYXRld2F5VGltZW91dCA9IHJlc3BvbnNlLmdldFN0YXR1c0NvZGUoKSA9PSBIdHRwU3RhdHVzLkdBVEVXQVlfVElNRU9VVDsK</text>
+        <text encoding="base64">ICAgICAgICBmaW5hbCBTdHJpbmcgY291bnRlclN0ciA9IFN0cmluZy52YWx1ZU9mKGkpOwogICAgICAgIGZpbmFsIFN0cmluZyBkYU1vdmVzID0gY291bnRlclN0ci5sZW5ndGgoKSA+PSBEQU5DRV9TUEVFRAogICAgICAgICAgICAgICAgPyBjb3VudGVyU3RyLnN1YnN0cmluZyhjb3VudGVyU3RyLmxlbmd0aCgpIC0gREFOQ0VfU1BFRUQpCiAgICAgICAgICAgICAgICA6IGNvdW50ZXJTdHI7Cgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZpbmFsIGJvb2xlYW4gaXNSZXF1ZXN0VGltZW91dCA9IHJlc3BvbnNlLmdldFN0YXR1c0NvZGUoKSA9PSBIdHRwU3RhdHVzLlJFUVVFU1RfVElNRU9VVDsKICAgICAgICAgICAgICAgIHJldHVybiBpc0dhdGV3YXlUaW1lb3V0IHx8IGlzUmVxdWVzdFRpbWVvdXQ7Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIGludCBkd3dhZHdhID0gMjUxOwo=</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
