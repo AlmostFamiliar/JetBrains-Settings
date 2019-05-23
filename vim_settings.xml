@@ -21,7 +21,7 @@
         <mark key="." line="65" column="7" />
         <mark key="^" line="65" column="7" />
       </file>
-      <file name="/a.dummy" timestamp="1558622375674">
+      <file name="/a.dummy" timestamp="1558626186233">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -81,13 +81,13 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="C:/KundenProjekte/ZPUE/enzian-talend/GsvtMitgliedschaften/src/main/java/de/gema/adesso/gsvtmitgliedschaften/logic/GsvtMapping.java" timestamp="1558622594637">
-        <mark key="t" line="88" column="64" />
-        <mark key="'" line="89" column="31" />
-        <mark key="[" line="88" column="64" />
-        <mark key="]" line="89" column="31" />
-        <mark key="^" line="89" column="31" />
-        <mark key="." line="89" column="31" />
+      <file name="C:/KundenProjekte/ZPUE/enzian-talend/GsvtMitgliedschaften/src/main/java/de/gema/adesso/gsvtmitgliedschaften/logic/GsvtMapping.java" timestamp="1558626251985">
+        <mark key="t" line="87" column="37" />
+        <mark key="'" line="88" column="31" />
+        <mark key="[" line="87" column="37" />
+        <mark key="]" line="88" column="31" />
+        <mark key="^" line="88" column="31" />
+        <mark key="." line="88" column="31" />
       </file>
       <file name="C:/KundenProjekte/ZPUE/enzian-talend/kundenproduktgruppen/src/main/java/de/gema/zpue/migration/anspruchsbasen/kundenproduktgruppen/config/RequestResponseLoggingInterceptor.java" timestamp="1558007149212">
         <mark key="'" line="41" column="12" />
@@ -124,6 +124,14 @@
         <mark key="]" line="65" column="7" />
         <mark key="^" line="65" column="7" />
         <mark key="." line="65" column="7" />
+      </file>
+      <file name="C:/KundenProjekte/ZPUE/enzian-talend/GsvtMitgliedschaften/src/main/java/de/gema/adesso/gsvtmitgliedschaften/logic/GsvtMitgliedschaften.java" timestamp="1558626222401">
+        <mark key="t" line="12" column="4" />
+        <mark key="'" line="13" column="3" />
+        <mark key="[" line="12" column="4" />
+        <mark key="]" line="13" column="3" />
+        <mark key="." line="13" column="3" />
+        <mark key="^" line="13" column="3" />
       </file>
       <file name="C:/Projekte/Kotlin/src/de/strasser/peter/kotlin/inheritance/main.kt" timestamp="1558383214967">
         <mark key="[" line="2" column="0" />
@@ -179,10 +187,6 @@
         <mark key="." line="12" column="25" />
         <mark key="^" line="12" column="25" />
       </file>
-      <file name="C:/KundenProjekte/ZPUE/enzian/service.kundendatenvalidierung/src/main/java/de/gema/zpue/kundendatenvalidierung/model/AdresseDTO.java" timestamp="1558542549253">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="21" column="18" />
-      </file>
       <file name="C:/KundenProjekte/ZPUE/enzian-talend/TalendHelperJars/kundenEnaioIds/src/main/java/zpue/Kunden.java" timestamp="1557497089490">
         <mark key="[" line="24" column="45" />
         <mark key="]" line="24" column="58" />
@@ -229,7 +233,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="C:/KundenProjekte/ZPUE/enzian-talend/GsvtMitgliedschaften/src/main/java/de/gema/adesso/gsvtmitgliedschaften/logic/GsvtMitgliedschaftFactory.java" timestamp="1558622680468" />
+      <file name="C:/KundenProjekte/ZPUE/enzian-talend/GsvtMitgliedschaften/src/main/java/de/gema/adesso/gsvtmitgliedschaften/logic/GsvtMitgliedschaftFactory.java" timestamp="1558625199750" />
       <file name="$USER_HOME$/IdeaProjects/dennis/src/rover/Move.java" timestamp="1555679224461">
         <mark key="[" line="6" column="91" />
         <mark key="]" line="6" column="92" />
@@ -279,22 +283,18 @@
         <mark key="." line="9" column="65" />
         <mark key="^" line="9" column="65" />
       </file>
-      <file name="C:/KundenProjekte/ZPUE/enzian/service.externalinput/src/main/java/de/gema/zpue/externalinput/communicationlayer/CommunicationService.java" timestamp="1558542397408">
-        <mark key="[" line="129" column="0" />
-        <mark key="]" line="135" column="14" />
-      </file>
       <file name="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/data/JoinFactory.java" timestamp="1555514968428">
         <mark key="[" line="2" column="4" />
         <mark key="]" line="3" column="4" />
         <mark key="^" line="3" column="4" />
         <mark key="." line="3" column="4" />
       </file>
-      <file name="C:/KundenProjekte/ZPUE/enzian-talend/GsvtMitgliedschaften/src/main/java/de/gema/adesso/gsvtmitgliedschaften/model/GsvtMitgliedschaft.java" timestamp="1558621563735">
+      <file name="C:/KundenProjekte/ZPUE/enzian-talend/GsvtMitgliedschaften/src/main/java/de/gema/adesso/gsvtmitgliedschaften/model/GsvtMitgliedschaft.java" timestamp="1558625911255">
         <mark key="'" line="11" column="0" />
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
-        <mark key="^" line="15" column="0" />
+        <mark key="[" line="19" column="22" />
+        <mark key="]" line="19" column="23" />
+        <mark key="." line="19" column="23" />
+        <mark key="^" line="19" column="23" />
       </file>
       <file name="C:/KundenProjekte/ZPUE/enzian-talend/GsvtMitgliedschaften/src/main/java/de/gema/adesso/gsvtmitgliedschaften/logic/GsvtMitgliedschaft.java" timestamp="1558602927458">
         <mark key="[" line="11" column="4" />
@@ -325,10 +325,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="40" column="19" filename="C:/KundenProjekte/ZPUE/enzian-talend/finalisiererechnungen/src/main/java/de/gema/zpue/finalize/rest/EnaioRestClient.java" />
-      <jump line="54" column="53" filename="C:/KundenProjekte/ZPUE/enzian-talend/finalisiererechnungen/src/main/java/de/gema/zpue/finalize/logic/Flow.java" />
-      <jump line="55" column="53" filename="C:/KundenProjekte/ZPUE/enzian-talend/finalisiererechnungen/src/main/java/de/gema/zpue/finalize/logic/Flow.java" />
-      <jump line="67" column="19" filename="C:/KundenProjekte/ZPUE/enzian-talend/finalisiererechnungen/src/main/java/de/gema/zpue/finalize/logic/Flow.java" />
       <jump line="68" column="19" filename="C:/KundenProjekte/ZPUE/enzian-talend/finalisiererechnungen/src/main/java/de/gema/zpue/finalize/logic/Flow.java" />
       <jump line="53" column="70" filename="C:/KundenProjekte/ZPUE/enzian-talend/finalisiererechnungen/src/main/java/de/gema/zpue/finalize/rest/EnaioRestClient.java" />
       <jump line="63" column="32" filename="C:/KundenProjekte/ZPUE/enzian-talend/finalisiererechnungen/src/main/java/de/gema/zpue/finalize/logic/Flow.java" />
@@ -422,13 +418,17 @@
       <jump line="71" column="0" filename="C:/KundenProjekte/ZPUE/enzian-talend/GsvtMitgliedschaften/src/main/java/de/gema/adesso/gsvtmitgliedschaften/logic/GsvtMapping.java" />
       <jump line="77" column="0" filename="C:/KundenProjekte/ZPUE/enzian-talend/GsvtMitgliedschaften/src/main/java/de/gema/adesso/gsvtmitgliedschaften/logic/GsvtMapping.java" />
       <jump line="82" column="0" filename="C:/KundenProjekte/ZPUE/enzian-talend/GsvtMitgliedschaften/src/main/java/de/gema/adesso/gsvtmitgliedschaften/logic/GsvtMapping.java" />
+      <jump line="89" column="31" filename="C:/KundenProjekte/ZPUE/enzian-talend/GsvtMitgliedschaften/src/main/java/de/gema/adesso/gsvtmitgliedschaften/logic/GsvtMapping.java" />
+      <jump line="84" column="66" filename="C:/KundenProjekte/ZPUE/enzian-talend/GsvtMitgliedschaften/src/main/java/de/gema/adesso/gsvtmitgliedschaften/logic/GsvtMapping.java" />
+      <jump line="13" column="3" filename="C:/KundenProjekte/ZPUE/enzian-talend/GsvtMitgliedschaften/src/main/java/de/gema/adesso/gsvtmitgliedschaften/logic/GsvtMitgliedschaften.java" />
+      <jump line="85" column="23" filename="C:/KundenProjekte/ZPUE/enzian-talend/GsvtMitgliedschaften/src/main/java/de/gema/adesso/gsvtmitgliedschaften/logic/GsvtMapping.java" />
       <jump line="86" column="31" filename="C:/KundenProjekte/ZPUE/enzian-talend/GsvtMitgliedschaften/src/main/java/de/gema/adesso/gsvtmitgliedschaften/logic/GsvtMapping.java" />
       <jump line="87" column="31" filename="C:/KundenProjekte/ZPUE/enzian-talend/GsvtMitgliedschaften/src/main/java/de/gema/adesso/gsvtmitgliedschaften/logic/GsvtMapping.java" />
-      <jump line="89" column="31" filename="C:/KundenProjekte/ZPUE/enzian-talend/GsvtMitgliedschaften/src/main/java/de/gema/adesso/gsvtmitgliedschaften/logic/GsvtMapping.java" />
+      <jump line="88" column="31" filename="C:/KundenProjekte/ZPUE/enzian-talend/GsvtMitgliedschaften/src/main/java/de/gema/adesso/gsvtmitgliedschaften/logic/GsvtMapping.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBHc3Z0TWl0Z2xpZWRzY2hhZnQgY3JlYXRlR3N2dE1pdGdsaWVkc2NoYWZ0KFpwdWVHc3Z0TWl0Z2xpZWRzY2hhZnQgenB1ZUdzdnRNaXRnbGllZHNjaGFmdCwgR3N2dCBnc3Z0LCBMaXN0PEdlc2FtdHZlcnRyYWdzdW50ZXJsYWdlPiBwYXNzZW5kZUdlc2FtdHZlcnRyYWdzdW50ZXJsYWdlKSB7CiAgICAgICAgZmluYWwgR3N2dE1pdGdsaWVkc2NoYWZ0IGdzdnRNaXRnbGllZHNjaGFmdCA9IG5ldyBHc3Z0TWl0Z2xpZWRzY2hhZnQoKTsKICAgICAgICBmaW5hbCBTdHJpbmdbXSBiZWl0cmFnSWRzID0gbmV3IFN0cmluZ1twYXNzZW5kZUdlc2FtdHZlcnRyYWdzdW50ZXJsYWdlLnNpemUoKV07CiAgICAgICAgZm9yIChpbnQgaSA9IDA7IGkgPCBiZWl0cmFnSWRzLmxlbmd0aDsgaSsrKSB7CiAgICAgICAgICAgIGJlaXRyYWdJZHNbaV0gPSBwYXNzZW5kZUdlc2FtdHZlcnRyYWdzdW50ZXJsYWdlLmdldChpKS5nZXRJZCgpOwogICAgICAgIH0KICAgICAgICAvL0dTVlQgTWl0Z2xpZWRzY2hhZnQgZXJ6ZXVnZW4KICAgICAgICBmaW5hbCBHc3Z0TWl0Z2xpZWRzY2hhZnQuR3N2dE1pdGdsaWVkc2NoYWZ0RGF0YSBnc3Z0TWl0Z2xpZWRzY2hhZnREYXRhID0gbmV3IEdzdnRNaXRnbGllZHNjaGFmdC5Hc3Z0TWl0Z2xpZWRzY2hhZnREYXRhKCk7CiAgICAgICAgZ3N2dE1pdGdsaWVkc2NoYWZ0RGF0YS5zZXRBdXN0cml0dHNkYXR1bSh6cHVlR3N2dE1pdGdsaWVkc2NoYWZ0LmdldExBVUZaRUlUX1ZPTl9EVCgpKTsKICAgICAgICBnc3Z0TWl0Z2xpZWRzY2hhZnREYXRhLnNldEJlaXRyaXR0c2RhdHVtKHpwdWVHc3Z0TWl0Z2xpZWRzY2hhZnQuZ2V0TEFVRlpFSVRfQklTX0RUKCkpOwogICAgICAgIGdzdnRNaXRnbGllZHNjaGFmdERhdGEuc2V0R3N2dChnc3Z0LmdldElkKCkpOwogICAgICAgIGdzdnRNaXRnbGllZHNjaGFmdERhdGEuc2V0R2VzYW10dmVydHJhZ3N1bnRlcmxhZ2VuKGJlaXRyYWdJZHMpOwogICAgICAgIGdzdnRNaXRnbGllZHNjaGFmdERhdGEuc2V0UHJvZHVrdG9iZXJncnVwcGUoZ3N2dC5nZXREYXRhKCkuZ2V0UG9nKCkpOwogICAgICAgIGdzdnRNaXRnbGllZHNjaGFmdC5zZXREYXRhKGdzdnRNaXRnbGllZHNjaGFmdERhdGEpOwogICAgICAgIHJldHVybiBnc3Z0TWl0Z2xpZWRzY2hhZnQ7CiAgICB9Cg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -447,11 +447,11 @@
       <register name="/" type="4">
         <text>private</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">cGFja2FnZSBkZS5nZW1hLmFkZXNzby5nc3Z0bWl0Z2xpZWRzY2hhZnRlbi5tb2RlbDsKCmltcG9ydCBjb20uZmFzdGVyeG1sLmphY2tzb24uYW5ub3RhdGlvbi5Kc29uSWdub3JlUHJvcGVydGllczsKaW1wb3J0IGNvbS5mYXN0ZXJ4bWwuamFja3Nvbi5kYXRhYmluZC5hbm5vdGF0aW9uLkpzb25EZXNlcmlhbGl6ZTsKaW1wb3J0IGNvbS5mYXN0ZXJ4bWwuamFja3Nvbi5kYXRhYmluZC5hbm5vdGF0aW9uLkpzb25TZXJpYWxpemU7CmltcG9ydCBjb20uZmFzdGVyeG1sLmphY2tzb24uZGF0YXR5cGUuanNyMzEwLmRlc2VyLkxvY2FsRGF0ZURlc2VyaWFsaXplcjsKaW1wb3J0IGNvbS5mYXN0ZXJ4bWwuamFja3Nvbi5kYXRhdHlwZS5qc3IzMTAuc2VyLkxvY2FsRGF0ZVNlcmlhbGl6ZXI7CmltcG9ydCBqYXZhLnRpbWUuTG9jYWxEYXRlOwppbXBvcnQgbG9tYm9rLkRhdGE7CgpARGF0YQpASnNvbklnbm9yZVByb3BlcnRpZXMoaWdub3JlVW5rbm93biA9IHRydWUpCnB1YmxpYyBjbGFzcyBHZXNhbXR2ZXJ0cmFnc3VudGVybGFnZSB7CgogICAgcHJpdmF0ZSBTdHJpbmcgaWQ7CiAgICBwcml2YXRlIEdlc2FtdHZlcnRyYWdzdW50ZXJsYWdlRGF0YSBkYXRhOwoKICAgIEBEYXRhCiAgICBASnNvbklnbm9yZVByb3BlcnRpZXMoaWdub3JlVW5rbm93biA9IHRydWUpCiAgICBwdWJsaWMgc3RhdGljIGNsYXNzIEdlc2FtdHZlcnRyYWdzdW50ZXJsYWdlRGF0YSB7CiAgICAgICAgcHJpdmF0ZSBTdHJpbmcgYmVsZWdkYXR1bTsKICAgICAgICBwcml2YXRlIFN0cmluZyBiZW1lcmt1bmc7CiAgICAgICAgcHJpdmF0ZSBTdHJpbmcgYmVhcmJlaXR1bmdzc3RhdHVzOwoKCiAgICAgICAgQEpzb25EZXNlcmlhbGl6ZSh1c2luZyA9IExvY2FsRGF0ZURlc2VyaWFsaXplci5jbGFzcykKCQlASnNvblNlcmlhbGl6ZSh1c2luZyA9IExvY2FsRGF0ZVNlcmlhbGl6ZXIuY2xhc3MpCiAgICAgICAgcHJpdmF0ZSBMb2NhbERhdGUgdnp2b247CgoJCXByaXZhdGUgU3RyaW5nIGdlc2FtdHZlcnRyYWdzdW50ZXJsYWdlbmFydDsKCQlwcml2YXRlIFN0cmluZyBpZDsKCQlwcml2YXRlIFN0cmluZyByZWZlcmVuemlkOwoJCXByaXZhdGUgU3RyaW5nIHN0YXR1czsKCQlwcml2YXRlIFN0cmluZyBrdW5kZW5udW1tZXI7CgkJcHJpdmF0ZSBTdHJpbmcgcG9nOwoJCXByaXZhdGUgU3RyaW5nIHJlZmRhdGVudWViZXJuYWhtZTsKCQlwcml2YXRlIFN0cmluZyByZWZnZXNhbXR2ZXJ0cmFnOwoJCXByaXZhdGUgU3RyaW5nIGdzdnRuYW1lOwoKCX0KfQo=</text>
+      <register name="0" type="4">
+        <text>beitragIds</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBHc3Z0TWl0Z2xpZWRzY2hhZnQgY3JlYXRlR3N2dE1pdGdsaWVkc2NoYWZ0KFpwdWVHc3Z0TWl0Z2xpZWRzY2hhZnQgenB1ZUdzdnRNaXRnbGllZHNjaGFmdCwgR3N2dCBnc3Z0LCBMaXN0PEdlc2FtdHZlcnRyYWdzdW50ZXJsYWdlPiBwYXNzZW5kZUdlc2FtdHZlcnRyYWdzdW50ZXJsYWdlKSB7CiAgICAgICAgZmluYWwgR3N2dE1pdGdsaWVkc2NoYWZ0IGdzdnRNaXRnbGllZHNjaGFmdCA9IG5ldyBHc3Z0TWl0Z2xpZWRzY2hhZnQoKTsKICAgICAgICBmaW5hbCBTdHJpbmdbXSBiZWl0cmFnSWRzID0gbmV3IFN0cmluZ1twYXNzZW5kZUdlc2FtdHZlcnRyYWdzdW50ZXJsYWdlLnNpemUoKV07CiAgICAgICAgZm9yIChpbnQgaSA9IDA7IGkgPCBiZWl0cmFnSWRzLmxlbmd0aDsgaSsrKSB7CiAgICAgICAgICAgIGJlaXRyYWdJZHNbaV0gPSBwYXNzZW5kZUdlc2FtdHZlcnRyYWdzdW50ZXJsYWdlLmdldChpKS5nZXRJZCgpOwogICAgICAgIH0KICAgICAgICAvL0dTVlQgTWl0Z2xpZWRzY2hhZnQgZXJ6ZXVnZW4KICAgICAgICBmaW5hbCBHc3Z0TWl0Z2xpZWRzY2hhZnQuR3N2dE1pdGdsaWVkc2NoYWZ0RGF0YSBnc3Z0TWl0Z2xpZWRzY2hhZnREYXRhID0gbmV3IEdzdnRNaXRnbGllZHNjaGFmdC5Hc3Z0TWl0Z2xpZWRzY2hhZnREYXRhKCk7CiAgICAgICAgZ3N2dE1pdGdsaWVkc2NoYWZ0RGF0YS5zZXRBdXN0cml0dHNkYXR1bSh6cHVlR3N2dE1pdGdsaWVkc2NoYWZ0LmdldExBVUZaRUlUX1ZPTl9EVCgpKTsKICAgICAgICBnc3Z0TWl0Z2xpZWRzY2hhZnREYXRhLnNldEJlaXRyaXR0c2RhdHVtKHpwdWVHc3Z0TWl0Z2xpZWRzY2hhZnQuZ2V0TEFVRlpFSVRfQklTX0RUKCkpOwogICAgICAgIGdzdnRNaXRnbGllZHNjaGFmdERhdGEuc2V0R3N2dChnc3Z0LmdldElkKCkpOwogICAgICAgIGdzdnRNaXRnbGllZHNjaGFmdERhdGEuc2V0R2VzYW10dmVydHJhZ3N1bnRlcmxhZ2VuKGJlaXRyYWdJZHMpOwogICAgICAgIGdzdnRNaXRnbGllZHNjaGFmdERhdGEuc2V0UHJvZHVrdG9iZXJncnVwcGUoZ3N2dC5nZXREYXRhKCkuZ2V0UG9nKCkpOwogICAgICAgIGdzdnRNaXRnbGllZHNjaGFmdC5zZXREYXRhKGdzdnRNaXRnbGllZHNjaGFmdERhdGEpOwogICAgICAgIHJldHVybiBnc3Z0TWl0Z2xpZWRzY2hhZnQ7CiAgICB9Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -480,7 +480,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -507,8 +507,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
