@@ -161,6 +161,12 @@
         <mark key="^" line="15" column="23" />
         <mark key="." line="15" column="24" />
       </file>
+      <file name="C:/KundenProjekte/ZPUE/enzian/service.validierung/src/main/java/de/gema/zpue/validierung/api/ValidierungController.java" timestamp="1558711110661">
+        <mark key="[" line="95" column="127" />
+        <mark key="]" line="95" column="6" />
+        <mark key="^" line="95" column="6" />
+        <mark key="." line="95" column="6" />
+      </file>
       <file name="D:/Projekte/angular/authentication-final/authentication-final/src/app/recipes/recipes-routing.module.ts" timestamp="1557081390156">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="25" />
@@ -304,6 +310,7 @@
         <mark key="." line="23" column="49" />
         <mark key="^" line="23" column="49" />
       </file>
+      <file name="C:/KundenProjekte/ZPUE/enzian/service.validierung/src/main/java/de/gema/zpue/validierung/logic/AnspruchsgrundlagenanlagenService.java" timestamp="1558710471796" />
       <file name="C:/KundenProjekte/ZPUE/enzian-talend/GsvtMitgliedschaften/src/main/java/de/gema/adesso/gsvtmitgliedschaften/logic/GsvtMitgliedschaft.java" timestamp="1558602927458">
         <mark key="[" line="11" column="4" />
         <mark key="]" line="11" column="9" />
