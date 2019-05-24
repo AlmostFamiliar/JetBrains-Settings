@@ -69,7 +69,6 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="6" column="33" />
       </file>
-      <file name="C:/KundenProjekte/ZPUE/enzian-talend/GsvtMitgliedschaften/src/main/java/de/gema/adesso/gsvtmitgliedschaften/model/Anspruchsbasis.java" timestamp="1558602592452" />
       <file name="C:/KundenProjekte/ZPUE/enzian-talend/GsvtMitgliedschaften/src/main/java/de/gema/adesso/gsvtmitgliedschaften/input/CsvParser.java" timestamp="1558628703552">
         <mark key="[" line="33" column="81" />
         <mark key="]" line="33" column="86" />
@@ -223,7 +222,6 @@
         <mark key="." line="2" column="13" />
         <mark key="^" line="1" column="0" />
       </file>
-      <file name="C:/KundenProjekte/ZPUE/enzian-talend/GsvtMitgliedschaften/src/main/java/de/gema/adesso/gsvtmitgliedschaften/logic/GsvtMitgliedschaftFactory.java" timestamp="1558625199750" />
       <file name="$USER_HOME$/IdeaProjects/dennis/src/rover/Move.java" timestamp="1555679224461">
         <mark key="[" line="6" column="91" />
         <mark key="]" line="6" column="92" />
@@ -280,7 +278,6 @@
         <mark key="[" line="58" column="0" />
         <mark key="]" line="58" column="51" />
       </file>
-      <file name="/GsvtMapping.java" timestamp="1558603434245" />
       <file name="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/pom.xml" timestamp="1555589515150">
         <mark key="[" line="29" column="32" />
         <mark key="]" line="29" column="32" />
@@ -312,13 +309,13 @@
         <mark key="^" line="11" column="9" />
         <mark key="." line="11" column="9" />
       </file>
-      <file name="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/mapper/Mapper.java" timestamp="1558617950141">
+      <file name="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/mapper/Mapper.java" timestamp="1558699346906">
         <mark key="t" line="56" column="59" />
-        <mark key="'" line="57" column="27" />
-        <mark key="[" line="53" column="86" />
-        <mark key="]" line="54" column="11" />
+        <mark key="'" line="75" column="58" />
+        <mark key="[" line="41" column="25" />
+        <mark key="]" line="41" column="25" />
         <mark key="^" line="54" column="11" />
-        <mark key="." line="54" column="11" />
+        <mark key="." line="41" column="25" />
       </file>
       <file name="C:/KundenProjekte/ZPUE/enzian-talend/GsvtMitgliedschaften/src/main/java/de/gema/adesso/gsvtmitgliedschaften/logic/AnspruchUtils.java" timestamp="1558603368717">
         <mark key="'" line="158" column="0" />
@@ -335,7 +332,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="178" column="0" filename="C:/KundenProjekte/ZPUE/enzian-talend/GsvtMitgliedschaften/src/main/java/de/gema/adesso/gsvtmitgliedschaften/logic/GsvtMapping.java" />
       <jump line="183" column="0" filename="C:/KundenProjekte/ZPUE/enzian-talend/GsvtMitgliedschaften/src/main/java/de/gema/adesso/gsvtmitgliedschaften/logic/GsvtMapping.java" />
       <jump line="194" column="0" filename="C:/KundenProjekte/ZPUE/enzian-talend/GsvtMitgliedschaften/src/main/java/de/gema/adesso/gsvtmitgliedschaften/logic/GsvtMapping.java" />
       <jump line="204" column="0" filename="C:/KundenProjekte/ZPUE/enzian-talend/GsvtMitgliedschaften/src/main/java/de/gema/adesso/gsvtmitgliedschaften/logic/GsvtMapping.java" />
@@ -435,10 +431,11 @@
       <jump line="156" column="54" filename="C:/KundenProjekte/ZPUE/enzian-talend/GsvtMitgliedschaften/src/main/java/de/gema/adesso/gsvtmitgliedschaften/rest/EnaioRestClient.java" />
       <jump line="94" column="23" filename="C:/KundenProjekte/ZPUE/enzian-talend/GsvtMitgliedschaften/src/main/java/de/gema/adesso/gsvtmitgliedschaften/logic/GsvtMapping.java" />
       <jump line="149" column="13" filename="C:/KundenProjekte/ZPUE/enzian-talend/GsvtMitgliedschaften/src/main/java/de/gema/adesso/gsvtmitgliedschaften/rest/EnaioRestClient.java" />
+      <jump line="75" column="58" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/mapper/Mapper.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>&quot;&quot;</text>
+        <text encoding="base64">bmljaHQg</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -452,10 +449,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>&quot;&quot;</text>
+        <text encoding="base64">bmljaHQg</text>
       </register>
       <register name="/" type="4">
-        <text>private</text>
+        <text>status</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">I2hvc3Q6IGh0dHA6Ly9lbmFpb2RtczQwMDIuZW50d2lja2x1bmdnZW1hLmxvY2FsOjgwODAK</text>
@@ -537,17 +534,16 @@
       </register>
     </registers>
     <search>
-      <last-search>private</last-search>
+      <last-search>status</last-search>
       <last-offset />
-      <last-pattern>private</last-pattern>
+      <last-pattern>status</last-pattern>
       <last-replace>public</last-replace>
       <last-substitute>private</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>kundennum</entry>
         <entry>map</entry>
         <entry>1</entry>
         <entry>A</entry>
@@ -567,6 +563,7 @@
         <entry>definal</entry>
         <entry>{</entry>
         <entry>private</entry>
+        <entry>status</entry>
       </history-search>
       <history-cmd>
         <entry>qw</entry>
