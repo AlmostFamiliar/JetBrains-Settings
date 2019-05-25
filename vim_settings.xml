@@ -65,7 +65,7 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="6" column="33" />
       </file>
-      <file name="C:/KundenProjekte/ZPUE/enzian-talend/GsvtMitgliedschaften/src/main/java/de/gema/adesso/gsvtmitgliedschaften/input/CsvParser.java" timestamp="1558808773218">
+      <file name="C:/KundenProjekte/ZPUE/enzian-talend/GsvtMitgliedschaften/src/main/java/de/gema/adesso/gsvtmitgliedschaften/input/CsvParser.java" timestamp="1558813573921">
         <mark key="[" line="32" column="8" />
         <mark key="]" line="32" column="8" />
         <mark key="^" line="32" column="13" />
@@ -132,13 +132,13 @@
         <mark key="." line="28" column="70" />
         <mark key="^" line="28" column="70" />
       </file>
-      <file name="C:/KundenProjekte/ZPUE/enzian-talend/rechnungencontentcopy/src/main/java/de/adesso/zpue/rechnungencontentcopy/logic/CopyContentService.java" timestamp="1558783343460">
+      <file name="C:/KundenProjekte/ZPUE/enzian-talend/rechnungencontentcopy/src/main/java/de/adesso/zpue/rechnungencontentcopy/logic/CopyContentService.java" timestamp="1558813701337">
         <mark key="t" line="103" column="28" />
-        <mark key="'" line="328" column="62" />
-        <mark key="[" line="113" column="50" />
-        <mark key="]" line="114" column="11" />
-        <mark key="." line="114" column="11" />
-        <mark key="^" line="114" column="11" />
+        <mark key="'" line="327" column="62" />
+        <mark key="[" line="136" column="60" />
+        <mark key="]" line="136" column="60" />
+        <mark key="." line="136" column="60" />
+        <mark key="^" line="133" column="42" />
       </file>
       <file name="C:/Projekte/Kotlin Koans/Introduction/Hello, world!/src/Task.kt" timestamp="1557925215418">
         <mark key="[" line="0" column="11" />
@@ -447,7 +447,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ZmluYWwg</text>
+        <text>y</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -461,7 +461,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZmluYWwg</text>
+        <text>y</text>
       </register>
       <register name="/" type="4">
         <text>TODO</text>
@@ -469,8 +469,8 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIHByaW50bG4oImxvb2thdGRpc215ZHVkZXMiLnVwcGVyRmlyc3RBbmRMYXN0KCkpCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4oImxvb2thdGRpc215ZHVkZXMiLnVwcGVyRmlyc3RBbmRMYXN0KCkpCg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJTaXplIGJlZm9yZSByZW1vdmluZyBlbGVtZW50cyBvZiBHVVQtTWFwOiAiICsgZmFrdHVyYW51bW1lcm5HVVRfTWFwLnNpemUoKSk7</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -496,13 +496,13 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICAgICAgbG9nLmluZm8oInBhc3NlbmRlIEdTVlQgVW50ZXJsYWdlbjogIiArIHBhc3NlbmRlR2VzYW10dmVydHJhZ3N1bnRlcmxhZ2UudG9TdHJpbmcoKSk7Ly8gVE9ETyByZW1vdmUgdGhpcwo=</text>
+        <text encoding="base64">ICAgIHByaW50bG4oImxvb2thdGRpc215ZHVkZXMiLnVwcGVyRmlyc3RBbmRMYXN0KCkpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cuaW5mbygiZ2VuZXJpZXJ0ZSBHc3Z0IFVudGVybGFnZTogIiArIGdzdnRNaXRnbGllZHNjaGFmdC50b1N0cmluZygpKTsvLyBUT0RPIHJlbW92ZSB0aGlzCg==</text>
+        <text encoding="base64">CiAgICAgICAgbG9nLmluZm8oInBhc3NlbmRlIEdTVlQgVW50ZXJsYWdlbjogIiArIHBhc3NlbmRlR2VzYW10dmVydHJhZ3N1bnRlcmxhZ2UudG9TdHJpbmcoKSk7Ly8gVE9ETyByZW1vdmUgdGhpcwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBsb2cuaW5mbygiZ2VuZXJpZXJ0ZSBHc3Z0IFVudGVybGFnZTogIiArIGdzdnRNaXRnbGllZHNjaGFmdC50b1N0cmluZygpKTsvLyBUT0RPIHJlbW92ZSB0aGlzCg==</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -527,10 +527,10 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IGJlaXRyYWdJZHMubGVuZ3RoOyBpKyspIHsKICAgICAgICAgICAgYmVpdHJhZ0lkc1tpXSA9IHBhc3NlbmRlR2VzYW10dmVydHJhZ3N1bnRlcmxhZ2UuZ2V0KGkpLmdldElkKCk7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IGJlaXRyYWdJZHMubGVuZ3RoOyBpKyspIHsKICAgICAgICAgICAgYmVpdHJhZ0lkc1tpXSA9IHBhc3NlbmRlR2VzYW10dmVydHJhZ3N1bnRlcmxhZ2UuZ2V0KGkpLmdldElkKCk7CiAgICAgICAgfQo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -539,7 +539,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cuaW5mbygiR1NWVCBNaXRnbGllZHNjaGFmdCB7fSBhbmdlbGVndCEiLCBnc3Z0TWl0Z2xpZWRzY2hhZnQpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action KJumpAction</text>
