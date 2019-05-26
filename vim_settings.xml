@@ -117,6 +117,13 @@
         <mark key="^" line="65" column="7" />
         <mark key="." line="65" column="7" />
       </file>
+      <file name="C:/KundenProjekte/ZPUE/enzian-talend/sonstigedatenuebernahmen/src/main/java/de/adesso/zpue/sonstigedatenuebernahmen/rest/EnaioRestClient.java" timestamp="1558856303448">
+        <mark key="'" line="63" column="73" />
+        <mark key="[" line="86" column="16" />
+        <mark key="]" line="86" column="19" />
+        <mark key="^" line="86" column="19" />
+        <mark key="." line="86" column="19" />
+      </file>
       <file name="C:/KundenProjekte/ZPUE/enzian-talend/GsvtMitgliedschaften/src/main/java/de/gema/adesso/gsvtmitgliedschaften/logic/GsvtMitgliedschaften.java" timestamp="1558795867262">
         <mark key="t" line="45" column="38" />
         <mark key="'" line="58" column="4" />
@@ -344,8 +351,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="0" filename="C:/KundenProjekte/ZPUE/enzian-talend/GsvtMitgliedschaften/src/main/java/de/gema/adesso/gsvtmitgliedschaften/model/GsvtMitgliedschaft.java" />
-      <jump line="4" column="0" filename="C:/KundenProjekte/ZPUE/enzian-talend/GsvtMitgliedschaften/src/main/java/de/gema/adesso/gsvtmitgliedschaften/model/GsvtMitgliedschaft.java" />
       <jump line="8" column="0" filename="C:/KundenProjekte/ZPUE/enzian-talend/GsvtMitgliedschaften/src/main/java/de/gema/adesso/gsvtmitgliedschaften/model/GsvtMitgliedschaft.java" />
       <jump line="11" column="0" filename="C:/KundenProjekte/ZPUE/enzian-talend/GsvtMitgliedschaften/src/main/java/de/gema/adesso/gsvtmitgliedschaften/model/GsvtMitgliedschaft.java" />
       <jump line="53" column="27" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/mapper/Mapper.java" />
@@ -444,10 +449,12 @@
       <jump line="183" column="23" filename="C:/KundenProjekte/ZPUE/enzian-talend/GsvtMitgliedschaften/src/main/java/de/gema/adesso/gsvtmitgliedschaften/logic/GsvtMapping.java" />
       <jump line="185" column="23" filename="C:/KundenProjekte/ZPUE/enzian-talend/GsvtMitgliedschaften/src/main/java/de/gema/adesso/gsvtmitgliedschaften/logic/GsvtMapping.java" />
       <jump line="187" column="23" filename="C:/KundenProjekte/ZPUE/enzian-talend/GsvtMitgliedschaften/src/main/java/de/gema/adesso/gsvtmitgliedschaften/logic/GsvtMapping.java" />
+      <jump line="63" column="73" filename="C:/KundenProjekte/ZPUE/enzian-talend/sonstigedatenuebernahmen/src/main/java/de/adesso/zpue/sonstigedatenuebernahmen/rest/EnaioRestClient.java" />
+      <jump line="33" column="0" filename="C:/KundenProjekte/ZPUE/enzian-talend/sonstigedatenuebernahmen/src/main/java/de/adesso/zpue/sonstigedatenuebernahmen/rest/EnaioRestClient.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>y</text>
+        <text>error</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -461,13 +468,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>y</text>
+        <text>error</text>
       </register>
       <register name="/" type="4">
         <text>TODO</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4oImxvb2thdGRpc215ZHVkZXMiLnVwcGVyRmlyc3RBbmRMYXN0KCkpCg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">ZmlsZW5hbWUuZW5kc1dpdGgoIi5wbmciKSA=</text>
       </register>
       <register name="1" type="4">
         <text encoding="base64">CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJTaXplIGJlZm9yZSByZW1vdmluZyBlbGVtZW50cyBvZiBHVVQtTWFwOiAiICsgZmFrdHVyYW51bW1lcm5HVVRfTWFwLnNpemUoKSk7</text>
