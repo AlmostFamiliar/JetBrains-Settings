@@ -64,11 +64,11 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="6" column="33" />
       </file>
-      <file name="C:/KundenProjekte/ZPUE/enzian-talend/GsvtMitgliedschaften/src/main/java/de/gema/adesso/gsvtmitgliedschaften/input/CsvParser.java" timestamp="1558944961239">
+      <file name="C:/KundenProjekte/ZPUE/enzian-talend/GsvtMitgliedschaften/src/main/java/de/gema/adesso/gsvtmitgliedschaften/input/CsvParser.java" timestamp="1558947598617">
         <mark key="[" line="33" column="81" />
-        <mark key="]" line="33" column="86" />
+        <mark key="]" line="33" column="81" />
         <mark key="^" line="33" column="86" />
-        <mark key="." line="33" column="86" />
+        <mark key="." line="33" column="81" />
       </file>
       <file name="C:/KundenProjekte/ZPUE/enzian-talend/GsvtMitgliedschaften/src/main/java/de/gema/adesso/gsvtmitgliedschaften/logic/GsvtMapping.java" timestamp="1558944272894">
         <mark key="t" line="186" column="50" />
@@ -450,7 +450,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>().</text>
+        <text>n</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -464,7 +464,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>().</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
         <text>TODO</text>
