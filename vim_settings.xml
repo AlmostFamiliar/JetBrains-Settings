@@ -99,6 +99,12 @@
         <mark key="." line="1" column="2" />
         <mark key="^" line="1" column="2" />
       </file>
+      <file name="C:/KundenProjekte/ZPUE/TmpEnzianTalend/auskunftssplit/src/main/resources/application-local.properties" timestamp="1558982616440">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="1" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/logic/Flow.java" timestamp="1558962995566">
         <mark key="'" line="64" column="45" />
         <mark key="[" line="69" column="20" />
@@ -112,11 +118,13 @@
         <mark key="." line="7" column="3" />
         <mark key="^" line="7" column="3" />
       </file>
-      <file name="C:/KundenProjekte/ZPUE/TmpEnzianTalend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/logic/Flow.java" timestamp="1558979846042">
-        <mark key="[" line="64" column="66" />
-        <mark key="]" line="65" column="7" />
-        <mark key="^" line="65" column="7" />
-        <mark key="." line="65" column="7" />
+      <file name="C:/KundenProjekte/ZPUE/TmpEnzianTalend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/logic/Flow.java" timestamp="1558983118177">
+        <mark key="t" line="97" column="64" />
+        <mark key="'" line="97" column="66" />
+        <mark key="[" line="112" column="50" />
+        <mark key="]" line="112" column="50" />
+        <mark key="^" line="112" column="50" />
+        <mark key="." line="112" column="50" />
       </file>
       <file name="C:/Projekte/Kotlin/src/de/strasser/peter/kotlin/inheritance/Printer.kt" timestamp="1558423938482">
         <mark key="'" line="29" column="61" />
@@ -363,7 +371,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="75" column="31" filename="C:/KundenProjekte/ZPUE/enzian-talend/GsvtMitgliedschaften/src/main/java/de/gema/adesso/gsvtmitgliedschaften/logic/GsvtMapping.java" />
       <jump line="12" column="47" filename="C:/KundenProjekte/ZPUE/enzian-talend/GsvtMitgliedschaften/src/main/java/de/gema/adesso/gsvtmitgliedschaften/logic/GsvtMapping.java" />
       <jump line="13" column="0" filename="C:/KundenProjekte/ZPUE/enzian-talend/GsvtMitgliedschaften/src/main/java/de/gema/adesso/gsvtmitgliedschaften/logic/GsvtMapping.java" />
       <jump line="17" column="0" filename="C:/KundenProjekte/ZPUE/enzian-talend/GsvtMitgliedschaften/src/main/java/de/gema/adesso/gsvtmitgliedschaften/logic/GsvtMapping.java" />
@@ -463,10 +470,11 @@
       <jump line="64" column="45" filename="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/logic/Flow.java" />
       <jump line="22" column="7" filename="C:/KundenProjekte/ZPUE/TmpEnzianTalend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/data/tables/PogMap.java" />
       <jump line="24" column="72" filename="C:/KundenProjekte/ZPUE/TmpEnzianTalend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/data/tables/PogMap.java" />
+      <jump line="91" column="66" filename="C:/KundenProjekte/ZPUE/TmpEnzianTalend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/logic/Flow.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CiAgICAgICAgVW50ZXJoYWx0dW5nc2VsZWt0cm9uaWsKICAgICAgICA7VW50ZXJoYWx0dW5nc2VsZWt0cm9uaWsKICAgICAgICA7VW50ZXJoYWx0dW5nc2VsZWt0cm9uaWsK</text>
+      <register name="&quot;" type="4">
+        <text>#</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -480,18 +488,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>STB und TV-Geräte ohne HDD</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
         <text>TODO</text>
       </register>
-      <register name="0" type="4">
-        <text>this.put(&quot;Bildaufzeichnungsgeräte&quot;,&quot;Unterhaltungselektronik&quot;);
-        this.put(&quot;Tonaufzeichnungsgeräte&quot;,&quot;Unterhaltungselektronik&quot;);
-        this.put(&quot;STB und TV-Geräte ohne HDD&quot;,&quot;Unterhaltungselektronik&quot;)</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChhdXNrdW5mdC5nZXRJbmZvU3BsaXROdW1iZXIoKS5lcXVhbHMoIiIpKSB7CiAgICAgICAgICAgICAgICAgICAgbG9nLnRyYWNlKCJJTkZPX1NQTElUX05VTUJFUiBsZWVyLiBTa2lwIFJvdy4iKTsKICAgICAgICAgICAgICAgICAgICBjb250aW51ZTsKICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICAgICAgVW50ZXJoYWx0dW5nc2VsZWt0cm9uaWsKICAgICAgICA7VW50ZXJoYWx0dW5nc2VsZWt0cm9uaWsKICAgICAgICA7VW50ZXJoYWx0dW5nc2VsZWt0cm9uaWsK</text>
+        <text encoding="base64">ICAgICAgICBpbnQgY291bnRlciA9IDA7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -517,13 +523,13 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb3VudGVyKys7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICoge0NhdGVnb3J5fSBVc2VyIERlZmluZWQKICAgICAqLwo=</text>
+        <text encoding="base64">CiAgICAgICAgVW50ZXJoYWx0dW5nc2VsZWt0cm9uaWsKICAgICAgICA7VW50ZXJoYWx0dW5nc2VsZWt0cm9uaWsKICAgICAgICA7VW50ZXJoYWx0dW5nc2VsZWt0cm9uaWsK</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJTaXplIGJlZm9yZSByZW1vdmluZyBlbGVtZW50cyBvZiBHVVQtTWFwOiAiICsgZmFrdHVyYW51bW1lcm5HVVRfTWFwLnNpemUoKSk7</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -548,19 +554,19 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4oImxvb2thdGRpc215ZHVkZXMiLnVwcGVyRmlyc3RBbmRMYXN0KCkpCg==</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICoge0NhdGVnb3J5fSBVc2VyIERlZmluZWQKICAgICAqLwo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">CiAgICAgICAgbG9nLmluZm8oInBhc3NlbmRlIEdTVlQgVW50ZXJsYWdlbjogIiArIHBhc3NlbmRlR2VzYW10dmVydHJhZ3N1bnRlcmxhZ2UudG9TdHJpbmcoKSk7Ly8gVE9ETyByZW1vdmUgdGhpcwo=</text>
+      <register name="6" type="4">
+        <text encoding="base64">CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJTaXplIGJlZm9yZSByZW1vdmluZyBlbGVtZW50cyBvZiBHVVQtTWFwOiAiICsgZmFrdHVyYW51bW1lcm5HVVRfTWFwLnNpemUoKSk7</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cuaW5mbygiZ2VuZXJpZXJ0ZSBHc3Z0IFVudGVybGFnZTogIiArIGdzdnRNaXRnbGllZHNjaGFmdC50b1N0cmluZygpKTsvLyBUT0RPIHJlbW92ZSB0aGlzCg==</text>
+        <text encoding="base64">ICAgIHByaW50bG4oImxvb2thdGRpc215ZHVkZXMiLnVwcGVyRmlyc3RBbmRMYXN0KCkpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICAgICAgbG9nLmluZm8oInBhc3NlbmRlIEdTVlQgVW50ZXJsYWdlbjogIiArIHBhc3NlbmRlR2VzYW10dmVydHJhZ3N1bnRlcmxhZ2UudG9TdHJpbmcoKSk7Ly8gVE9ETyByZW1vdmUgdGhpcwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IGJlaXRyYWdJZHMubGVuZ3RoOyBpKyspIHsKICAgICAgICAgICAgYmVpdHJhZ0lkc1tpXSA9IHBhc3NlbmRlR2VzYW10dmVydHJhZ3N1bnRlcmxhZ2UuZ2V0KGkpLmdldElkKCk7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBsb2cuaW5mbygiZ2VuZXJpZXJ0ZSBHc3Z0IFVudGVybGFnZTogIiArIGdzdnRNaXRnbGllZHNjaGFmdC50b1N0cmluZygpKTsvLyBUT0RPIHJlbW92ZSB0aGlzCg==</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
