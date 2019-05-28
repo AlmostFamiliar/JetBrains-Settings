@@ -21,10 +21,10 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="C:/KundenProjekte/ZPUE/TmpEnzianTalend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/rest/EnaioRestClient.java" timestamp="1558988230111">
-        <mark key="[" line="57" column="0" />
-        <mark key="]" line="57" column="0" />
-        <mark key="." line="57" column="0" />
+      <file name="C:/KundenProjekte/ZPUE/TmpEnzianTalend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/rest/EnaioRestClient.java" timestamp="1559026078480">
+        <mark key="[" line="59" column="55" />
+        <mark key="]" line="59" column="55" />
+        <mark key="." line="59" column="55" />
       </file>
       <file name="C:/KundenProjekte/ZPUE/enzian-talend/auskunftssplit/src/main/resources/log4j.properties" timestamp="1555593383721">
         <mark key="[" line="9" column="75" />
@@ -51,7 +51,7 @@
         <mark key="^" line="109" column="40" />
         <mark key="." line="63" column="43" />
       </file>
-      <file name="C:/KundenProjekte/ZPUE/TmpEnzianTalend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/data/tables/PogMap.java" timestamp="1558980100255">
+      <file name="C:/KundenProjekte/ZPUE/TmpEnzianTalend/auskunftssplit/src/main/java/de/gema/zpue/auskunftssplit/data/tables/PogMap.java" timestamp="1559026044700">
         <mark key="t" line="24" column="64" />
         <mark key="'" line="24" column="72" />
         <mark key="[" line="25" column="0" />
@@ -479,7 +479,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>infoSplitNumber</text>
+        <text encoding="base64">XG4g</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -493,7 +493,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>infoSplitNumber</text>
+        <text encoding="base64">XG4g</text>
       </register>
       <register name="/" type="4">
         <text>TODO</text>
